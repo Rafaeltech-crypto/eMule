@@ -19,6 +19,93 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{autodesk_fusion360_features}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=983ea436405fa9ab72f858e1f1b874a7}{%
+           family={Autodesk},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{fullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{bibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorbibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authornamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorfullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \field{extraname}{1}
+      \field{labelalpha}{Aut24}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; abgerufen am 13. November 2024]}
+      \field{title}{Fusion 360 Features}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.autodesk.com/de/products/fusion-360/features
+      \endverb
+      \verb{url}
+      \verb https://www.autodesk.com/de/products/fusion-360/features
+      \endverb
+    \endentry
+    \entry{autodesk_fusion360_lessons}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=983ea436405fa9ab72f858e1f1b874a7}{%
+           family={Autodesk},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{fullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{bibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorbibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authornamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorfullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \field{extraname}{2}
+      \field{labelalpha}{Aut24}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; abgerufen am 13. November 2024]}
+      \field{title}{Fusion 360 Lessons for Beginners}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.autodesk.com/de/support/technical/article/caas/sfdcarticles/sfdcarticles/DEU/Fusion-360-lessons-for-beginners.html
+      \endverb
+      \verb{url}
+      \verb https://www.autodesk.com/de/support/technical/article/caas/sfdcarticles/sfdcarticles/DEU/Fusion-360-lessons-for-beginners.html
+      \endverb
+    \endentry
+    \entry{autodesk_what_is_fusion360}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=983ea436405fa9ab72f858e1f1b874a7}{%
+           family={Autodesk},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{fullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{bibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorbibnamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authornamehash}{983ea436405fa9ab72f858e1f1b874a7}
+      \strng{authorfullhash}{983ea436405fa9ab72f858e1f1b874a7}
+      \field{extraname}{3}
+      \field{labelalpha}{Aut24}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; abgerufen am 13. November 2024]}
+      \field{title}{What is Fusion 360?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.autodesk.com/de/solutions/what-is-fusion-360
+      \endverb
+      \verb{url}
+      \verb https://www.autodesk.com/de/solutions/what-is-fusion-360
+      \endverb
+    \endentry
     \entry{Breiing.1997}{book}{}
       \name{author}{2}{}{%
         {{hash=fc37fec4b38b400a6883d8107e20ce25}{%
@@ -55,6 +142,35 @@
       \verb 10.1007/978-3-642-59229-4
       \endverb
       \keyw{Engineering}
+    \endentry
+    \entry{cideon_fusion360_vorteile}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a7fa44f225df2891abf2a05699c7c52d}{%
+           family={Blog},
+           familyi={B\bibinitperiod},
+           given={CIDEON},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7fa44f225df2891abf2a05699c7c52d}
+      \strng{fullhash}{a7fa44f225df2891abf2a05699c7c52d}
+      \strng{bibnamehash}{a7fa44f225df2891abf2a05699c7c52d}
+      \strng{authorbibnamehash}{a7fa44f225df2891abf2a05699c7c52d}
+      \strng{authornamehash}{a7fa44f225df2891abf2a05699c7c52d}
+      \strng{authorfullhash}{a7fa44f225df2891abf2a05699c7c52d}
+      \field{labelalpha}{Blo24}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; abgerufen am 13. November 2024]}
+      \field{title}{Autodesk Fusion 360: Definition und Vorteile}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.cideon.blog/autodesk-fusion-360-definition-vorteile
+      \endverb
+      \verb{url}
+      \verb https://www.cideon.blog/autodesk-fusion-360-definition-vorteile
+      \endverb
     \endentry
     \entry{Cohn.2010}{book}{}
       \name{author}{1}{}{%
