@@ -1,18 +1,18 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'WissBer_PA_SA_BA.blg'
-[50] biber-darwin:340> INFO - === Fri Oct 11, 2024, 12:07:08
-[60] Biber.pm:419> INFO - Reading 'WissBer_PA_SA_BA.bcf'
-[116] Biber.pm:979> INFO - Found 11 citekeys in bib section 0
-[127] Biber.pm:4419> INFO - Processing section 0
-[134] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
-[136] bibtex.pm:1713> INFO - LaTeX decoding ...
-[139] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur1.bib'
-[175] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur2.bib' for section 0
-[178] bibtex.pm:1713> INFO - LaTeX decoding ...
-[190] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur2.bib'
-[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[230] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[230] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[244] bbl.pm:660> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
-[250] bbl.pm:763> INFO - Output to WissBer_PA_SA_BA.bbl
+[57] biber-darwin:340> INFO - === Wed Nov 13, 2024, 11:16:02
+[70] Biber.pm:418> INFO - Reading 'WissBer_PA_SA_BA.bcf'
+[144] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
+[156] Biber.pm:4383> INFO - Processing section 0
+[165] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
+[166] bibtex.pm:1713> INFO - LaTeX decoding ...
+[172] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur1.bib'
+[219] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur2.bib' for section 0
+[221] bibtex.pm:1713> INFO - LaTeX decoding ...
+[234] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur2.bib'
+[273] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[273] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[273] Biber.pm:4203> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[273] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[289] bbl.pm:654> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
+[295] bbl.pm:757> INFO - Output to WissBer_PA_SA_BA.bbl

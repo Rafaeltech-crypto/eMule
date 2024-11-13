@@ -87,6 +87,35 @@
       \endverb
       \keyw{Agile Softwareentwicklung;Systementwicklung}
     \endentry
+    \entry{wikipedia_autodesk_deutsch}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e2ceeea38f8620383cfbd3e99c5c0cd8}{%
+           family={contributors},
+           familyi={c\bibinitperiod},
+           given={Wikipedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{fullhash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{bibnamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authorbibnamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authornamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authorfullhash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \field{labelalpha}{con24}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; abgerufen am 13. November 2024]}
+      \field{title}{Autodesk -- Wikipedia{,} Die freie Enzyklopädie}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Autodesk
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Autodesk
+      \endverb
+    \endentry
     \entry{DHBW.2021}{misc}{}
       \name{author}{1}{}{%
         {{hash=afbe793b375d768a346960db2d0b0e71}{%
@@ -310,6 +339,64 @@
       \verb https://d-nb.info/1172616485/04
       \endverb
       \keyw{Atomphysik;Elektrodynamik;Experimentalphysik;Mechanik;Moderne Physik;Optik;Physik;Physik für Nebenfächer;Physik für Wissenschaftler und Ingenieure;Physikaufgaben;Quantenmechanik;Thermodynamik;Tipler Lehrbuch;Übungsaufgaben Physik}
+    \endentry
+    \entry{wikipedia_autocad_version_history}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{1}
+      \field{labelalpha}{Wik24}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 11-November-2024]}
+      \field{title}{{AutoCAD version history --- Wikipedia{,} The Free Encyclopedia}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/AutoCAD_version_history
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/AutoCAD_version_history
+      \endverb
+    \endentry
+    \entry{wikipedia_autodesk}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{2}
+      \field{labelalpha}{Wik24}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 11-November-2024]}
+      \field{title}{{Autodesk --- Wikipedia{,} The Free Encyclopedia}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Autodesk
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Autodesk
+      \endverb
     \endentry
     \entry{Wirdemann.2022}{book}{}
       \name{author}{3}{}{%
