@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  13 NOV 2024 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  26 NOV 2024 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1772,13 +1772,7 @@ Underfull \vbox (badness 1107) has occurred while \output is active []
 
 
 
-] (./WissBer_PA_SA_BA.toc
-Overfull \hbox (18.2049pt too wide) in paragraph at lines 13--13
- [][] [][]\T1/cmr/m/n/12 Spezielle Funk-tio-nen zur Er-stel-lung von Schalt-plä
--nen, Be-stückungs- 
- []
-
-[7])
+] (./WissBer_PA_SA_BA.toc [7])
 \tf@toc=\write10
 \openout10 = `WissBer_PA_SA_BA.toc'.
 
@@ -1817,43 +1811,23 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 ]
 chapter 2.
+)
+Runaway argument?
+{Autodesk Fusion 360 \label {Autodesk} Autodesk Fusion 360 ist eine i\ETC.
+! File ended while scanning use of \scr@section@xdblarg.
+<inserted text> 
+                \par 
+l.225 \include{chapter/grundlagen}
+                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 [5]
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[6]
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[8]
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[9]
-Overfull \hbox (16.16936pt too wide) in paragraph at lines 89--90
-\T1/cmr/m/n/12 Fusion 360 ver-fügt über um-fang-rei-che CAM-Funktionalitäten, d
-ie CNC-Programmierung,
- []
-
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[10])
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[11]
 \openout2 = `chapter/vorgehen.aux'.
 
- (./chapter/vorgehen.tex [12
+ (./chapter/vorgehen.tex [6
 
 
 
@@ -1861,16 +1835,16 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 ]
 chapter 3.
-[13])
+[7])
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[14]
+[8]
 \openout2 = `chapter/umsetzung.aux'.
 
  (./chapter/umsetzung.tex
 chapter 4.
-) [15
+) [9
 
 
 
@@ -1879,7 +1853,7 @@ chapter 4.
 ]
 \openout2 = `chapter/zusammenfassung.aux'.
 
- (./chapter/zusammenfassung.tex [16
+ (./chapter/zusammenfassung.tex [10
 
 
 
@@ -1887,7 +1861,7 @@ chapter 4.
 
 ]
 chapter 5.
-) [17] [18
+) [11] [12
 
 
 
@@ -1904,17 +1878,17 @@ Overfull \hbox (2.66513pt too wide) in paragraph at lines 233--233
 2 . [On-li-ne; ab-ge-ru-fen am 13. No-vem-ber 2024].
  []
 
-[19]
+[13]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[20]
+[14]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[21] (./pages/abkuerzungen.tex)
+[15] (./pages/abkuerzungen.tex)
 No file WissBer_PA_SA_BA.nls.
-[22
+[16
 
 
 
@@ -1923,7 +1897,7 @@ No file WissBer_PA_SA_BA.nls.
 \tf@lof=\write11
 \openout11 = `WissBer_PA_SA_BA.lof'.
 
- [23] [24
+ [17] [18
 
 
 
@@ -1931,11 +1905,11 @@ No file WissBer_PA_SA_BA.nls.
 \tf@lot=\write12
 \openout12 = `WissBer_PA_SA_BA.lot'.
 
- [25]
+ [19]
 \openout2 = `chapter/anhang.aux'.
 
 
-(./chapter/anhang.tex [26
+(./chapter/anhang.tex [20
 
 
 
@@ -1947,27 +1921,27 @@ Overfull \hbox (2.2323pt too wide) in paragraph at lines 11--41
  [][] 
  []
 
+[21] [22
+
+
+]
+chapter without number
+[23] [24
+
+
+]
+chapter without number
+[25] [26
+
+
+]
+chapter without number
 [27] [28
 
 
 ]
 chapter without number
-[29] [30
-
-
-]
-chapter without number
-[31] [32
-
-
-]
-chapter without number
-[33] [34
-
-
-]
-chapter without number
-<docs/EingebundenesPDF.pdf, id=402, 597.55246pt x 845.07718pt>
+<docs/EingebundenesPDF.pdf, id=333, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf  used on input line 86.
@@ -1976,7 +1950,7 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf  used on input line 86.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<docs/EingebundenesPDF.pdf, id=405, page=2, 597.55246pt x 845.07718pt>
+<docs/EingebundenesPDF.pdf, id=336, page=2, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 2>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
@@ -1987,7 +1961,7 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[35]
+[29]
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 2>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
@@ -2003,8 +1977,8 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [36 <./docs/EingebundenesPDF.pdf>]
-<docs/EingebundenesPDF.pdf, id=426, page=3, 597.55246pt x 845.07718pt>
+ [30 <./docs/EingebundenesPDF.pdf>]
+<docs/EingebundenesPDF.pdf, id=357, page=3, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 3>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page3 used on input line 8
@@ -2020,8 +1994,8 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page3 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [37 <./docs/EingebundenesPDF.pdf>]
-<docs/EingebundenesPDF.pdf, id=431, page=4, 597.55246pt x 845.07718pt>
+ [31 <./docs/EingebundenesPDF.pdf>]
+<docs/EingebundenesPDF.pdf, id=362, page=4, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 4>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page4 used on input line 8
@@ -2038,12 +2012,12 @@ Package pdftex.def Info: docs/EingebundenesPDF.pdf , page4 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 
-[38 <./docs/EingebundenesPDF.pdf>])
+[32 <./docs/EingebundenesPDF.pdf>])
 \openout2 = `chapter/anhang_vorlagen.aux'.
 
  (./chapter/anhang_vorlagen.tex
 chapter without number
-[39
+[33
 
 
 
@@ -2055,11 +2029,11 @@ chapter without number
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[40]
+[34]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[41
+[35
 
 ]
 Overfull \hbox (18.16301pt too wide) in paragraph at lines 86--87
@@ -2067,7 +2041,7 @@ Overfull \hbox (18.16301pt too wide) in paragraph at lines 86--87
 Gra-fik und kann in L[]T[]X  ein-
  []
 
-<images/MyImage.png, id=458, 195.129pt x 98.2872pt>
+<images/MyImage.png, id=390, 195.129pt x 98.2872pt>
 File: images/MyImage.png Graphic file (type png)
 <use images/MyImage.png>
 Package pdftex.def Info: images/MyImage.png  used on input line 93.
@@ -2076,7 +2050,7 @@ Package pdftex.def Info: images/MyImage.png  used on input line 93.
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[42
+[36
 
  <./images/MyImage.png>]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
@@ -2088,7 +2062,7 @@ Underfull \vbox (badness 1859) has occurred while \output is active []
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[43
+[37
 
 ] (./tikz/tikz_digital.tex
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
@@ -2122,15 +2096,15 @@ PGFPlots: reading {pgfplot/messdaten_mitfehler.dat}
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[44]
+[38]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[45]
+[39]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[46
+[40
 
 ] (./pgfplot/mess_zweiyachsen.tex
 PGFPlots: reading {pgfplot/messdaten_zweiyachsen.dat}
@@ -2139,39 +2113,39 @@ PGFPlots: reading {pgfplot/messdaten_zweiyachsen.dat}
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[47
+[41
 
 ]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[48
+[42
 
 ]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[49]
+[43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[50
+[44
 
 ])
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[51]
+[45]
 No file WissBer_PA_SA_BA.gls.
 No file WissBer_PA_SA_BA.ind.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[52
+[46
 
 
 ] (./WissBer_PA_SA_BA.aux (./pages/titelseite.aux) (./pages/erklaerung.aux)
@@ -2185,23 +2159,29 @@ LaTeX Warning: There were undefined references.
 Package rerunfilecheck Info: File `WissBer_PA_SA_BA.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
-Package biblatex Warning: Please rerun LaTeX.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                WissBer_PA_SA_BA
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'WissBer_PA_SA_BA.run.xml'.
 \openout1 = `WissBer_PA_SA_BA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 61446 strings out of 478268
- 1407950 string characters out of 5846347
- 2541100 words of memory out of 5000000
- 78411 multiletter control sequences out of 15000+600000
+ 61384 strings out of 478268
+ 1406566 string characters out of 5846347
+ 2539755 words of memory out of 5000000
+ 78381 multiletter control sequences out of 15000+600000
  493762 words of font info for 79 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,19n,122p,10647b,2690s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{glo:gls:glossar} has been referenced but does not e
 xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
+, replaced by a fixed one
 
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{
 /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</u
@@ -2232,10 +2212,10 @@ e1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 ublic/cm-super/sfsx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
 c/cm-super/sftt1200.pfb>
-Output written on WissBer_PA_SA_BA.pdf (62 pages, 608296 bytes).
+Output written on WissBer_PA_SA_BA.pdf (56 pages, 591974 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 710 compressed objects within 8 object streams
- 207 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 767 PDF objects out of 1000 (max. 8388607)
+ 628 compressed objects within 7 object streams
+ 175 named destinations out of 1000 (max. 500000)
+ 285 words of extra memory for PDF output out of 10000 (max. 10000000)
 
