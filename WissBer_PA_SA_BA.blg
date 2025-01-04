@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'WissBer_PA_SA_BA.blg'
-[55] biber-darwin:340> INFO - === Wed Nov 13, 2024, 12:58:23
-[67] Biber.pm:418> INFO - Reading 'WissBer_PA_SA_BA.bcf'
-[136] Biber.pm:972> INFO - Found 18 citekeys in bib section 0
-[147] Biber.pm:4383> INFO - Processing section 0
-[155] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
-[156] bibtex.pm:1713> INFO - LaTeX decoding ...
+[54] biber-darwin:340> INFO - === Tue Nov 26, 2024, 22:28:10
+[68] Biber.pm:418> INFO - Reading 'WissBer_PA_SA_BA.bcf'
+[137] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
+[149] Biber.pm:4383> INFO - Processing section 0
+[157] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
+[158] bibtex.pm:1713> INFO - LaTeX decoding ...
 [163] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur1.bib'
-[214] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur2.bib' for section 0
-[215] bibtex.pm:1713> INFO - LaTeX decoding ...
-[228] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur2.bib'
-[268] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[268] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[268] Biber.pm:4203> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[268] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
-[285] bbl.pm:654> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
-[292] bbl.pm:757> INFO - Output to WissBer_PA_SA_BA.bbl
+[207] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur2.bib' for section 0
+[208] bibtex.pm:1713> INFO - LaTeX decoding ...
+[220] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur2.bib'
+[258] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[260] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[260] Biber.pm:4203> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[260] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[276] bbl.pm:654> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
+[282] bbl.pm:757> INFO - Output to WissBer_PA_SA_BA.bbl
