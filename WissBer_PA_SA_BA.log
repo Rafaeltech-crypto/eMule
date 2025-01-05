@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  5 JAN 2025 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  5 JAN 2025 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2075,19 +2075,58 @@ Package pdftex.def Info: circuts/Temperatursteuerung des Ladegerätes v7.pdf ,
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
  [25
 
- <./circuts/Temperatursteuerung des Ladegerätes v7.pdf>])
+ <./circuts/Temperatursteuerung des Ladegerätes v7.pdf>]
+<circuts/HV-Onboard-Netz v4.pdf, id=353, 1195.46625pt x 845.1575pt>
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf  used on input line 30.
+
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf  used on input line 30.
+
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+<circuts/HV-Onboard-Netz v4.pdf, id=356, page=1, 1195.46625pt x 845.1575pt>
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf, page 1>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf , page1 used on input l
+ine 30.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf, page 1>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf , page1 used on input l
+ine 30.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf, page 1>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf , page1 used on input l
+ine 30.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf, page 1>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf , page1 used on input l
+ine 30.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: circuts/HV-Onboard-Netz v4.pdf Graphic file (type pdf)
+<use circuts/HV-Onboard-Netz v4.pdf, page 1>
+Package pdftex.def Info: circuts/HV-Onboard-Netz v4.pdf , page1 used on input l
+ine 30.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+ [27
+
+ <./circuts/HV-Onboard-Netz v4.pdf>])
 \openout2 = `chapter/zusammenfassung.aux'.
 
-
-(./chapter/zusammenfassung.tex
+ (./chapter/zusammenfassung.tex
 chapter 5.
-) [27
+) [29
 
 
 
 
 
-] [28
+] [30
 
 
 
@@ -2098,22 +2137,22 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 33.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [29]
+) [31]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[30] (./pages/abkuerzungen.tex)
+[32] (./pages/abkuerzungen.tex)
 No file WissBer_PA_SA_BA.nls.
 (./WissBer_PA_SA_BA.lof)
 \tf@lof=\write11
 \openout11 = `WissBer_PA_SA_BA.lof'.
 
- [31
+ [33
 
 
 
 
-] [32
+] [34
 
 
 
@@ -2121,11 +2160,11 @@ No file WissBer_PA_SA_BA.nls.
 \tf@lot=\write12
 \openout12 = `WissBer_PA_SA_BA.lot'.
 
- [33]
+ [35]
 \openout2 = `chapter/anhang.aux'.
 
 
-(./chapter/anhang.tex [34
+(./chapter/anhang.tex [36
 
 
 
@@ -2137,11 +2176,6 @@ Overfull \hbox (2.2323pt too wide) in paragraph at lines 11--41
  [][] 
  []
 
-[35] [36
-
-
-]
-chapter without number
 [37] [38
 
 
@@ -2157,7 +2191,12 @@ chapter without number
 
 ]
 chapter without number
-<docs/EingebundenesPDF.pdf, id=461, 597.55246pt x 845.07718pt>
+[43] [44
+
+
+]
+chapter without number
+<docs/EingebundenesPDF.pdf, id=480, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf  used on input line 86.
@@ -2166,7 +2205,7 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf  used on input line 86.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<docs/EingebundenesPDF.pdf, id=464, page=2, 597.55246pt x 845.07718pt>
+<docs/EingebundenesPDF.pdf, id=483, page=2, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 2>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
@@ -2177,7 +2216,7 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[43]
+[45]
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 2>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
@@ -2193,10 +2232,10 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page2 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [44
+ [46
 
  <./docs/EingebundenesPDF.pdf>]
-<docs/EingebundenesPDF.pdf, id=486, page=3, 597.55246pt x 845.07718pt>
+<docs/EingebundenesPDF.pdf, id=504, page=3, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 3>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page3 used on input line 8
@@ -2212,10 +2251,10 @@ File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page3 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [45
+ [47
 
  <./docs/EingebundenesPDF.pdf>]
-<docs/EingebundenesPDF.pdf, id=491, page=4, 597.55246pt x 845.07718pt>
+<docs/EingebundenesPDF.pdf, id=509, page=4, 597.55246pt x 845.07718pt>
 File: docs/EingebundenesPDF.pdf Graphic file (type pdf)
 <use docs/EingebundenesPDF.pdf, page 4>
 Package pdftex.def Info: docs/EingebundenesPDF.pdf , page4 used on input line 8
@@ -2232,14 +2271,14 @@ Package pdftex.def Info: docs/EingebundenesPDF.pdf , page4 used on input line 8
 6.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 
-[46
+[48
 
  <./docs/EingebundenesPDF.pdf>])
 \openout2 = `chapter/anhang_vorlagen.aux'.
 
  (./chapter/anhang_vorlagen.tex
 chapter without number
-[47
+[49
 
 
 
@@ -2251,11 +2290,11 @@ chapter without number
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[48]
+[50]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[49
+[51
 
 ]
 Overfull \hbox (18.16301pt too wide) in paragraph at lines 86--87
@@ -2263,7 +2302,7 @@ Overfull \hbox (18.16301pt too wide) in paragraph at lines 86--87
 Gra-fik und kann in L[]T[]X  ein-
  []
 
-<images/MyImage.png, id=518, 195.129pt x 98.2872pt>
+<images/MyImage.png, id=536, 195.129pt x 98.2872pt>
 File: images/MyImage.png Graphic file (type png)
 <use images/MyImage.png>
 Package pdftex.def Info: images/MyImage.png  used on input line 93.
@@ -2272,7 +2311,7 @@ Package pdftex.def Info: images/MyImage.png  used on input line 93.
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[50
+[52
 
  <./images/MyImage.png>] (./tikz/tikz_house.tex)
 Underfull \vbox (badness 1859) has occurred while \output is active []
@@ -2281,7 +2320,7 @@ Underfull \vbox (badness 1859) has occurred while \output is active []
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[51
+[53
 
 ] (./tikz/tikz_digital.tex
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
@@ -2315,15 +2354,15 @@ PGFPlots: reading {pgfplot/messdaten_mitfehler.dat}
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[52]
+[54]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[53]
+[55]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[54
+[56
 
 ] (./pgfplot/mess_zweiyachsen.tex
 PGFPlots: reading {pgfplot/messdaten_zweiyachsen.dat}
@@ -2332,39 +2371,39 @@ PGFPlots: reading {pgfplot/messdaten_zweiyachsen.dat}
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[55
+[57
 
 ]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[56
+[58
 
 ]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[57]
+[59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[58
+[60
 
 ])
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[59]
+[61]
 No file WissBer_PA_SA_BA.gls.
 No file WissBer_PA_SA_BA.ind.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[60
+[62
 
 
 ] (./WissBer_PA_SA_BA.aux (./pages/titelseite.aux) (./pages/erklaerung.aux)
@@ -2392,10 +2431,10 @@ Package logreq Info: Writing requests to 'WissBer_PA_SA_BA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 61900 strings out of 474116
- 1418222 string characters out of 5743683
- 2640036 words of memory out of 5000000
- 83057 multiletter control sequences out of 15000+600000
+ 61913 strings out of 474116
+ 1418733 string characters out of 5743683
+ 2639142 words of memory out of 5000000
+ 83069 multiletter control sequences out of 15000+600000
  582572 words of font info for 87 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,19n,122p,10947b,2708s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2430,10 +2469,10 @@ pe1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
 1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
 public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
 blic/cm-super/sftt1200.pfb>
-Output written on WissBer_PA_SA_BA.pdf (66 pages, 785979 bytes).
+Output written on WissBer_PA_SA_BA.pdf (67 pages, 805509 bytes).
 PDF statistics:
- 918 PDF objects out of 1000 (max. 8388607)
- 738 compressed objects within 8 object streams
- 209 named destinations out of 1000 (max. 500000)
- 413 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 937 PDF objects out of 1000 (max. 8388607)
+ 749 compressed objects within 8 object streams
+ 210 named destinations out of 1000 (max. 500000)
+ 433 words of extra memory for PDF output out of 10000 (max. 10000000)
 
