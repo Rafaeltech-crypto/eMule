@@ -14,29 +14,29 @@
 \contentsline {subsection}{\numberline {2.2.4}Spezielle Funktionen zur Erstellung von Schaltplänen, Bestückungsplänen und Stromlaufplänen}{11}{subsection.2.2.4}%
 \contentsline {chapter}{\numberline {3}VorgehenTest}{13}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Umsetzung und Ergebnisse}{15}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Zusammenfassung}{17}{chapter.5}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{19}{chapter*.24}%
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{21}{chapter*.25}%
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{23}{chapter*.26}%
-\contentsline {chapter}{\nonumberline A Nutzung von Künstliche Intelligenz basierten Werkzeugen}{25}{chapter*.27}%
-\contentsline {chapter}{\nonumberline B Ergänzungen}{27}{chapter*.29}%
-\contentsline {section}{\numberline {B.1}Details zu bestimmten theoretischen Grundlagen}{27}{section.B.1}%
-\contentsline {section}{\numberline {B.2}Weitere Details, welche im Hauptteil den Lesefluss behindern}{27}{section.B.2}%
-\contentsline {chapter}{\nonumberline C Details zu Laboraufbauten und Messergebnissen}{29}{chapter*.30}%
-\contentsline {section}{\numberline {C.1}Versuchsanordnung}{29}{section.C.1}%
-\contentsline {section}{\numberline {C.2}Liste der verwendeten Messgeräte}{29}{section.C.2}%
-\contentsline {section}{\numberline {C.3}Übersicht der Messergebnisse}{29}{section.C.3}%
-\contentsline {section}{\numberline {C.4}Schaltplan und Bild der Prototypenplatine}{29}{section.C.4}%
-\contentsline {chapter}{\nonumberline D Zusatzinformationen zu verwendeter Software}{31}{chapter*.31}%
-\contentsline {section}{\numberline {D.1}Struktogramm des Programmentwurfs}{31}{section.D.1}%
-\contentsline {section}{\numberline {D.2}Wichtige Teile des Quellcodes}{31}{section.D.2}%
-\contentsline {chapter}{\nonumberline E Datenblätter}{33}{chapter*.32}%
-\contentsline {chapter}{\nonumberline F Tips und Beispiele zu \LaTeX -Befehlen}{37}{chapter*.33}%
-\contentsline {section}{\numberline {F.1}Wichtige \LaTeX -Befehle}{37}{section.F.1}%
-\contentsline {section}{\numberline {F.2}Vorlagen für \LaTeX Umgebungen}{39}{section.F.2}%
-\contentsline {subsection}{\numberline {F.2.1}Listen und Aufzählungen}{39}{subsection.F.2.1}%
-\contentsline {subsection}{\numberline {F.2.2}Bilder und Grafiken}{40}{subsection.F.2.2}%
-\contentsline {subsection}{\numberline {F.2.3}Tabellen}{46}{subsection.F.2.3}%
-\contentsline {subsection}{\numberline {F.2.4}Formeln}{48}{subsection.F.2.4}%
-\protect \contentsline {chapter}{Sachwortverzeichnis}{51}{equation.F.2.6}%
+\contentsline {chapter}{\numberline {5}Zusammenfassung}{19}{chapter.5}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{21}{chapter*.24}%
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{23}{chapter*.25}%
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{25}{chapter*.26}%
+\contentsline {chapter}{\nonumberline A Nutzung von Künstliche Intelligenz basierten Werkzeugen}{27}{chapter*.27}%
+\contentsline {chapter}{\nonumberline B Ergänzungen}{29}{chapter*.29}%
+\contentsline {section}{\numberline {B.1}Details zu bestimmten theoretischen Grundlagen}{29}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Weitere Details, welche im Hauptteil den Lesefluss behindern}{29}{section.B.2}%
+\contentsline {chapter}{\nonumberline C Details zu Laboraufbauten und Messergebnissen}{31}{chapter*.30}%
+\contentsline {section}{\numberline {C.1}Versuchsanordnung}{31}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Liste der verwendeten Messgeräte}{31}{section.C.2}%
+\contentsline {section}{\numberline {C.3}Übersicht der Messergebnisse}{31}{section.C.3}%
+\contentsline {section}{\numberline {C.4}Schaltplan und Bild der Prototypenplatine}{31}{section.C.4}%
+\contentsline {chapter}{\nonumberline D Zusatzinformationen zu verwendeter Software}{33}{chapter*.31}%
+\contentsline {section}{\numberline {D.1}Struktogramm des Programmentwurfs}{33}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Wichtige Teile des Quellcodes}{33}{section.D.2}%
+\contentsline {chapter}{\nonumberline E Datenblätter}{35}{chapter*.32}%
+\contentsline {chapter}{\nonumberline F Tips und Beispiele zu \LaTeX -Befehlen}{39}{chapter*.33}%
+\contentsline {section}{\numberline {F.1}Wichtige \LaTeX -Befehle}{39}{section.F.1}%
+\contentsline {section}{\numberline {F.2}Vorlagen für \LaTeX Umgebungen}{41}{section.F.2}%
+\contentsline {subsection}{\numberline {F.2.1}Listen und Aufzählungen}{41}{subsection.F.2.1}%
+\contentsline {subsection}{\numberline {F.2.2}Bilder und Grafiken}{42}{subsection.F.2.2}%
+\contentsline {subsection}{\numberline {F.2.3}Tabellen}{48}{subsection.F.2.3}%
+\contentsline {subsection}{\numberline {F.2.4}Formeln}{50}{subsection.F.2.4}%
+\protect \contentsline {chapter}{Sachwortverzeichnis}{53}{equation.F.2.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
