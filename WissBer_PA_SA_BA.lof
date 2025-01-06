@@ -6,14 +6,4 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Beispiel für die Einbindung eines Bildes.}}{54}{figure.caption.40}%
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Mit Tikz programmierte Grafik.}}{55}{figure.caption.41}%
-\contentsline {figure}{\numberline {F.3}{\ignorespaces Mit Tikz programmierte Grafik, welche bereits vorgefertigte Bibliotheken für Symbole aus der Digitaltechnik nutzt.}}{56}{figure.caption.42}%
-\contentsline {figure}{\numberline {F.4}{\ignorespaces Diagramm, erstellt mit dem \textit {pgfplot}-Befehlssatz.}}{57}{figure.caption.43}%
-\contentsline {figure}{\numberline {F.5}{\ignorespaces Diagramm mit zwei unterschiedlichen y-Achsen.}}{59}{figure.caption.44}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

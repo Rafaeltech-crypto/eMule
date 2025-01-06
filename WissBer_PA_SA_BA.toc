@@ -19,24 +19,5 @@
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{35}{chapter*.31}%
 \contentsline {chapter}{\nonumberline Tabellenverzeichnis}{37}{chapter*.32}%
 \contentsline {chapter}{\nonumberline A Nutzung von Künstliche Intelligenz basierten Werkzeugen}{39}{chapter*.33}%
-\contentsline {chapter}{\nonumberline B Ergänzungen}{41}{chapter*.35}%
-\contentsline {section}{\numberline {B.1}Details zu bestimmten theoretischen Grundlagen}{41}{section.B.1}%
-\contentsline {section}{\numberline {B.2}Weitere Details, welche im Hauptteil den Lesefluss behindern}{41}{section.B.2}%
-\contentsline {chapter}{\nonumberline C Details zu Laboraufbauten und Messergebnissen}{43}{chapter*.36}%
-\contentsline {section}{\numberline {C.1}Versuchsanordnung}{43}{section.C.1}%
-\contentsline {section}{\numberline {C.2}Liste der verwendeten Messgeräte}{43}{section.C.2}%
-\contentsline {section}{\numberline {C.3}Übersicht der Messergebnisse}{43}{section.C.3}%
-\contentsline {section}{\numberline {C.4}Schaltplan und Bild der Prototypenplatine}{43}{section.C.4}%
-\contentsline {chapter}{\nonumberline D Zusatzinformationen zu verwendeter Software}{45}{chapter*.37}%
-\contentsline {section}{\numberline {D.1}Struktogramm des Programmentwurfs}{45}{section.D.1}%
-\contentsline {section}{\numberline {D.2}Wichtige Teile des Quellcodes}{45}{section.D.2}%
-\contentsline {chapter}{\nonumberline E Datenblätter}{47}{chapter*.38}%
-\contentsline {chapter}{\nonumberline F Tips und Beispiele zu \LaTeX -Befehlen}{51}{chapter*.39}%
-\contentsline {section}{\numberline {F.1}Wichtige \LaTeX -Befehle}{51}{section.F.1}%
-\contentsline {section}{\numberline {F.2}Vorlagen für \LaTeX Umgebungen}{53}{section.F.2}%
-\contentsline {subsection}{\numberline {F.2.1}Listen und Aufzählungen}{53}{subsection.F.2.1}%
-\contentsline {subsection}{\numberline {F.2.2}Bilder und Grafiken}{54}{subsection.F.2.2}%
-\contentsline {subsection}{\numberline {F.2.3}Tabellen}{60}{subsection.F.2.3}%
-\contentsline {subsection}{\numberline {F.2.4}Formeln}{62}{subsection.F.2.4}%
-\protect \contentsline {chapter}{Sachwortverzeichnis}{65}{equation.F.2.6}%
+\protect \contentsline {chapter}{Sachwortverzeichnis}{41}{table.caption.34}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
