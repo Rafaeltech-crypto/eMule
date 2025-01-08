@@ -1,7 +1,15 @@
 \chapter{Problemstellung, Ziel und Vorgehensweise der Arbeit}
 \label{cha:Problemstellung, Ziel und Vorgehensweise der Arbeit}
 
+Der globale Wandel hin zu nachhaltigeren Mobilitätslösungen ist in vollem Gange. Angesichts steigender Umweltauflagen und wachsendem Bewusstsein für die negativen Auswirkungen fossiler Brennstoffe vollzieht sich ein paradigmatischer Wechsel von konventionellen Verbrennungsmotoren hin zu Elektroantrieben. Dieser technologische Umbruch betrifft nicht nur den privaten Automobilsektor, sondern auch Nutzfahrzeuge und Spezialfahrzeuge, die zunehmend auf elektrische Antriebe umgestellt werden.\autocite{Pischinger2023}
+Im Rahmen eines universitären Projekts haben wir ein Kawasaki Mule 600 Fahrzeug erfolgreich von einem Verbrennungsmotor auf einen Elektroantrieb umgerüstet. Dieser Umbau stellte einen ersten Meilenstein dar, der es uns ermöglichte, die Vorteile elektrischer Mobilität in einer praktischen Anwendung zu demonstrieren. Nun soll das Projekt weiterentwickelt werden, um durch gezielte Verbesserungen – wie den Einsatz einer leistungsfähigeren Batterie – die Effizienz und Reichweite des Fahrzeugs zu optimieren und neue Standards in der elektrischen Antriebstechnologie zu setzen.
 
+\section{Problemstellung}
+Das Kawasaki Mule 600 wurde durch unsere Vorgängerjahrgänge von einen auslieferungsgemäß verbauten Verbrennungsmotor auf einen Elektromotorantrieb umgebaut. Die Dokumentation des Umbaus wurde in diesem Zuge nur notdürftig bis garnicht und ohne jegliche Vereinheitlichung vorgenommen. Das Fahrzug wurde von Kawasaki Mule 600 in Kawasaki E-Mule umgetauft. Das neue E-Mule Team muss sich im ersten Schritt einen Überblick über das Fahrzeug und dessen Zustand verschafft werden. Dieser Überblick umfasst sowohl den mechanischen sowie elektrischen Aufbauzustand des Gesamtfahrzeugs und der einzelnen Komponenten. Im nächsten Schritt muss die vorhandene Dokumentation eingesehen werden. Hier wird überprüft, welche Teile der Dokumentation dem aktuellen Aufbauzustand entsprechen. Die Teile der Dokumentation, welche nicht dem aktuellen Stand entsprechen müssen verworfen werden. Auf Basis der vorhandenen Dokumentation und des Aufbauzustandes des Fahrzeuges muss eine neue gesamtheitliche Dokumentation des Gesamtsystems erstellt werden. Um die Dokumentation einheitlich zu gestalten muss sich auf eine Norm festgelegt werden, nach dieser die neue Dokumentation erstellt wird.  Im folgenden werden lediglich die Aspekte der Problemstellung für die Aufgabe der Erstellung von Stromlaufplänen, Schaltplänen und Bestückungsplänen betrachtet. Das erste Problem hierbei besteht darin, ein geeignetes Programm zum Erstellen der Dokumentation auszuwählen. Die Schwierigkeit besteht hierbei darin, ein Programm zu finden, welches allen gestellten Anforderungen entspricht. Diese sind: das Programm muss möglichst kostengünstig sein, da nur ein begrenztes Budget zur Verfügung steht. Das Programm muss sowohl für die Betriebssysteme Windows als auch macOS ausgelegt sein, um sicherzustellen, dass jedes Teammitglied optimal arbeiten kann. Das Programm muss sowohl in der Lage sein, Stromlaufpläne, Schaltpläne und Bestückungspläne zu erstellen, da auf Grund des beschränkten Budgets nicht mehrere Programme gezahlt werden können. Das Programm muss entweder die ausgewählte Norm unterstützen, oder die Möglichkeit bieten eigene Bibliotheken mit Bauteilen zu erstellen. Das zweite Problem besteht in der bereits erwähnten vereinheitlichung nach einer gemeinsamen Norm. Hier besteht das Problem darin, dass für die gewählte Norm eine eigens angelegte Bibliothek erstellt werden muss.
+
+Um dieses Ziel zu erreichen muss die alte Dokumentation überarbeitet werden und für sämtliche Teile des Systems, für welche keine Dokumentation vorliegt eine solche Erstellt werden. Das Team muss in verschiedene Gruppen aufgeteilt werden, um dann wiederum verschiedene Teilaufgaben zu bearbeiten.
+
+  Die bereits erwähnte Vereinheitlichung nach DIN Norm bietet noch weitere Probleme. Im ersten Schritt muss eine allgemeine Dokumentation der Norm vorliegen anhand welcher die Dokumentation des Systems erstellt werden kann. Im zweiten Schritt müssen Dokumentationen der für die bisherige Systemdokumentation verwendeten Normen vorliegen, um erkennen zu könne um welche Teile es sich handelt. Ein weiteres Problem stellt die Erstellung einer eigenen Bibliothek für die gewählte Norm dar, da dies eine sehr umfangreiche Aufgabe ist für welche sich intensiv in das Program eingearbeitet werden muss.
 
 \begin{itemize}
 	\item Was waren die Probleme
@@ -26,8 +34,6 @@
 		\item neue Pläne gezeichnet
 	\end{itemize}
 
-\end{itemize}
-Folgende Stichworte können zum Aufbau der Einleitung herangezogen werden.
 
 \begin{itemize}
 \item Hinführung, Begründung, Zweck und Ziel der Aufgabenstellung
@@ -38,14 +44,8 @@ Folgende Stichworte können zum Aufbau der Einleitung herangezogen werden.
 \item Zum Ende der Einleitung wird eine Kurzübersicht über die Inhalte der Kapitel gegeben: \glqq Die Arbeit ist wie folgt gegliedert: ...\grqq
 \end{itemize}
 
-Die Einleitung wird üblicherweise auf ein bis zwei Seiten als fortlaufender Text geschrieben. Eine weitere Untergliederung in nummerierte Abschnitte ist nicht empfehlenswert, da dies erstens unüblich ist, zweitens die Lesbarkeit nicht begünstigt und drittens die Formulierung der Einleitung erschwert. Weitere Empfehlungen zum Aufbau der Einleitung und des gesamten Dokuments sind z.~B. aus \autocite{DHBW.2021} und \autocite{Lindenlauf.2022} zu entnehmen.
 
-\clearpage
 
-Hinweise: 
 
-\begin{itemize}
-\item Auch in der Einleitung unbedingt zu wichtigen Hintergründen und Fakten Zitate aufführen.\index{Zitat} Zitate bitte in der Form \autocite{Tipler.2019} oder mit Seitenbezug \autocite[66]{Ziegler.2017} oder auch mehrere Zitate  \autocite{Tipler.2019, Ziegler.2017} innerhalb einer eckigen Klammer angeben. Zur besseren Lesbarkeit bitte immer ein Leerzeichen vor dem Zitat einfügen.
+
 	
-\item Bereits in der Einleitung können Abkürzungen erläutert werden. Grundsätzlich gilt, dass bei der ersten Verwendung einer Abkürzung diese auch erläutert wird. Zum Beispiel können das Antiblockiersystem (ABS) oder die Fahrdynamikregelung (Electronic Stability Control, ESC) als Abkürzungen eingeführt werden. In der Datei \textit{pages/abkuerzungen.tex} sind alle verwendeten Abkürzungen einzufügen. Neben dem verpflichtenden Abkürzungsverzeichnis kann auch ein Glossar hinzugefügt werden. In dieser Vorlage können Glossareinträge in der Datei \textit{pages/glossar.tex} eingefügt werden. Ein \Gls{gls:glossar} ist jedoch nicht verpflichtend.
-\end{itemize}

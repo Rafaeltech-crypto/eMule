@@ -214,6 +214,42 @@
       \endverb
       \keyw{Electronic books}
     \endentry
+    \entry{Pischinger2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=be8c4786fcf924ea9f98188ea0ff4f06}{%
+           family={Pischinger},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \strng{fullhash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \strng{bibnamehash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \strng{authorbibnamehash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \strng{authornamehash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \strng{authorfullhash}{be8c4786fcf924ea9f98188ea0ff4f06}
+      \field{labelalpha}{Pis23}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MTZ - Motortechnische Zeitschrift}
+      \field{number}{9}
+      \field{title}{Die Revolution des Antriebsstrangs in der Automobilindustrie}
+      \field{volume}{84}
+      \field{year}{2023}
+      \field{pages}{62\bibrangedash 62}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s35146-023-1510-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s35146-023-1510-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s35146-023-1510-1
+      \endverb
+    \endentry
     \entry{Pohl.2021}{book}{}
       \name{author}{2}{}{%
         {{hash=f7ad85aae1881b93396a2b8c65130577}{%
