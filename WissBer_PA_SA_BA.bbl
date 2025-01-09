@@ -116,66 +116,6 @@
       \verb https://de.wikipedia.org/wiki/Autodesk
       \endverb
     \endentry
-    \entry{DHBW.2021}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=afbe793b375d768a346960db2d0b0e71}{%
-           family={{Duale Hochschule Baden-Württemberg, Fachkommission Technik}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{afbe793b375d768a346960db2d0b0e71}
-      \strng{fullhash}{afbe793b375d768a346960db2d0b0e71}
-      \strng{bibnamehash}{afbe793b375d768a346960db2d0b0e71}
-      \strng{authorbibnamehash}{afbe793b375d768a346960db2d0b0e71}
-      \strng{authornamehash}{afbe793b375d768a346960db2d0b0e71}
-      \strng{authorfullhash}{afbe793b375d768a346960db2d0b0e71}
-      \field{labelalpha}{Dua21}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{10}
-      \field{title}{{Leitlinien für die Bearbeitung und Dokumentation der Module Praxisprojekt I bis III, Studienarbeit I / II, Bachelorarbeit}}
-      \field{year}{2021}
-      \verb{urlraw}
-      \verb https://www.ravensburg.dhbw.de/fileadmin/user_upload/Dokumente/Dokumente_fuer_Studierende/191212_Leitlinien_Praxismodule_Studien_Bachelorarbeiten.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.ravensburg.dhbw.de/fileadmin/user_upload/Dokumente/Dokumente_fuer_Studierende/191212_Leitlinien_Praxismodule_Studien_Bachelorarbeiten.pdf
-      \endverb
-    \endentry
-    \entry{Lindenlauf.2022}{book}{}
-      \name{author}{1}{}{%
-        {{hash=84f3ace2925e330d31dffcbbf0d96a72}{%
-           family={Lindenlauf},
-           familyi={L\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Fachmedien Wiesbaden}%
-        {Imprint Springer Spektrum}%
-      }
-      \strng{namehash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \strng{fullhash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \strng{bibnamehash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \strng{authorbibnamehash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \strng{authornamehash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \strng{authorfullhash}{84f3ace2925e330d31dffcbbf0d96a72}
-      \field{labelalpha}{Lin22}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Aufbau einer Thesis -- Wissenschaftliches Schreiben -- Formeln, Tabellen, Abbildungen -- Messen, Bewerten, Experimentieren -- Das Projekt »Thesis« -- Software-Werkzeuge. Zum wissenschaftlichen Arbeiten gibt es sehr viel Literatur. Nahezu jede Hochschule macht Vorgaben für Abschlussarbeiten. Trotzdem finden sich oft Defizite in den Punkten, die speziell bei ingenieur- und naturwissenschaftlichen Texten zu beachten sind: bei Abbildungen, Diagrammen, Tabellen, Formelzeichen und Formelsatz, Größen und Einheiten. Der Leitfaden stellt diese Aspekte ins Zentrum. Darüber hinaus zeigt er, wie Technische Regeln als Primärquellen dienen und Sie die Belastbarkeit Ihrer Quellen und die Güte der Arbeit selbst bewerten können. Tipps zur Struktur und zum Schreiben der Arbeit, zum Vorgehen im Projekt »Thesis«, zu hilfreicher Software und möglichen Stolpersteinen runden den Ratgeber ab. Der Inhalt Aufbau einer Thesis Wissenschaftliches Schreiben Diagramme, Tabellen, Formeln Das Projekt »Thesis« Software-Werkzeuge Die Zielgruppen Studierende aller ingenieur- und naturwissenschaftlichen Studiengänge Ingenieure, Naturwissenschaftler und alle, die technische Sachverhalte vermitteln möchten Der Autor Frank Lindenlauf ist Professor für Technische Qualitätssicherung und Prozessgestaltung an der Hochschule Pforzheim im Bereich Wirtschaftsingenieurwesen. Als promovierter Physiker arbeitete er in der Laserentwicklung und im Maschinenbau als Verantwortlicher für Qualität und Messtechnik.}
-      \field{edition}{1st ed. 2022}
-      \field{isbn}{9783658367367}
-      \field{title}{{Wissenschaftliche Arbeiten in den Ingenieur- und Naturwissenschaften: Ein praxisorientierter Leitfaden für Semester- und Abschlussarbeiten}}
-      \field{year}{2022}
-      \verb{doi}
-      \verb 10.1007/978-3-658-36736-7
-      \endverb
-      \keyw{Dissertations,academic;Physics—Study and teaching;Research—Methodology}
-    \endentry
     \entry{Martin.2020}{book}{}
       \name{author}{1}{}{%
         {{hash=1041ae168df991c8f9f3f43285c134c1}{%
@@ -326,56 +266,6 @@
       \endverb
       \keyw{Anforderungsdefinition;Deutschland;Komplexität;Komplexitätsmanagement;Mechatronik;Methodenworkflow;Produktentwicklung;Produktlebenszyklus;Projektmanagement;Qualitätsmanagement;Qualitätssicherung;Systemdesign;Systems Engineering;Systemtechnik;Verbraucherzufriedenheit}
     \endentry
-    \entry{Tipler.2019}{book}{}
-      \name{editor}{4}{}{%
-        {{hash=ff86ef6fbcd6436b08e4b48a7f82dac4}{%
-           family={Tipler},
-           familyi={T\bibinitperiod},
-           given={Paul\bibnamedelima Allen},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=028521cb21b446864a6a4f23dbe0e505}{%
-           family={Mosca},
-           familyi={M\bibinitperiod},
-           given={Gene},
-           giveni={G\bibinitperiod}}}%
-        {{hash=6cc4e7b4a2eb156c43fb992b31bd417f}{%
-           family={Kersten},
-           familyi={K\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=84a4f17e49c58e2bb6d4fc131112a250}{%
-           family={Wagner},
-           familyi={W\bibinitperiod},
-           given={Jenny},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Springer Spektrum}%
-      }
-      \strng{namehash}{e4c3840c738a2e37921fe0f800466b46}
-      \strng{fullhash}{ae29294409c4e4fe8c37c02af1584b66}
-      \strng{bibnamehash}{e4c3840c738a2e37921fe0f800466b46}
-      \strng{editorbibnamehash}{e4c3840c738a2e37921fe0f800466b46}
-      \strng{editornamehash}{e4c3840c738a2e37921fe0f800466b46}
-      \strng{editorfullhash}{ae29294409c4e4fe8c37c02af1584b66}
-      \field{labelalpha}{Tip+19}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{edition}{8., korrigierte und erweiterte Auflage}
-      \field{isbn}{9783662582800}
-      \field{series}{Lehrbuch}
-      \field{title}{Physik: Für Studierende der Naturwissenschaften und Technik}
-      \field{year}{2019}
-      \verb{file}
-      \verb https://d-nb.info/1172616485/04
-      \endverb
-      \keyw{Atomphysik;Elektrodynamik;Experimentalphysik;Mechanik;Moderne Physik;Optik;Physik;Physik für Nebenfächer;Physik für Wissenschaftler und Ingenieure;Physikaufgaben;Quantenmechanik;Thermodynamik;Tipler Lehrbuch;Übungsaufgaben Physik}
-    \endentry
     \entry{wikipedia_autocad_version_history}{misc}{}
       \name{author}{1}{}{%
         {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
@@ -516,46 +406,6 @@
       \verb http://d-nb.info/1080185801/04
       \endverb
       \keyw{Nutzwertanalyse}
-    \endentry
-    \entry{Ziegler.2017}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=8142c299c2a225ac7864c9f6c2aa5921}{%
-           family={Ziegler},
-           familyi={Z\bibinitperiod},
-           given={Julius},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{institution}{2}{%
-        {KIT Scientific Publishing}%
-        {Karlsruher Institut für Technologie}%
-      }
-      \list{location}{1}{%
-        {Karlsruhe}%
-      }
-      \strng{namehash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \strng{fullhash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \strng{bibnamehash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \strng{authorbibnamehash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \strng{authornamehash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \strng{authorfullhash}{8142c299c2a225ac7864c9f6c2aa5921}
-      \field{labelalpha}{Zie17}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Optimale Trajektorienplanung für Automobile}
-      \field{type}{Dissertation}
-      \field{year}{2017}
-      \verb{file}
-      \verb https://nbn-resolving.org/urn:nbn:de:0072-565300
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.5445/KSP/1000056530
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.5445/KSP/1000056530
-      \endverb
-      \keyw{advanced driver assistance systems;Arbeitsraum;Autonomes Fahren;autonomous driving;Einrad;Fahrerassistenzsysteme;Fahrstreifen;Fahrzeug;Fahrzeugregelung;Kraftwagen;robotics;Robotik;trajectory planning;Trajektorienplanung;vehicle control;Verkehrsraum}
     \endentry
   \enddatalist
 \endrefsection
