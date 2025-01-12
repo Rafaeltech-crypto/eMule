@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  10 JAN 2025 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  12 JAN 2025 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,6 +1088,75 @@ File: lstlang3.sty 2020/03/24 1.8d listings language file
 (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count474
+\mult@box=\box79
+\multicol@leftmargin=\dimen262
+\c@unbalance=\count475
+\c@collectmore=\count476
+\doublecol@number=\count477
+\multicoltolerance=\count478
+\multicolpretolerance=\count479
+\full@width=\dimen263
+\page@free=\dimen264
+\premulticols=\dimen265
+\postmulticols=\dimen266
+\multicolsep=\skip111
+\multicolbaselineskip=\skip112
+\partial@page=\box80
+\last@line=\box81
+\maxbalancingoverflow=\dimen267
+\mult@rightbox=\box82
+\mult@grightbox=\box83
+\mult@firstbox=\box84
+\mult@gfirstbox=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\c@minrows=\count480
+\c@columnbadness=\count481
+\c@finalcolumnbadness=\count482
+\last@try=\dimen268
+\multicolovershoot=\dimen269
+\multicolundershoot=\dimen270
+\mult@nat@firstbox=\box122
+\colbreak@box=\box123
+\mc@col@check@num=\count483
+)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
@@ -1097,13 +1166,13 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks45
-\pgfutil@tempdima=\dimen262
-\pgfutil@tempdimb=\dimen263
+\pgfutil@tempdima=\dimen271
+\pgfutil@tempdimb=\dimen272
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box79
+\pgfutil@abb=\box124
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
@@ -1122,26 +1191,26 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 ode.tex
 \pgfkeys@tmptoks=\toks48
 ))
-\pgf@x=\dimen264
-\pgf@y=\dimen265
-\pgf@xa=\dimen266
-\pgf@ya=\dimen267
-\pgf@xb=\dimen268
-\pgf@yb=\dimen269
-\pgf@xc=\dimen270
-\pgf@yc=\dimen271
-\pgf@xd=\dimen272
-\pgf@yd=\dimen273
+\pgf@x=\dimen273
+\pgf@y=\dimen274
+\pgf@xa=\dimen275
+\pgf@ya=\dimen276
+\pgf@xb=\dimen277
+\pgf@yb=\dimen278
+\pgf@xc=\dimen279
+\pgf@yc=\dimen280
+\pgf@xd=\dimen281
+\pgf@yd=\dimen282
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count474
-\c@pgf@countb=\count475
-\c@pgf@countc=\count476
-\c@pgf@countd=\count477
+\c@pgf@counta=\count484
+\c@pgf@countb=\count485
+\c@pgf@countc=\count486
+\c@pgf@countd=\count487
 \t@pgf@toka=\toks49
 \t@pgf@tokb=\toks50
 \t@pgf@tokc=\toks51
-\pgf@sys@id@count=\count478
+\pgf@sys@id@count=\count488
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -1159,8 +1228,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count479
-\pgfsyssoftpath@bigbuffer@items=\count480
+\pgfsyssoftpath@smallbuffer@items=\count489
+\pgfsyssoftpath@bigbuffer@items=\count490
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -1172,9 +1241,9 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen274
-\pgfmath@count=\count481
-\pgfmath@box=\box80
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count491
+\pgfmath@box=\box125
 \pgfmath@toks=\toks52
 \pgfmath@stack@operand=\toks53
 \pgfmath@stack@operation=\toks54
@@ -1198,57 +1267,57 @@ code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count482
+\c@pgfmathroundto@lastzeros=\count492
 )) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen275
-\pgf@picmaxx=\dimen276
-\pgf@picminy=\dimen277
-\pgf@picmaxy=\dimen278
-\pgf@pathminx=\dimen279
-\pgf@pathmaxx=\dimen280
-\pgf@pathminy=\dimen281
-\pgf@pathmaxy=\dimen282
-\pgf@xx=\dimen283
-\pgf@xy=\dimen284
-\pgf@yx=\dimen285
-\pgf@yy=\dimen286
-\pgf@zx=\dimen287
-\pgf@zy=\dimen288
+\pgf@picminx=\dimen284
+\pgf@picmaxx=\dimen285
+\pgf@picminy=\dimen286
+\pgf@picmaxy=\dimen287
+\pgf@pathminx=\dimen288
+\pgf@pathmaxx=\dimen289
+\pgf@pathminy=\dimen290
+\pgf@pathmaxy=\dimen291
+\pgf@xx=\dimen292
+\pgf@xy=\dimen293
+\pgf@yx=\dimen294
+\pgf@yy=\dimen295
+\pgf@zx=\dimen296
+\pgf@zy=\dimen297
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen289
-\pgf@path@lasty=\dimen290
+\pgf@path@lastx=\dimen298
+\pgf@path@lasty=\dimen299
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen291
-\pgf@shorten@start@additional=\dimen292
+\pgf@shorten@end@additional=\dimen300
+\pgf@shorten@start@additional=\dimen301
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box81
-\pgf@hbox=\box82
-\pgf@layerbox@main=\box83
-\pgf@picture@serial@count=\count483
+\pgfpic=\box126
+\pgf@hbox=\box127
+\pgf@layerbox@main=\box128
+\pgf@picture@serial@count=\count493
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen293
+\pgflinewidth=\dimen302
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen294
-\pgf@pt@y=\dimen295
-\pgf@pt@temp=\dimen296
+\pgf@pt@x=\dimen303
+\pgf@pt@y=\dimen304
+\pgf@pt@temp=\dimen305
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1265,14 +1334,14 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen297
+\pgfarrowsep=\dimen306
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen298
-\pgf@sys@shading@range@num=\count484
-\pgf@shadingcount=\count485
+\pgf@max=\dimen307
+\pgf@sys@shading@range@num=\count494
+\pgf@shadingcount=\count495
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1281,7 +1350,7 @@ File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box84
+\pgfexternal@startupbox=\box129
 ))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -1302,7 +1371,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box85
+\pgfnodeparttextbox=\box130
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -1311,8 +1380,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen299
-\pgf@nodesepend=\dimen300
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1327,8 +1396,8 @@ Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen301
-\pgffor@skip=\dimen302
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
 \pgffor@stack=\toks55
 \pgffor@toks=\toks56
 ))
@@ -1339,34 +1408,34 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count486
-\pgfplotmarksize=\dimen303
+\pgf@plot@mark@count=\count496
+\pgfplotmarksize=\dimen312
 )
-\tikz@lastx=\dimen304
-\tikz@lasty=\dimen305
-\tikz@lastxsaved=\dimen306
-\tikz@lastysaved=\dimen307
-\tikz@lastmovetox=\dimen308
-\tikz@lastmovetoy=\dimen309
-\tikzleveldistance=\dimen310
-\tikzsiblingdistance=\dimen311
-\tikz@figbox=\box86
-\tikz@figbox@bg=\box87
-\tikz@tempbox=\box88
-\tikz@tempbox@bg=\box89
-\tikztreelevel=\count487
-\tikznumberofchildren=\count488
-\tikznumberofcurrentchild=\count489
-\tikz@fig@count=\count490
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box131
+\tikz@figbox@bg=\box132
+\tikz@tempbox=\box133
+\tikz@tempbox@bg=\box134
+\tikztreelevel=\count497
+\tikznumberofchildren=\count498
+\tikznumberofcurrentchild=\count499
+\tikz@fig@count=\count500
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count491
-\pgfmatrixcurrentcolumn=\count492
-\pgf@matrix@numberofcolumns=\count493
+\pgfmatrixcurrentrow=\count501
+\pgfmatrixcurrentcolumn=\count502
+\pgf@matrix@numberofcolumns=\count503
 )
-\tikz@expandcount=\count494
+\tikz@expandcount=\count504
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1377,9 +1446,9 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \t@pgfplots@toka=\toks57
 \t@pgfplots@tokb=\toks58
 \t@pgfplots@tokc=\toks59
-\pgfplots@tmpa=\dimen312
-\c@pgfplots@coordindex=\count495
-\c@pgfplots@scanlineindex=\count496
+\pgfplots@tmpa=\dimen321
+\c@pgfplots@coordindex=\count505
+\c@pgfplots@scanlineindex=\count506
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
 .code.tex))
@@ -1397,13 +1466,13 @@ liststructure.code.tex)
 liststructureext.code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 array.code.tex
-\c@pgfplotsarray@tmp=\count497
+\c@pgfplotsarray@tmp=\count507
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 matrix.code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
 shared.code.tex
-\c@pgfplotstable@counta=\count498
+\c@pgfplotstable@counta=\count508
 \t@pgfplotstable@a=\toks60
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
@@ -1416,7 +1485,7 @@ ta.code.tex))
 .code.tex)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
 s.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count499
+\c@pgfplotslibrarysurf@no=\count509
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
 .surfshading.pgfsys-pdftex.def)))
@@ -1448,16 +1517,16 @@ x)
 s/tikzlibrarydecorations.code.tex
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
 s.code.tex
-\pgfdecoratedcompleteddistance=\dimen313
-\pgfdecoratedremainingdistance=\dimen314
-\pgfdecoratedinputsegmentcompleteddistance=\dimen315
-\pgfdecoratedinputsegmentremainingdistance=\dimen316
-\pgf@decorate@distancetomove=\dimen317
-\pgf@decorate@repeatstate=\count500
-\pgfdecorationsegmentamplitude=\dimen318
-\pgfdecorationsegmentlength=\dimen319
+\pgfdecoratedcompleteddistance=\dimen322
+\pgfdecoratedremainingdistance=\dimen323
+\pgfdecoratedinputsegmentcompleteddistance=\dimen324
+\pgfdecoratedinputsegmentremainingdistance=\dimen325
+\pgf@decorate@distancetomove=\dimen326
+\pgf@decorate@repeatstate=\count510
+\pgfdecorationsegmentamplitude=\dimen327
+\pgfdecorationsegmentlength=\dimen328
 )
-\tikz@lib@dec@box=\box90
+\tikz@lib@dec@box=\box135
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarydecorations.pathmorphing.code.tex
@@ -1469,13 +1538,13 @@ s/tikzlibrarydecorations.pathreplacing.code.tex
 brarydecorations.pathreplacing.code.tex))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
 ts.contourlua.code.tex)
-\pgfplots@numplots=\count501
-\pgfplots@xmin@reg=\dimen320
-\pgfplots@xmax@reg=\dimen321
-\pgfplots@ymin@reg=\dimen322
-\pgfplots@ymax@reg=\dimen323
-\pgfplots@zmin@reg=\dimen324
-\pgfplots@zmax@reg=\dimen325
+\pgfplots@numplots=\count511
+\pgfplots@xmin@reg=\dimen329
+\pgfplots@xmax@reg=\dimen330
+\pgfplots@ymin@reg=\dimen331
+\pgfplots@ymax@reg=\dimen332
+\pgfplots@zmin@reg=\dimen333
+\pgfplots@zmax@reg=\dimen334
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryplotmarks.code.tex
@@ -1503,7 +1572,7 @@ File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen326
+\arrowsize=\dimen335
 ))
 \@indexfile=\write5
 \openout5 = `WissBer_PA_SA_BA.idx'.
@@ -1514,13 +1583,13 @@ Writing index file WissBer_PA_SA_BA.idx
 \openout6 = `WissBer_PA_SA_BA.nlo'.
 
 Package nomencl Info: Writing nomenclature file WissBer_PA_SA_BA.nlo on input l
-ine 198.
+ine 201.
 \glswrite=\write7
 \glo@main@file=\write8
 \openout8 = `WissBer_PA_SA_BA.glo'.
 
 Package glossaries Info: Writing glossary file WissBer_PA_SA_BA.glo on input li
-ne 199.
+ne 202.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1531,24 +1600,24 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./chapter/zusammenfassung.aux) (./chapter/anhang.aux))
 \openout1 = `WissBer_PA_SA_BA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 204.
-LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-german.trsl
@@ -1556,20 +1625,20 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 204.
+or `german'. on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count502
-\scratchdimen=\dimen327
-\scratchbox=\box91
-\nofMPsegments=\count503
-\nofMParguments=\count504
+\scratchcounter=\count512
+\scratchdimen=\dimen336
+\scratchbox=\box136
+\nofMPsegments=\count513
+\nofMParguments=\count514
 \everyMPshowfont=\toks61
-\MPscratchCnt=\count505
-\MPscratchDim=\dimen328
-\MPnumerator=\count506
-\makeMPintoPDFobject=\count507
+\MPscratchCnt=\count515
+\MPscratchDim=\dimen337
+\MPnumerator=\count516
+\makeMPintoPDFobject=\count517
 \everyMPtoPDFconversion=\toks62
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1582,24 +1651,24 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: Option `justification=RaggedRight' requires the `ragged2e
-' package on input line 204.
+' package on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
-\CenteringLeftskip=\skip111
-\RaggedLeftLeftskip=\skip112
-\RaggedRightLeftskip=\skip113
-\CenteringRightskip=\skip114
-\RaggedLeftRightskip=\skip115
-\RaggedRightRightskip=\skip116
-\CenteringParfillskip=\skip117
-\RaggedLeftParfillskip=\skip118
-\RaggedRightParfillskip=\skip119
-\JustifyingParfillskip=\skip120
-\CenteringParindent=\skip121
-\RaggedLeftParindent=\skip122
-\RaggedRightParindent=\skip123
-\JustifyingParindent=\skip124
+\CenteringLeftskip=\skip113
+\RaggedLeftLeftskip=\skip114
+\RaggedRightLeftskip=\skip115
+\CenteringRightskip=\skip116
+\RaggedLeftRightskip=\skip117
+\RaggedRightRightskip=\skip118
+\CenteringParfillskip=\skip119
+\RaggedLeftParfillskip=\skip120
+\RaggedRightParfillskip=\skip121
+\JustifyingParfillskip=\skip122
+\CenteringParindent=\skip123
+\RaggedLeftParindent=\skip124
+\RaggedRightParindent=\skip125
+\JustifyingParindent=\skip126
 )
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -1636,8 +1705,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'WissBer_PA_SA_BA.bbl' found.
 
 (./WissBer_PA_SA_BA.bbl)
-Package biblatex Info: Reference section=0 on input line 204.
-Package biblatex Info: Reference segment=0 on input line 204.
+Package biblatex Info: Reference section=0 on input line 207.
+Package biblatex Info: Reference segment=0 on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -1652,11 +1721,11 @@ File: lscape.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package lsc
 ape)
 Package scrhack Info: \landscape patched to make \textheight change optional on
  input line 90.
-\scrh@LT@textheight=\skip125
+\scrh@LT@textheight=\skip127
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 204.
+Package hyperref Info: Link coloring OFF on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1668,11 +1737,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count508
+\c@section@level=\count518
 )
-LaTeX Info: Redefining \ref on input line 204.
-LaTeX Info: Redefining \pageref on input line 204.
-LaTeX Info: Redefining \nameref on input line 204.
+LaTeX Info: Redefining \ref on input line 207.
+LaTeX Info: Redefining \pageref on input line 207.
+LaTeX Info: Redefining \nameref on input line 207.
  (./WissBer_PA_SA_BA.out) (./WissBer_PA_SA_BA.out)
 \@outlinefile=\write9
 \openout9 = `WissBer_PA_SA_BA.out'.
@@ -1684,25 +1753,25 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 204.
+(scrbook)           before \begin{document} on input line 207.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count509
+\BKM@id=\count519
 ))
-\c@lstlisting=\count510
-Package scrhack Info: undefining \float@addtolists on input line 204.
+\c@lstlisting=\count520
+Package scrhack Info: undefining \float@addtolists on input line 207.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package scrbase Info: activating ngerman \contentsname on input line 204.
-Package scrbase Info: activating ngerman \bibname on input line 204.
+Package scrbase Info: activating ngerman \contentsname on input line 207.
+Package scrbase Info: activating ngerman \bibname on input line 207.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-08.
+11.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1787,20 +1856,15 @@ Underfull \vbox (badness 1107) has occurred while \output is active []
 
 
 
-] (./WissBer_PA_SA_BA.toc
-Overfull \hbox (18.2049pt too wide) in paragraph at lines 15--15
- [][] [][]\T1/cmr/m/n/12 Spezielle Funk-tio-nen zur Er-stel-lung von Schalt-pl�
--nen, Be-st�ckungs- 
- []
-
-)
+] (./WissBer_PA_SA_BA.toc)
 \tf@toc=\write10
 \openout10 = `WissBer_PA_SA_BA.toc'.
 
  [7]
 \openout2 = `chapter/einleitung.aux'.
 
- (./chapter/einleitung.tex
+
+(./chapter/einleitung.tex
 chapter 1.
 [1
 
@@ -1845,25 +1909,51 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [7]
+Overfull \hbox (32.22655pt too wide) in paragraph at lines 47--48
+\T1/cmr/m/n/12 Zur Nut-zung von Fu-si-on 360 Elec-tro-nics ist die Er-stel-lung
+ ei-nes Autodesk-Studentenaccounts
+ []
+
+
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [8]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [9]
+Overfull \hbox (13.07971pt too wide) in paragraph at lines 100--101
+[]\T1/cmr/m/n/12 Unter Ge-r�-te-s-pe-zi-fi-ka-tio-nen \TS1/cmr/m/n/12 ^^Y \T1/c
+mr/m/n/12 Sys-tem-typ steht z. B. ^^R64-Bit-Betriebssystem^^P. 
+ []
+
+
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[10])
+[10]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[11]
+[11])
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[12]
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[13]
 \openout2 = `chapter/vorgehen.aux'.
 
- (./chapter/vorgehen.tex [12
+ (./chapter/vorgehen.tex [14
 
 
 
@@ -1871,16 +1961,16 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 ]
 chapter 3.
-[13])
+[15])
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[14]
+[16]
 \openout2 = `chapter/umsetzung.aux'.
 
  (./chapter/umsetzung.tex
 chapter 4.
-<circuts/Battery Circut updated.pdf, id=204, 1195.46625pt x 845.1575pt>
+<circuts/Battery Circut updated.pdf, id=213, 1195.46625pt x 845.1575pt>
 File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 <use circuts/Battery Circut updated.pdf>
 Package pdftex.def Info: circuts/Battery Circut updated.pdf  used on input line
@@ -1891,7 +1981,7 @@ File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Battery Circut updated.pdf  used on input line
  21.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Battery Circut updated.pdf, id=207, page=1, 1195.46625pt x 845.1575pt>
+<circuts/Battery Circut updated.pdf, id=216, page=1, 1195.46625pt x 845.1575pt>
 
 File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 <use circuts/Battery Circut updated.pdf, page 1>
@@ -1903,7 +1993,7 @@ File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Battery Circut updated.pdf , page1 used on inp
 ut line 21.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-[15
+[17
 
 
 
@@ -1913,7 +2003,7 @@ ut line 21.
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[16]
+[18]
 File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 <use circuts/Battery Circut updated.pdf, page 1>
 Package pdftex.def Info: circuts/Battery Circut updated.pdf , page1 used on inp
@@ -1929,8 +2019,8 @@ File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Battery Circut updated.pdf , page1 used on inp
 ut line 21.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
- [17 <./circuts/Battery Circut updated.pdf>]
-<circuts/Motor Controler.pdf, id=233, 1195.46625pt x 845.1575pt>
+ [19 <./circuts/Battery Circut updated.pdf>]
+<circuts/Motor Controler.pdf, id=241, 1195.46625pt x 845.1575pt>
 File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf>
 Package pdftex.def Info: circuts/Motor Controler.pdf  used on input line 27.
@@ -1939,7 +2029,7 @@ File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf>
 Package pdftex.def Info: circuts/Motor Controler.pdf  used on input line 27.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Motor Controler.pdf, id=236, page=1, 1195.46625pt x 845.1575pt>
+<circuts/Motor Controler.pdf, id=244, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf, page 1>
 Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
@@ -1954,7 +2044,7 @@ Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[19]
+[21]
 File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf, page 1>
 Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
@@ -1970,8 +2060,8 @@ File: circuts/Motor Controler.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
  27.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
- [20 <./circuts/Motor Controler.pdf>]
-<circuts/onboard-Netz.pdf, id=256, 1195.46625pt x 845.1575pt>
+ [22 <./circuts/Motor Controler.pdf>]
+<circuts/onboard-Netz.pdf, id=264, 1195.46625pt x 845.1575pt>
 File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf>
 Package pdftex.def Info: circuts/onboard-Netz.pdf  used on input line 32.
@@ -1980,7 +2070,7 @@ File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf>
 Package pdftex.def Info: circuts/onboard-Netz.pdf  used on input line 32.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/onboard-Netz.pdf, id=259, page=1, 1195.46625pt x 845.1575pt>
+<circuts/onboard-Netz.pdf, id=267, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 32
@@ -1995,7 +2085,7 @@ Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 32
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[22]
+[24]
 File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 32
@@ -2011,122 +2101,122 @@ File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 32
 .
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
- [23 <./circuts/onboard-Netz.pdf>]
-<circuts/HV-Onboard-Netz.pdf, id=282, 1195.46625pt x 845.1575pt>
+ [25 <./circuts/onboard-Netz.pdf>]
+<circuts/HV-Onboard-Netz.pdf, id=291, 1195.46625pt x 845.1575pt>
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf>
-Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 41.
+Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 45.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf>
-Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 41.
+Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 45.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/HV-Onboard-Netz.pdf, id=285, page=1, 1195.46625pt x 845.1575pt>
+<circuts/HV-Onboard-Netz.pdf, id=294, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
- 41.
+ 45.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
- 41.
+ 45.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[26]
+[28]
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
- 41.
+ 45.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
- 41.
+ 45.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
- 41.
+ 45.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
- [27 <./circuts/HV-Onboard-Netz.pdf>]
-<Legende/Schütz.png, id=307, 117.43875pt x 95.35625pt>
+ [29 <./circuts/HV-Onboard-Netz.pdf>]
+<Legende/Schütz.png, id=316, 117.43875pt x 95.35625pt>
 File: Legende/Schütz.png Graphic file (type png)
 <use Legende/Schütz.png>
-Package pdftex.def Info: Legende/Schütz.png  used on input line 80.
+Package pdftex.def Info: Legende/Schütz.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 46.20552pt.
-<Legende/Kondensator.png, id=309, 89.33376pt x 86.3225pt>
+<Legende/Kondensator.png, id=318, 89.33376pt x 86.3225pt>
 File: Legende/Kondensator.png Graphic file (type png)
 <use Legende/Kondensator.png>
-Package pdftex.def Info: Legende/Kondensator.png  used on input line 80.
+Package pdftex.def Info: Legende/Kondensator.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 54.98802pt.
-<Legende/Funkenstrecke.png, id=310, 250.9375pt x 132.495pt>
+<Legende/Funkenstrecke.png, id=319, 250.9375pt x 132.495pt>
 File: Legende/Funkenstrecke.png Graphic file (type png)
 <use Legende/Funkenstrecke.png>
-Package pdftex.def Info: Legende/Funkenstrecke.png  used on input line 80.
+Package pdftex.def Info: Legende/Funkenstrecke.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 30.0446pt.
-<Legende/Ground.png, id=311, 81.30376pt x 74.2775pt>
+<Legende/Ground.png, id=320, 81.30376pt x 74.2775pt>
 File: Legende/Ground.png Graphic file (type png)
 <use Legende/Ground.png>
-Package pdftex.def Info: Legende/Ground.png  used on input line 80.
+Package pdftex.def Info: Legende/Ground.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 51.98935pt.
-<Legende/Batterie.png, id=312, 163.61125pt x 155.58125pt>
+<Legende/Batterie.png, id=321, 163.61125pt x 155.58125pt>
 File: Legende/Batterie.png Graphic file (type png)
 <use Legende/Batterie.png>
-Package pdftex.def Info: Legende/Batterie.png  used on input line 80.
+Package pdftex.def Info: Legende/Batterie.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 54.1124pt.
-<Legende/Sicherung.png, id=313, 107.40125pt x 98.3675pt>
+<Legende/Sicherung.png, id=322, 107.40125pt x 98.3675pt>
 File: Legende/Sicherung.png Graphic file (type png)
 <use Legende/Sicherung.png>
-Package pdftex.def Info: Legende/Sicherung.png  used on input line 80.
+Package pdftex.def Info: Legende/Sicherung.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 52.11949pt.
-<Legende/Schalter.png, id=314, 161.60374pt x 80.3pt>
+<Legende/Schalter.png, id=323, 161.60374pt x 80.3pt>
 File: Legende/Schalter.png Graphic file (type png)
 <use Legende/Schalter.png>
-Package pdftex.def Info: Legende/Schalter.png  used on input line 80.
+Package pdftex.def Info: Legende/Schalter.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 28.27573pt.
-<Legende/PTC-Widerstand.png, id=315, 245.91875pt x 185.69376pt>
+<Legende/PTC-Widerstand.png, id=324, 245.91875pt x 185.69376pt>
 File: Legende/PTC-Widerstand.png Graphic file (type png)
 <use Legende/PTC-Widerstand.png>
-Package pdftex.def Info: Legende/PTC-Widerstand.png  used on input line 80.
+Package pdftex.def Info: Legende/PTC-Widerstand.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 42.96933pt.
-<Legende/Potentiometer.png, id=316, 128.48pt x 105.39375pt>
+<Legende/Potentiometer.png, id=325, 128.48pt x 105.39375pt>
 File: Legende/Potentiometer.png Graphic file (type png)
 <use Legende/Potentiometer.png>
-Package pdftex.def Info: Legende/Potentiometer.png  used on input line 80.
+Package pdftex.def Info: Legende/Potentiometer.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 46.68054pt.
-<Legende/Stecker.png, id=317, 134.5025pt x 92.345pt>
+<Legende/Stecker.png, id=326, 134.5025pt x 92.345pt>
 File: Legende/Stecker.png Graphic file (type png)
 <use Legende/Stecker.png>
-Package pdftex.def Info: Legende/Stecker.png  used on input line 80.
+Package pdftex.def Info: Legende/Stecker.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 39.06926pt.
-<Legende/LED.png, id=318, 102.3825pt x 109.40875pt>
+<Legende/LED.png, id=327, 102.3825pt x 109.40875pt>
 File: Legende/LED.png Graphic file (type png)
 <use Legende/LED.png>
-Package pdftex.def Info: Legende/LED.png  used on input line 80.
+Package pdftex.def Info: Legende/LED.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 60.81271pt.
-<Legende/Spule.png, id=319, 129.48375pt x 66.2475pt>
+<Legende/Spule.png, id=328, 129.48375pt x 66.2475pt>
 File: Legende/Spule.png Graphic file (type png)
 <use Legende/Spule.png>
-Package pdftex.def Info: Legende/Spule.png  used on input line 80.
+Package pdftex.def Info: Legende/Spule.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 29.11461pt.
-<Legende/3 Phasen Motor.png, id=320, 277.035pt x 196.735pt>
+<Legende/3 Phasen Motor.png, id=329, 277.035pt x 196.735pt>
 File: Legende/3 Phasen Motor.png Graphic file (type png)
 <use Legende/3 Phasen Motor.png>
-Package pdftex.def Info: Legende/3 Phasen Motor.png  used on input line 80.
+Package pdftex.def Info: Legende/3 Phasen Motor.png  used on input line 108.
 (pdftex.def)             Requested size: 56.9055pt x 40.40898pt.
 )
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[29]
+[31]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[30 <./Legende/Schütz.png> <./Legende/Kondensator.png> <./Legende/Funkenstrec
+[32 <./Legende/Schütz.png> <./Legende/Kondensator.png> <./Legende/Funkenstrec
 ke.png> <./Legende/Ground.png> <./Legende/Batterie.png> <./Legende/Sicherung.pn
 g> <./Legende/Schalter.png> <./Legende/PTC-Widerstand.png> <./Legende/Potentiom
 eter.png> <./Legende/Stecker.png> <./Legende/LED.png> <./Legende/Spule.png> <./
@@ -2135,10 +2225,13 @@ Legende/3 Phasen Motor.png>]
 
  (./chapter/zusammenfassung.tex
 chapter 5.
-)
-Underfull \vbox (badness 2478) has occurred while \output is active []
 
- [31
+Overfull \hbox (0.22891pt too wide) in paragraph at lines 13--14
+[]\T1/cmr/m/n/12 Verbesserung der Ver-ka-be-lung des vor-han-de-nen Trank-ti-on
+s-bat-te-rie-ma-na-ge-ment-
+ []
+
+[33
 
 
 
@@ -2148,33 +2241,37 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[32]
+[34])
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[35] [36
+
+
+
+
+]
 chapter without number
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-36.
+39.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [33
-
-
-
-
-]
+) [37]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[34] (./pages/abkuerzungen.tex)
+[38] (./pages/abkuerzungen.tex)
 No file WissBer_PA_SA_BA.nls.
 (./WissBer_PA_SA_BA.lof)
 \tf@lof=\write11
 \openout11 = `WissBer_PA_SA_BA.lof'.
 
- [35
+ [39
 
 
 
 
-] [36
+] [40
 
 
 
@@ -2182,11 +2279,11 @@ No file WissBer_PA_SA_BA.nls.
 \tf@lot=\write12
 \openout12 = `WissBer_PA_SA_BA.lot'.
 
- [37]
+ [41]
 \openout2 = `chapter/anhang.aux'.
 
 
-(./chapter/anhang.tex [38
+(./chapter/anhang.tex [42
 
 
 
@@ -2198,14 +2295,14 @@ Overfull \hbox (2.2323pt too wide) in paragraph at lines 11--41
  [][] 
  []
 
-) [39]
+) [43]
 No file WissBer_PA_SA_BA.gls.
 No file WissBer_PA_SA_BA.ind.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[40
+[44
 
 
 
@@ -2220,10 +2317,10 @@ Package logreq Info: Writing requests to 'WissBer_PA_SA_BA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58258 strings out of 478268
- 1340593 string characters out of 5846347
- 2302436 words of memory out of 5000000
- 75367 multiletter control sequences out of 15000+600000
+ 58404 strings out of 478268
+ 1343040 string characters out of 5846347
+ 2309402 words of memory out of 5000000
+ 75505 multiletter control sequences out of 15000+600000
  484902 words of font info for 58 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,17n,122p,10647b,2455s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2245,10 +2342,10 @@ e/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf
 -dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on WissBer_PA_SA_BA.pdf (44 pages, 567796 bytes).
+Output written on WissBer_PA_SA_BA.pdf (48 pages, 575539 bytes).
 PDF statistics:
- 563 PDF objects out of 1000 (max. 8388607)
- 421 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
- 307 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 577 PDF objects out of 1000 (max. 8388607)
+ 431 compressed objects within 5 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 299 words of extra memory for PDF output out of 10000 (max. 10000000)
 
