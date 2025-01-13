@@ -17,33 +17,71 @@ Im nächsten Schritt der Vorbereitung muss eine tiefgreifende und umfassende Ein
 %\includepdf[pages=1, angle=90, fitpaper=true]{circuts/Battery Circut v5.pdf}
 
 \section*{Stromlaufplan Battery Circuit}
-Für die Erstellung des \textit{Battery Circut} Stromlauftplans nach festgelgter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
-\includepdf[pages=1, fitpaper=true]{circuts/Battery Circut updated.pdf} 
+Für die Erstellung des \textit{Battery Circuit} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
 
-\addtocounter{page}{1} 
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\vspace*{-5cm} % Verschiebt die Caption um 2 cm nach oben
+		\hspace{10cm} % Verschiebt die Caption um 10 cm nach rechts
+		\captionof{figure}{Schaltplan des Battery Circuits} % Fügt die Caption ein
+		\label{fig:battery_circuit} % Für Querverweise
+	\end{center}
+}]{circuts/Battery Circut updated.pdf}
+\addtocounter{page}{1} % Seitenzähler korrekt erhöhen
+
+% Zweite PDF: Motor Controller
 \section*{Stromlaufplan Motor Controller}
-Für die Erstellung des \textit{Motor Controller} Stromlauftplans nach festgelgter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
-%Zur Analyse und Bearbeitung des Stromlaufplans „Motor Controller“ wird der Plan zunächst ausgedruckt und systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im nächsten Schritt wird geprüft, ob der Schaltplan den Vorgaben der DIN EN 60617 entspricht. Abweichungen werden identifiziert und normgerecht angepasst. Der überarbeitete Schaltplan wird schließlich mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
-\includepdf[pages=1, fitpaper=true]{circuts/Motor Controler.pdf} 
-\addtocounter{page}{1} 
-\section*{Stromlaufplan LV-Onboard-Network}
-Für die Erstellung des \textit{LV-Onboard-Network} Stromlauftplans nach festgelgter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
-%Der Stromlaufplan „Onboard-Netz“ wird nach dem gleichen Vorgehen wie bei den vorherigen Plänen bearbeitet, wobei der Schwerpunkt auf der Lesbarkeit liegt. Nach der Fehlerprüfung und -korrektur wird das Layout so überarbeitet, dass Verbindungen und Beschriftungen klarer und übersichtlicher dargestellt werden. Normgerechte Anpassungen nach DIN EN 60617 und die Übertragung in ein DIN-A3-Format stellen sicher, dass der Schaltplan nicht nur funktional, sondern auch optimal lesbar ist.
-\includepdf[pages=1, fitpaper=true]{circuts/onboard-Netz.pdf} 
-\addtocounter{page}{1} 
+Für die Erstellung des \textit{Motor Controller} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
+
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Schaltplan des Motor Controllers} % Fügt die Caption ein
+		\label{fig:motor_controller} % Für Querverweise
+	\end{center}
+}]{circuts/Motor Controler.pdf}
+\addtocounter{page}{1} % Seitenzähler korrekt erhöhen
+
+% Dritte PDF: LV-Onboard-Network
+\section*{Stromlaufplan LV-Onboard-Netz}
+Für die Erstellung des \textit{LV-Onboard-Netz} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss herausgefunden werden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm muss recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {} werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
+
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\vspace*{-2cm} % Verschiebt die Caption um 2 cm nach oben
+		\captionof{figure}{Schaltplan des LV-Onboard-Netz} % Fügt die Caption ein
+		\label{fig:lv_onboard_network} % Für Querverweise
+	\end{center}
+}]{circuts/onboard-Netz.pdf}
+\addtocounter{page}{1} % Seitenzähler korrekt erhöhen
+
+% Vierte PDF: Charger Temperature Control
 \section*{Stromlaufplan Charger Temperature Control}
-Für die Erstellung des \textit{Charger Temperature Control} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird zunächst eine händische Skizze des Systems, durch die für den Einbau zuständigen Kollegen, angefertigt und an das Dokumentationsteam weitergegeben. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss die Normkonformität der Stromlaufplanskizze überprüft werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
+Für die Erstellung des \textit{Charger Temperature Control} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird zunächst eine händische Skizze des Systems, durch die für den Einbau zuständigen Kollegen, angefertigt und an das Dokumentationsteam weitergegeben. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss die Normkonformität der Stromlaufplanskizze überprüft werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
 
-%Diese wird im nächsten Schritt nochmals
-%Der Schaltplan zur Temperatursteuerung des Ladegeräts wird gemäß der Norm DIN EN 60617 erstellt. Diese Norm definiert die symmetrische Darstellung von Schaltungen und sorgt für eine klare, standardisierte Kommunikation im Bereich der Elektrotechnik. Der Schaltplan beinhaltet einen Temperatursensor, der die Temperatur des Ladegeräts misst. Bei Überschreitung eines festgelegten Temperaturwerts wird ein Steuermechanismus aktiviert, der entweder die Kühlung einleitet oder das Ladegerät abschaltet, um eine Überhitzung zu verhindern und die Sicherheit sowie die Lebensdauer der Geräte zu gewährleisten.
-%\includepdf[pages=1, fitpaper=true]{circuts/Temperatursteuerung des Ladegerätes.pdf} 
-\addtocounter{page}{1} 
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Schaltplan der Charger Temperature Control} % Fügt die Caption ein
+		\label{fig:charger_temperature_control} % Für Querverweise
+	\end{center}
+}]{circuts/Temperatursteuerung des Ladegerätes.pdf}
+\addtocounter{page}{1} % Seitenzähler korrekt erhöhen
+
+% Fünfte PDF: HV-Onboard-Network
 \section*{Stromlaufplan HV-Onboard-Network}
-Für die Erstellung des \textit{HV-Onboard-Network} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird zunächst eine händische Skizze des Systems, durch die für den Einbau zuständigen Kollegen, angefertigt und an das Dokumentationsteam weitergegeben. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss die Normkonformität der Stromlaufplanskizze überprüft werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen. 
+Für die Erstellung des \textit{HV-Onboard-Network} Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird zunächst eine händische Skizze des Systems, durch die für den Einbau zuständigen Kollegen, angefertigt und an das Dokumentationsteam weitergegeben. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss die Normkonformität der Stromlaufplanskizze überprüft werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
 
-%Der Schaltplan für ein Ladegerät mit HV-Onboard-Netz wird gemäß der Norm DIN EN 60617 erstellt. In diesem Schaltplan werden alle relevanten elektrischen Komponenten, die für den Betrieb eines Hochvolt-Onboard-Netzes erforderlich sind, standardisiert dargestellt. Dazu gehören die Spannungsversorgungseinheit, die Schutzschaltungen, die Kommunikationsschnittstellen sowie die Schnittstellen für die Steuerung und Überwachung des Hochvoltnetzes. Die Norm sorgt dafür, dass die Schaltung klar verständlich und international kompatibel ist, um die Sicherheit und Effizienz des gesamten Systems zu gewährleisten.
-\includepdf[pages=1, fitpaper=true]{circuts/HV-Onboard-Netz.pdf} 
-\addtocounter{page}{1} 
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Schaltplan des HV-Onboard-Networks} % Fügt die Caption ein
+		\label{fig:hv_onboard_network} % Für Querverweise
+	\end{center}
+}]{circuts/HV-Onboard-Netz.pdf}
+\addtocounter{page}{1}
 \section*{Legende der Schaltzeichen}
 In der folgenden Tabelle werden die verwendeten Schaltzeichen des Stromlaufpläne gemäß der Norm DIN EN 60617 erläutert. Diese Schaltzeichen dienen dazu, die elektrischen Komponenten und deren Verbindungen im Stromlaufplan eindeutig und standardisiert darzustellen. Die Legende bietet eine Übersicht über jene Symbole, die in den vorangegangenen Stromlaufplänenplänen verwendet werden, und erleichtert so das Verständnis der Systemarchitektur und Funktionalität der einzelnen Pläne sowie des Gesamtsystems. Dieses Verzeichnis umfasst aktuell:
 
