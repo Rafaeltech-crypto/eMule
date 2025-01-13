@@ -19,6 +19,62 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{adac_stromverbrauch_elektroautos}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=018fc6d2a62700e4637aaacf064030f8}{%
+           family={ADAC},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{018fc6d2a62700e4637aaacf064030f8}
+      \strng{fullhash}{018fc6d2a62700e4637aaacf064030f8}
+      \strng{bibnamehash}{018fc6d2a62700e4637aaacf064030f8}
+      \strng{authorbibnamehash}{018fc6d2a62700e4637aaacf064030f8}
+      \strng{authornamehash}{018fc6d2a62700e4637aaacf064030f8}
+      \strng{authorfullhash}{018fc6d2a62700e4637aaacf064030f8}
+      \field{labelalpha}{ADA25}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Stromverbrauch von Elektroautos im ADAC-Test}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/stromverbrauch-elektroautos-adac-test/
+      \endverb
+      \verb{url}
+      \verb https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/stromverbrauch-elektroautos-adac-test/
+      \endverb
+    \endentry
+    \entry{ardalpha_henry_ford_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=540178d5cbfddbfffa1af3525f8bc9dc}{%
+           family={alpha},
+           familyi={a\bibinitperiod},
+           given={ARD},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \strng{fullhash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \strng{bibnamehash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \strng{authorbibnamehash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \strng{authornamehash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \strng{authorfullhash}{540178d5cbfddbfffa1af3525f8bc9dc}
+      \field{labelalpha}{alp25}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Henry Ford: Wie er das Auto und die Produktion revolutionierte}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ardalpha.de/wissen/geschichte/kulturgeschichte/henry-ford-automobil-auto-fliessband-erfinder-100.html
+      \endverb
+      \verb{url}
+      \verb https://www.ardalpha.de/wissen/geschichte/kulturgeschichte/henry-ford-automobil-auto-fliessband-erfinder-100.html
+      \endverb
+    \endentry
     \entry{Breiing.1997}{book}{}
       \name{author}{2}{}{%
         {{hash=fc37fec4b38b400a6883d8107e20ce25}{%
@@ -55,6 +111,35 @@
       \verb 10.1007/978-3-642-59229-4
       \endverb
       \keyw{Engineering}
+    \endentry
+    \entry{enbw_elektroautos_vorteile_nachteile}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4fa214dafb3f0302b2701bfedcf07c6e}{%
+           family={Blog},
+           familyi={B\bibinitperiod},
+           given={EnBW},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \strng{fullhash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \strng{bibnamehash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \strng{authorbibnamehash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \strng{authornamehash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \strng{authorfullhash}{4fa214dafb3f0302b2701bfedcf07c6e}
+      \field{labelalpha}{Blo25}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Elektroautos: Vorteile und Nachteile im Überblick}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.enbw.com/blog/elektromobilitaet/fahren/elektroautos-vorteile-und-nachteile-im-ueberblick/
+      \endverb
+      \verb{url}
+      \verb https://www.enbw.com/blog/elektromobilitaet/fahren/elektroautos-vorteile-und-nachteile-im-ueberblick/
+      \endverb
     \endentry
     \entry{Cohn.2010}{book}{}
       \name{author}{1}{}{%
@@ -114,6 +199,145 @@
       \endverb
       \verb{url}
       \verb https://de.wikipedia.org/wiki/Autodesk
+      \endverb
+    \endentry
+    \entry{einfacheauto_elektroauto_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d9b37aadf3849b150c3a2c3d180caca7}{%
+           family={EinfacheAuto},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \strng{fullhash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \strng{bibnamehash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \strng{authorbibnamehash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \strng{authornamehash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \strng{authorfullhash}{d9b37aadf3849b150c3a2c3d180caca7}
+      \field{labelalpha}{Ein25}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Die Geschichte des Elektroautos: Von den Anfängen bis heute}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://einfacheauto.de/blog/die-geschichte-des-elektroautos-von-den-anfangen-bis-heute
+      \endverb
+      \verb{url}
+      \verb https://einfacheauto.de/blog/die-geschichte-des-elektroautos-von-den-anfangen-bis-heute
+      \endverb
+    \endentry
+    \entry{energyprofi_elektromobile_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6f18c12d0dd4a149669e64b43bc44c6a}{%
+           family={EnergyProfi},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \strng{fullhash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \strng{bibnamehash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \strng{authorbibnamehash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \strng{authornamehash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \strng{authorfullhash}{6f18c12d0dd4a149669e64b43bc44c6a}
+      \field{labelalpha}{Ene25}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Geschichte der Elektromobile und Hybridfahrzeuge ab 1900}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.energyprofi.com/uncategorized/geschichte-der-elektromobile-und-hybridfahrzeuge-ab-1900/
+      \endverb
+      \verb{url}
+      \verb https://www.energyprofi.com/uncategorized/geschichte-der-elektromobile-und-hybridfahrzeuge-ab-1900/
+      \endverb
+    \endentry
+    \entry{greelane_charles_kettering}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=385df1364f4d0c5daea9176d598a2f7e}{%
+           family={Greelane},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{385df1364f4d0c5daea9176d598a2f7e}
+      \strng{fullhash}{385df1364f4d0c5daea9176d598a2f7e}
+      \strng{bibnamehash}{385df1364f4d0c5daea9176d598a2f7e}
+      \strng{authorbibnamehash}{385df1364f4d0c5daea9176d598a2f7e}
+      \strng{authornamehash}{385df1364f4d0c5daea9176d598a2f7e}
+      \strng{authorfullhash}{385df1364f4d0c5daea9176d598a2f7e}
+      \field{labelalpha}{Gre25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Charles Kettering und das elektrische Zündsystem}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.greelane.com/de/geisteswissenschaften/geschichte--kultur/charles-kettering-electrical-ignition-system-4076281
+      \endverb
+      \verb{url}
+      \verb https://www.greelane.com/de/geisteswissenschaften/geschichte--kultur/charles-kettering-electrical-ignition-system-4076281
+      \endverb
+    \endentry
+    \entry{tanke_guenstig_oelpreise}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e7097b7002709871e9055052162717d0}{%
+           family={günstig},
+           familyi={g\bibinitperiod},
+           given={Tanke},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7097b7002709871e9055052162717d0}
+      \strng{fullhash}{e7097b7002709871e9055052162717d0}
+      \strng{bibnamehash}{e7097b7002709871e9055052162717d0}
+      \strng{authorbibnamehash}{e7097b7002709871e9055052162717d0}
+      \strng{authornamehash}{e7097b7002709871e9055052162717d0}
+      \strng{authorfullhash}{e7097b7002709871e9055052162717d0}
+      \field{labelalpha}{gün25}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Aktuelle Ölpreise: Überblick und Entwicklung}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.tanke-guenstig.de/oelpreise
+      \endverb
+      \verb{url}
+      \verb https://www.tanke-guenstig.de/oelpreise
+      \endverb
+    \endentry
+    \entry{cosmos_gaston_plante}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c5e6194a2e8f807e159c82a6d0d14145}{%
+           family={Indirekt},
+           familyi={I\bibinitperiod},
+           given={Cosmos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \strng{fullhash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \strng{bibnamehash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \strng{authorbibnamehash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \strng{authornamehash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \strng{authorfullhash}{c5e6194a2e8f807e159c82a6d0d14145}
+      \field{labelalpha}{Ind25}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Gaston Planté}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.cosmos-indirekt.de/Physik-Schule/Gaston_Planté
+      \endverb
+      \verb{url}
+      \verb https://www.cosmos-indirekt.de/Physik-Schule/Gaston_Plant%C3%A9
       \endverb
     \endentry
     \entry{Martin.2020}{book}{}
@@ -265,6 +489,33 @@
       \verb https://nbn-resolving.org/urn:nbn:de:101:1-2023061404375271739390
       \endverb
       \keyw{Anforderungsdefinition;Deutschland;Komplexität;Komplexitätsmanagement;Mechatronik;Methodenworkflow;Produktentwicklung;Produktlebenszyklus;Projektmanagement;Qualitätsmanagement;Qualitätssicherung;Systemdesign;Systems Engineering;Systemtechnik;Verbraucherzufriedenheit}
+    \endentry
+    \entry{vattenfall_elektroauto_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b36abcb2795e844f6d5e71e43b9ea369}{%
+           family={{Vattenfall InCharge}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \strng{fullhash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \strng{bibnamehash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \strng{authorbibnamehash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \strng{authornamehash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \strng{authorfullhash}{b36abcb2795e844f6d5e71e43b9ea369}
+      \field{labelalpha}{Vat25}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Die Geschichte des Elektroautos: 1832 ging es los}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://incharge.vattenfall.de/wissens-hub/articles/die-geschichte-des-elektroautos-1832-ging-es-los
+      \endverb
+      \verb{url}
+      \verb https://incharge.vattenfall.de/wissens-hub/articles/die-geschichte-des-elektroautos-1832-ging-es-los
+      \endverb
     \endentry
     \entry{wikipedia_autocad_version_history}{misc}{}
       \name{author}{1}{}{%
