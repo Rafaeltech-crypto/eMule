@@ -228,6 +228,34 @@
       \verb https://einfacheauto.de/blog/die-geschichte-des-elektroautos-von-den-anfangen-bis-heute
       \endverb
     \endentry
+    \entry{energieleben_ev1_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9a039fb8dea4001dc9cbd79daf5f5504}{%
+           family={Energieleben},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \strng{fullhash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \strng{bibnamehash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \strng{authorbibnamehash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \strng{authornamehash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \strng{authorfullhash}{9a039fb8dea4001dc9cbd79daf5f5504}
+      \field{labelalpha}{Ene25}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Die Geschichte des EV1}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.energieleben.at/die-geschichte-des-ev1/
+      \endverb
+      \verb{url}
+      \verb https://www.energieleben.at/die-geschichte-des-ev1/
+      \endverb
+    \endentry
     \entry{energyprofi_elektromobile_geschichte}{misc}{}
       \name{author}{1}{}{%
         {{hash=6f18c12d0dd4a149669e64b43bc44c6a}{%
@@ -243,6 +271,7 @@
       \field{labelalpha}{Ene25}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extraalpha}{2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Zugriff am 13. Januar 2025}
@@ -338,6 +367,156 @@
       \endverb
       \verb{url}
       \verb https://www.cosmos-indirekt.de/Physik-Schule/Gaston_Plant%C3%A9
+      \endverb
+    \endentry
+    \entry{insideevs_gm_ev1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f6d786d136f9375785b8b705d8fef16c}{%
+           family={InsideEVs},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6d786d136f9375785b8b705d8fef16c}
+      \strng{fullhash}{f6d786d136f9375785b8b705d8fef16c}
+      \strng{bibnamehash}{f6d786d136f9375785b8b705d8fef16c}
+      \strng{authorbibnamehash}{f6d786d136f9375785b8b705d8fef16c}
+      \strng{authornamehash}{f6d786d136f9375785b8b705d8fef16c}
+      \strng{authorfullhash}{f6d786d136f9375785b8b705d8fef16c}
+      \field{labelalpha}{Ins25}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{GM EV1: Das Elektroauto von 1996 und seine Historie}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://insideevs.de/news/586129/gm-ev1-1996-elektroauto-historie/
+      \endverb
+      \verb{url}
+      \verb https://insideevs.de/news/586129/gm-ev1-1996-elektroauto-historie/
+      \endverb
+    \endentry
+    \entry{insidetesla_tesla_geschichte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=de3b4b18a361f7b0ff7c39a5800b7f15}{%
+           family={InsideTesla},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \strng{fullhash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \strng{bibnamehash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \strng{authorbibnamehash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \strng{authornamehash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \strng{authorfullhash}{de3b4b18a361f7b0ff7c39a5800b7f15}
+      \field{labelalpha}{Ins25}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Tesla-Geschichte: Der Weg des E-Auto-Pioniers}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://insidetesla.de/tesla-geschichte-weg-des-e-auto-pioniers/
+      \endverb
+      \verb{url}
+      \verb https://insidetesla.de/tesla-geschichte-weg-des-e-auto-pioniers/
+      \endverb
+    \endentry
+    \entry{fraunhofer_batterie_rohstoffe}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1d104d16281d490aaf7d742ac7db8653}{%
+           family={ISI},
+           familyi={I\bibinitperiod},
+           given={Fraunhofer},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d104d16281d490aaf7d742ac7db8653}
+      \strng{fullhash}{1d104d16281d490aaf7d742ac7db8653}
+      \strng{bibnamehash}{1d104d16281d490aaf7d742ac7db8653}
+      \strng{authorbibnamehash}{1d104d16281d490aaf7d742ac7db8653}
+      \strng{authornamehash}{1d104d16281d490aaf7d742ac7db8653}
+      \strng{authorfullhash}{1d104d16281d490aaf7d742ac7db8653}
+      \field{labelalpha}{ISI25}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Batterie-Rohstoffe und Preisschwankungen: Wie reagiert die Automobilindustrie? Auswirkungen auf die Zellkosten}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.isi.fraunhofer.de/de/blog/themen/batterie-update/batterie-rohstoffe-preis-schwankungen-wie-reagiert-automobil-industrie-auswirkungen-zellkosten.html
+      \endverb
+      \verb{url}
+      \verb https://www.isi.fraunhofer.de/de/blog/themen/batterie-update/batterie-rohstoffe-preis-schwankungen-wie-reagiert-automobil-industrie-auswirkungen-zellkosten.html
+      \endverb
+    \endentry
+    \entry{Korthauer.2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e3fdec84837a88de572cf28b7b302ad}{%
+           family={Korthauer},
+           familyi={K\bibinitperiod},
+           given={Reiner},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{6e3fdec84837a88de572cf28b7b302ad}
+      \strng{fullhash}{6e3fdec84837a88de572cf28b7b302ad}
+      \strng{bibnamehash}{6e3fdec84837a88de572cf28b7b302ad}
+      \strng{authorbibnamehash}{6e3fdec84837a88de572cf28b7b302ad}
+      \strng{authornamehash}{6e3fdec84837a88de572cf28b7b302ad}
+      \strng{authorfullhash}{6e3fdec84837a88de572cf28b7b302ad}
+      \field{labelalpha}{Kor13}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783642306532}
+      \field{series}{SpringerLink Bücher}
+      \field{title}{Handbuch Lithium-Ionen-Batterien}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-30653-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-30653-2
+      \endverb
+    \endentry
+    \entry{sonepar_batterien_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c843268ce9dfed145bf6a06eb60999a5}{%
+           family={Lab},
+           familyi={L\bibinitperiod},
+           given={Sonepar\bibnamedelima Innovation},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c843268ce9dfed145bf6a06eb60999a5}
+      \strng{fullhash}{c843268ce9dfed145bf6a06eb60999a5}
+      \strng{bibnamehash}{c843268ce9dfed145bf6a06eb60999a5}
+      \strng{authorbibnamehash}{c843268ce9dfed145bf6a06eb60999a5}
+      \strng{authornamehash}{c843268ce9dfed145bf6a06eb60999a5}
+      \strng{authorfullhash}{c843268ce9dfed145bf6a06eb60999a5}
+      \field{labelalpha}{Lab25}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Batterien 2023: Innovationen und Entwicklungen}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://sonepar-innovationlab.com/batterien-2023/
+      \endverb
+      \verb{url}
+      \verb https://sonepar-innovationlab.com/batterien-2023/
       \endverb
     \endentry
     \entry{Martin.2020}{book}{}
@@ -453,6 +632,35 @@
       \endverb
       \keyw{Anforderungsmanagement;Certified Professional for Requirements Engineering;Certified Professional Requirements Engineer;CPRE;IREB;Projektmangement;Requirements Engineering;Requirements Management;Software Engineering;Software- und Systementwicklung;Softwareentwicklung}
     \endentry
+    \entry{automobilproduktion_produktionskosten_elektroautos}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9b882d49771a918e875b2a0716d69d2d}{%
+           family={Produktion},
+           familyi={P\bibinitperiod},
+           given={Automobil},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b882d49771a918e875b2a0716d69d2d}
+      \strng{fullhash}{9b882d49771a918e875b2a0716d69d2d}
+      \strng{bibnamehash}{9b882d49771a918e875b2a0716d69d2d}
+      \strng{authorbibnamehash}{9b882d49771a918e875b2a0716d69d2d}
+      \strng{authornamehash}{9b882d49771a918e875b2a0716d69d2d}
+      \strng{authorfullhash}{9b882d49771a918e875b2a0716d69d2d}
+      \field{labelalpha}{Pro25}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{So hoch sind die Produktionskosten von Elektroautos}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.automobil-produktion.de/produktion/so-hoch-sind-die-produktionskosten-von-elektroautos-745.html
+      \endverb
+      \verb{url}
+      \verb https://www.automobil-produktion.de/produktion/so-hoch-sind-die-produktionskosten-von-elektroautos-745.html
+      \endverb
+    \endentry
     \entry{Schluter.2023}{book}{}
       \name{author}{1}{}{%
         {{hash=09e261d3d3e5ca7c079b1064f08ca012}{%
@@ -489,6 +697,61 @@
       \verb https://nbn-resolving.org/urn:nbn:de:101:1-2023061404375271739390
       \endverb
       \keyw{Anforderungsdefinition;Deutschland;Komplexität;Komplexitätsmanagement;Mechatronik;Methodenworkflow;Produktentwicklung;Produktlebenszyklus;Projektmanagement;Qualitätsmanagement;Qualitätssicherung;Systemdesign;Systems Engineering;Systemtechnik;Verbraucherzufriedenheit}
+    \endentry
+    \entry{Lith-Akku}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b8d25d787aacaef8cc5924a26e778d5c}{%
+           family={Siegert},
+           familyi={S\bibinitperiod},
+           given={Dipl.-Ing.\bibnamedelimi Frank},
+           giveni={D\bibinithyphendelim I\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \strng{fullhash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \strng{bibnamehash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \strng{authorbibnamehash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \strng{authornamehash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \strng{authorfullhash}{b8d25d787aacaef8cc5924a26e778d5c}
+      \field{labelalpha}{Sie15}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lithium Polymer Akku-Technologie}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.elektromodellflug.de/files/Lit-Akku-Techn-Einfuehrung.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.elektromodellflug.de/files/Lit-Akku-Techn-Einfuehrung.pdf
+      \endverb
+    \endentry
+    \entry{statista_ladeinfrastruktur_elektroautos}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=62182ca58a739daa8ddd8a48b7b19abb}{%
+           family={Statista},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{bibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorbibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authornamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \field{labelalpha}{Sta25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Ladeinfrastruktur für Elektroautos: Statistiken und Fakten}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://de.statista.com/themen/8348/ladeinfrastruktur-fuer-elektroautos/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/themen/8348/ladeinfrastruktur-fuer-elektroautos/
+      \endverb
     \endentry
     \entry{vattenfall_elektroauto_geschichte}{misc}{}
       \name{author}{1}{}{%
@@ -573,6 +836,35 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/wiki/Autodesk
+      \endverb
+    \endentry
+    \entry{daswissen_oelkrise_1970er}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d02bdb629c1f46ccf9ec0f946d32ba99}{%
+           family={Wissen},
+           familyi={W\bibinitperiod},
+           given={Das},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \strng{fullhash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \strng{bibnamehash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \strng{authorbibnamehash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \strng{authornamehash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \strng{authorfullhash}{d02bdb629c1f46ccf9ec0f946d32ba99}
+      \field{labelalpha}{Wis25}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 13. Januar 2025}
+      \field{title}{Die Ölkrise der 1970er: Schock und Transformation}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://das-wissen.de/die-oelkrise-der-1970er-schock-und-transformation/
+      \endverb
+      \verb{url}
+      \verb https://das-wissen.de/die-oelkrise-der-1970er-schock-und-transformation/
       \endverb
     \endentry
     \entry{Wirdemann.2022}{book}{}
