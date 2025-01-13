@@ -1,32 +1,36 @@
-\chapter{Zusammenfassung}
+\chapter{Kritische Reflektion und Ausblick}
 \label{cha:zusammenfassung}
 
 %Auf zwei bis drei Seiten soll auf folgende Punkte eingegangen werden:
 
+Im Rahmen des Projekts eMule 7.0 wurden verschiedene Ziele für das Wintersemester 2024 definiert, darunter:  
+\begin{itemize}
+	\item[1.] Fortsetzung der Entwicklung und Installation des neuen Energiespeichersystems in Form einer Traktionsbatterie für das eMule-Fahrzeug,
+	\item[2.] Weiterentwicklung des Kühlsystems der Traktionsbatterie,
+	\item[3.] Verbesserung der Temperaturregelung des Kühlsystems durch Arduino-Mikrocontrollerprogrammierung,
+	\item[4.] Optimierung der Verkabelung des Traktionsbatteriemanagementsystems,
+	\item[5.] Integration zusätzlicher Sensoren,
+	\item[6.] Erstellung aktueller Stromlauf- und Bestückungspläne der \newline elektrisch/elektronischen Fahrzeugschaltkreise,
+	\item[7.] Standardisierung und Vereinheitlichung der System- und Einzelkomponentenpläne,
+	\item[8.] Entwicklung einer Installationsanleitung für Autodesk Fusion 360 für verschiedene Betriebssysteme,
+	\item[9.] Durchführung von Messungen und Funktionstests,
+	\item[10.] Vorbereitung des Fahrzeugs auf die bevorstehende Elektromagnetische Verträglichkeit (EMV) Prüfung und Technischer Überwachungsverein (TÜV) Abnahme.
+\end{itemize}
 
-	%\item Welches Ziel sollte erreicht werden
-	Im Rahmen des Projekts eMule 7.0 wurden verschiedene Ziele für das Wintersemester 2024 gesetzt. Diese lauteten:
-	\begin{itemize}
-		\item[1.] Fortsetzung der Entwicklung und Installation des neuen Energiespeichersystems in Form einer Traktionsbatterie für das eMule-Fahrzeug
-		\item[2.] Weiterentwicklung des Kühlsystems der Traktionsbatterie
-		\item[3.] Verbesserung der vorhandenen Kühlsystem-Temperaturregelung durch Arduino-Mikrocontrollerprogrammierung
-		\item[4.] Verbesserung der Verkabelung des vorhandenen Tranktionsbatteriemanagementsystems
-		\item[5.] Einbau von Sensoren
-		\item[6.] Erstellung von aktuellen Stromlauf und Bestückungsplänen der elektrisch/elektronischen Fahrzeugschaltkreise
-		\item[7.] Vereinheitlichung und Vergemeinschaftung der Pläne des Systems und dessen Einzelkomponenten
-		\item[8.] Erstellung einer Installationsanleitung für Autodesk Fusion 360 für verschiedene Betriebssysteme
-		\item[9.]Durchführung von Messungen und Funktionstests
-		\item[10.] Vorbereitung des Fahrzeugs für die bevorstehende EMV-Prüfung und TÜV-Abnahme
-	\end{itemize}
-Da in dieser Arbeit lediglich die Ziele sechs bis acht betrachtet wurden wird auch nur auf diese weiter eingegangen. \newline
-Um die Erstellung aktueller Stromlaufpläne möglichst effizient zu gestalten wurden zwei verschiedene Vorgehen angewendet. Mussten bereits vorhandene Pläne lediglich aktualisiert werden wurde wie folgt vorgegangen:\newline
-Für die Aktualisierung der Stromlauftpläne nach festgelgter Norm und aktuellem Verbaustand wurden der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt wurden diese Stromlaufpläne systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler wurden im nächsten Schritt markiert und anschließend korrigiert, wodurch die Einhaltung elektrotechnischer Standards gewährleistet werden konnte. Zudem erfolgte eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt wurde herausgefunden, nach welcher Norm der Stromlaufplan erstellt wurde. Diese Norm wurde recherchiert und in die von uns gewählte DIN EN 60617 Norm \glqq übersetzt\grqq {}. Die überarbeiteten Stromlaufpläne wurden abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Durch die Integration von Titelblock und Legende konnte die Professionalität und Lesbarkeit sichergestellet werden. \newline
-Es wurden Stromlaufpläne für sämtliche Systemteile, die zum Zeitpunkt der veröffentlichug dieser Arbeit finalisiert waren, erstellt. Diese Stromlaufpläne entsprechen den Standarts der DIN EN 60617, sind in einheitlicher Form erstellt und in einem übergeordneten Gesamtprojekt vergemeinschaftet. Insgesamt wurden somit fünf Stromlaufpläne realisiert. Aufgrund interner Absprachen wurde die Erstellung der Bestückungspläne in den nächsten Bearbeitungszeitraum im Sommersemester 2025 verschoben. Im Rahmen der Pläneerstellung wurde das Team sehr gut in das Programm Autodesk Fusion 360 eingearbeitet, eine eigene Bibliothek zur DIN EN 60617 angelegt und eine Struktur zur einfachen Erweiterung der Vergemeinschaftung aufgebaut. Weiter konnte sichergestellt werden, dass neue Teammitglieder einfach zu der Projektcloud hinzugefügt werden können, sowie eine detailierte Anleitung zur Installation der CAD-Softwäre auf sämtlichen Betriebssystemen zur Verfügung gestellt bekommen haben. Zusätzlich wurde der Installtionsvorgang der Software auf den laborinternen Geräten gestartet. Neben den Teamspezifischen Aufgaben konnten die anderen Projektteams bei diversen Aufgaben unterstützt werden. Hierzu zählen beispielsweise das Verladen und damit verbundenen Ein- und Ausbau der Batterie in das Fahrzeug oder die Bohrung zusätzlicher Löcher in die Aussenwand der Tragfläche des Fahrzeugs um eine bessere Funktionalität der Lüfter sicherzustellen.
+Da sich diese Arbeit ausschließlich auf die Ziele 6 bis 8 konzentriert, werden im Folgenden nur diese detailliert betrachtet.  
 
+Um die Erstellung aktueller Stromlaufpläne effizient zu gestalten, wurden zwei verschiedene Vorgehensweisen angewendet. Bei der Aktualisierung bereits vorhandener Pläne wurde folgender Prozess implementiert:  
+Die bestehenden Pläne wurden zunächst ausgedruckt und systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Markierte Fehler wurden anschließend korrigiert, um die Einhaltung elektrotechnischer Standards sicherzustellen. Zusätzlich erfolgte eine Layoutanpassung, um die Übersichtlichkeit zu verbessern. Schließlich wurde die zugrundeliegende Norm des ursprünglichen Stromlaufplans identifiziert, recherchiert und in die gewählte Norm DIN EN 60617 "übersetzt." Die überarbeiteten Pläne wurden mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Durch die Integration von Titelblöcken und Legenden konnte eine professionelle und lesbare Darstellung sichergestellt werden.
 
-%In der Zusammenfassung sind unbedingt klare Aussagen zum Ergebnis der Arbeit zu nennen. Üblicherweise können Ergebnisse nicht nur qualitativ, sondern auch quantitativ benannt werden, z.~B. \glqq \ldots konnte eine Effizienzsteigerung von \SI{12}{\percent} erreicht werden.\grqq~oder \glqq \ldots konnte die Prüfdauer um \SI{2}{\hour} verkürzt werden\grqq.
+Stromlaufpläne wurden für alle Systemteile erstellt, die zum Zeitpunkt der Veröffentlichung dieser Arbeit finalisiert waren. Diese Pläne entsprechen den Standards der DIN EN 60617, sind einheitlich gestaltet und in einem übergeordneten Gesamtprojekt integriert. Insgesamt wurden fünf Stromlaufpläne erstellt. Aufgrund interner Absprachen wurde die Erstellung der Bestückungspläne auf den nächsten Bearbeitungszeitraum im Sommersemester 2025 verschoben.  
 
-%Die Ergebnisse in der Zusammenfassung sollten selbstverständlich einen Bezug zu den in der Einleitung aufgeführten Fragestellungen und Zielen haben.
-\section{Ausblick}
-Zwischen dem gerade vergangenen Arbeitszeitraum \glqq Wintersemester 2024 \grqq und dem kommenden Arbeitszeitraum \glqq Sommersemester 2025 \grqq werden alle Team, in reduziertem Rahmen nach Bedarf und Möglichkeit,  ihre Aufgaben fortführen. Weiter ist eine TÜV-Abnahme für das Fahrzeug geplant.\newline
-Im nächsten Arbeitszeitraum sollen dann ergänzend zu der nach aktuellem Stand vorhanden Dokumentation weitere Stromlaufpläne generiert und in diese aufgenommen werden. Neben Stromlaufplänen soll die Dokumentation durch Bestückungspläne erweitert werden. Um die Übersichtlichkeit weiter zu verbessern soll die gesamte Dokumentation in einem großen Dokument als Gesamtprojekt mit sämtlichen Projekttiefen festgehalten werden. Weitere Ziele für das nächste Semester umfassen eine Modularisierung der Batterie, den Einbau des Bussystems an die Batterie, eine Erweiterung der Temeraturüberwachung sowie die Modularisierung der Powerbox und die Installation eines Displays im Cockpit, welches sämtliche Fahr-, Verbrauchs-, und Leistungsdaten anzeigt. Als optionales Ziel soll bei entsprechendem Fortschritt des Systems noch eine Musikanlage verbaut werden.
+Im Rahmen dieser Arbeiten wurde das Team in die Software Autodesk Fusion 360 eingearbeitet, eine eigene Bibliothek für die Norm DIN EN 60617 erstellt und eine Struktur zur einfachen Erweiterung der Bibliothek implementiert. Zudem wurde sichergestellt, dass neue Teammitglieder unkompliziert zur Projektcloud hinzugefügt werden können. Eine detaillierte Anleitung zur Installation der CAD-Software auf allen relevanten Betriebssystemen wurde ebenfalls bereitgestellt. Der Installationsprozess auf den laborinternen Geräten wurde gestartet.  
+
+Neben den teamspezifischen Aufgaben unterstützte das Team andere Projektgruppen. Dies umfasste beispielsweise das Verladen sowie den Ein- und Ausbau der Batterie in das Fahrzeug und das Bohren zusätzlicher Löcher in die Außenwand des Fahrzeugs, um die Funktionalität der Lüfter zu verbessern.
+
+\section*{Ausblick}
+Zwischen dem abgeschlossenen Arbeitszeitraum "Wintersemester 2024" und dem bevorstehenden "Sommersemester 2025" werden die Teams ihre Aufgaben im reduzierten Umfang weiterführen, je nach Bedarf und Möglichkeit. Zudem ist eine TÜV-Abnahme des Fahrzeugs geplant.  
+
+Im kommenden Bearbeitungszeitraum sollen ergänzend zur bestehenden Dokumentation weitere Stromlaufpläne erstellt und integriert werden. Zusätzlich wird die Dokumentation durch Bestückungspläne erweitert. Um die Übersichtlichkeit weiter zu erhöhen, wird die gesamte Dokumentation in einem zentralen Dokument zusammengeführt.  
+
+Weitere Ziele für das nächste Semester umfassen die Modularisierung der Batterie, den Einbau eines Bussystems, die Erweiterung der Temperaturüberwachung, die Modularisierung der Powerbox sowie die Installation eines Cockpit-Displays, das Fahr-, Verbrauchs- und Leistungsdaten anzeigt. Als optionales Ziel wird der Einbau einer Musikanlage in Betracht gezogen, sofern der Fortschritt des Systems dies zulässt.

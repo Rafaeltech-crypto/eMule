@@ -2382,22 +2382,17 @@
     <bcf:citekey order="18" intorder="1">statista_ladeinfrastruktur_elektroautos</bcf:citekey>
     <bcf:citekey order="19" intorder="1">automobilproduktion_produktionskosten_elektroautos</bcf:citekey>
     <bcf:citekey order="20" intorder="1">fraunhofer_batterie_rohstoffe</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">Lith-Akku</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Korthauer.2013</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Korthauer.2013</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">scinexx_akku_schattenseiten</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">scinexx_akku_schattenseiten</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Lith-Akku</bcf:citekey>
     <bcf:citekey order="24" intorder="1">Korthauer.2013</bcf:citekey>
     <bcf:citekey order="25" intorder="1">Korthauer.2013</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Korthauer.2013</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">wikipedia_autodesk</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">wikipedia_autocad_version_history</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">wikipedia_autodesk_deutsch</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Pohl.2021</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Schluter.2023</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Cohn.2010</bcf:citekey>
-    <bcf:citekey order="32" intorder="2">Martin.2020</bcf:citekey>
-    <bcf:citekey order="32" intorder="3">Wirdemann.2022</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Breiing.1997</bcf:citekey>
-    <bcf:citekey order="33" intorder="2">Zangemeister.2014</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Korthauer.2013</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Korthauer.2013</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">wikipedia_autodesk</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">wikipedia_autocad_version_history</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">wikipedia_autodesk_deutsch</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">

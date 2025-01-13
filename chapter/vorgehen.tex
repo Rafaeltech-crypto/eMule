@@ -1,23 +1,95 @@
-\chapter{VorgehenTest}
-\label{cha:vorgehen}
+\chapter{Dokumentation}
 
-Je nach Art der Arbeit kann diese Kapitelüberschrift auch \glqq Konzeptentwurf\grqq~lauten.
+\label{cha:umsetzung}
+Um die bestmögliche Dokumentation des Systemaufbaus sicherstellen zu können, dürfen die Vorbereitungen, auf die Aufgabe, nicht unterschätzt werden. Diese lassen sich in zwei große Teile aufgeteilen. Der wichtigere von beiden Schritten ist die sorgfältige Auswahl eines passenden Tools zur Erstellung der Dokumentation. Aspekte wie Benutzerfreundlichkeit, Funktionen die erfüllt werden, Betriebssystemkompatibilitäten und Kosten spielen hier eine große Rolle. Um diese Auswahl mit genügend Sorgfalt zu treffen wird folgendes Vorgehen angewandt:
 
-Beschreibung der Ausgangssituation und des Themenumfelds. Ggf. wird darauf eingegangen, welche Randbedingungen und Einflüsse zu beachten sind.
+Es werden verschiedene CAD-Softwareprogramm recherchiert und evaluiert. Die Funktionen stehen hier an erster Stelle. Das Programm muss in der Lage sein, Stromlaufpläne und Bestückungspläne erstellen zu können. An nächster Stelle stehen die Kosten, die für das Programm abgerufen werden. Da das Projekt ein begrenztes Budget hat sollen diese möglichst gering gehalten werden. Wichtig zu beachten ist hierbei jedoch, dass die Kosten im Verhältnis zur gebotenen Leistung des Programms stehen müssen. Die Programme \textit{Autodesk Fusion 360} und \textit{EPlan} sind jeweils sehr vielversprechend. Die Nutzerfreundlichkeit ist in beiden Programmen gleichermaßen gegen. Entschieden wird sich für Autodesk Fusion 360, da EPlan über keine macOS kompatibilität verfügt.
 
-Anforderungsanalyse und Anforderungsdefinition, nach Möglichkeit strukturiert, um zu einem späteren Zeitpunkt die Anforderungen nachvollziehbar verifizieren zu können.
+Im nächsten Schritt der Vorbereitung muss eine tiefgreifende und umfassende Einarbeitung in das Programm durchgeführt werden. Hier wird ein besonderes Augenmerk auf die Aspekte Stromlaufplanerstellung, Bestückungsplanerstellung, Bibliothekerstellung und die dazugehörige Erstellung neuer Bauteile sowie die Programm-Projekt-Struktur gelegt.
 
-Herleitung einer Lösung (einer Methodik, eines experimentellen Aufbaus oder von unterschiedlichen Konzepten), Lösungsbewertung und bewusste Wahl des gewählten Vorgehens. An dieser Stelle ist auch auf die Zuverlässigkeit einer Methodik oder auf die Genauigkeit von Untersuchungen einzugehen. Die Überlegungen sollen dazu helfen, mit der angestrebten Lösung die gestellten Anforderungen zu erfüllen, um schließlich die Ziele der Arbeit erreichen zu können.
 
-Bei einer Gegenüberstellung von verschiedenen Lösungsansätzen kann z.~B. eine Nutzwertanalyse helfen. Dabei sind nicht nur z.~B. die Funktion, Leistungsfähigkeit, Umsetzbarkeit und Nutzbarkeit, sondern auch z.~B. wirtschaftliche Aspekte, wie Stück-, Entwicklungskosten oder Ressourcenverbrauch zu berücksichtigen. Sehr bedeutend sind auch Aspekte der Nachhaltigkeit unter Betrachtung des gesamten Lebenszyklus einer erarbeiteten Lösung.
 
-Sowohl bei der Anforderungsdefinition, als auch bei der Lösungsfindung gibt es eine große Anzahl an verschiedenen Methoden. Eine kleine Auswahl ist in der folgenden Aufzählung zu finden.
+\section{Installationsanleitung Fusion 360}
+Anleitung zur Erstellung eines Studentenaccounts und zum Herunterladen von Fusion 360 Electronics.
 
+\subsection*{Erstellung eines Autodesk-Studentenaccounts}
+
+Zur Nutzung von Fusion 360 Electronics ist die Erstellung eines Autodesk-Studentenaccounts erforderlich. Dies ermöglicht den kostenlosen Zugriff auf die Software.
+
+\paragraph{ Registrierung}
 \begin{itemize}
-\item Anforderungsdefinition mithilfe des Requirements Engineering  \autocite{Pohl.2021}
-\item Systems Engineering Ansatz \autocite{Schluter.2023}
-\item Agile Entwicklungsmethodiken \autocite{Cohn.2010, Martin.2020, Wirdemann.2022}
-\item Klassische Bewertungsverfahren \autocite{Breiing.1997, Zangemeister.2014}
+	\item Zugriff auf die Registrierungsseite: \href{https://accounts.autodesk.com/register?resume=/as/fMRyxxIM12/resume/as/authorization.ping&ack=uWlmiJuqQqVaAQjGdojc8Qxit4KVdorZ}{\underline{Autodesk Registrierungsseite}}.
+	\item Ausfüllen des Formulars mit den notwendigen Informationen:
+	\begin{itemize}
+		\item Vor- und Nachname
+		\item Gültige E-Mail-Adresse
+		\item Passwort entsprechend den Sicherheitsrichtlinien
+	\end{itemize}
 \end{itemize}
 
-Ziel dieses Kapitels ist, dass auf Basis von umfassend und genau formulierten Anforderungen (ggf. auch Nicht-Zielen) eine Lösungsvielfalt erarbeitet wird, welche anschließend strukturiert bewertet wird, um eine fundierte Begründung für die angestrebte Art der Umsetzung herzuleiten.
+\paragraph{ Bestätigung der E-Mail-Adresse}
+\begin{itemize}
+	\item Nach dem Absenden des Formulars wird eine E-Mail zur Bestätigung empfangen.
+	\item Öffnen der E-Mail und Klicken auf den Bestätigungslink zur Verifizierung der Adresse.
+\end{itemize}
+
+\paragraph{ Vervollständigung der Profilinformationen}
+\begin{itemize}
+	\item Anmeldung im Autodesk-Konto.
+	\item Angabe weiterer Informationen wie Institution, Studienrichtung und Studienjahr zur Bestätigung des Studentenstatus.
+\end{itemize}
+
+\paragraph*{ Verifizierung des Studentenstatus}
+\begin{itemize}
+	\item Hochladen eines Dokuments, das die Immatrikulation belegt (beispielsweise eine Studienbescheinigung).
+	\item Autodesk prüft die Dokumente innerhalb weniger Tage und sendet eine Bestätigung per E-Mail.
+\end{itemize}
+
+\subsection*{Herunterladen und Installieren von Fusion 360 Electronics}
+
+\paragraph{Zugriff auf den Download-Bereich}
+\begin{itemize}
+	\item Nach erfolgreicher Verifizierung des Accounts erfolgt die Anmeldung und Navigation zur \href{https://www.autodesk.com/education/home}{\underline{Autodesk Education Community}}.
+	\item Auswahl von Fusion 360 aus der Liste der verfügbaren Software.
+\end{itemize}
+
+
+\textbf{Download und Installationsprozess} unterscheiden sich für verschiedene Betriebssysteme. im folgenden wird auf die Unterschiede von Windows und macOS eingegangen.
+\subsection*{Windows}
+\begin{itemize}
+	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen den Softwareversionen für die verschiedenen Windows-Betriebssysteme. Diese unterscheiden sich in der Versionsnummer (beispielsweise \glqq Windows 11\grqq {}) und in den Bit-Versionen (32- und 64-Bit).
+	\item Schritte zur Identifikation der Windows-Version:
+	\begin{itemize}
+		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
+		\item[2.] Gehe zu System → Info.
+		\item[3.] Unter Windows-Spezifikationen findest du die genaue Version und Edition von Windows (beispielsweise \glqq Windows 11 Pro\grqq {}, \glqq Version 22H2\grqq {}).
+	\end{itemize}
+	\item Schritte zur Identifikation der Bit-Version:
+	\begin{itemize}
+		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
+		\item[2.] Gehe zu System → Info.
+		\item[3.] 	Unter Gerätespezifikationen → Systemtyp steht beispielsweise \glqq 64-Bit-Betriebssystem\grqq {}.
+	\end{itemize}
+	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
+	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
+\end{itemize}
+\subsection*{macOS}
+\begin{itemize}
+	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen der Softwareversion für Betriebssysteme mit Apple Silicon Prozessor und Intel Prozessor.
+	\item Schritte zur Identifikation des verbauten Prozessors:
+	\begin{itemize}
+		\item[1.] Klicke oben links auf das Apple-Symbol.
+		\item[2.] Wähle "Über diesen Mac".
+		\item[3.] Schaue im Fenster, das sich öffnet: \newline
+		Wenn dort \glqq Chip\grqq {} steht, gefolgt von beispielsweise \glqq Apple M1\grqq {} oder \glqq Apple M2\grqq {}, ist ein Apple Silicon Prozessor verbaut.\newline
+		Wenn dort \glqq Prozessor\grqq {} steht, gefolgt von einem Intel-Prozessor (beispielsweise \glqq Intel Core i5\grqq {}), ist ein Intel-Prozessor in dem Mac verbaut.
+	\end{itemize}
+	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
+	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
+\end{itemize}
+
+\paragraph*{Aktivierung der Education-Lizenz}
+\begin{itemize}
+	\item Beim ersten Start von Fusion 360 erfolgt die Eingabe der Anmeldeinformationen.
+	\item Die Software erkennt automatisch den Studentenstatus und aktiviert die entsprechende Lizenz.
+\end{itemize}

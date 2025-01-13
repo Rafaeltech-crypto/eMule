@@ -1,7 +1,7 @@
 \chapter{Grundlagen}
 \label{cha:Grundlagen}
 
-Das folgende Kapitel fasst die für die vorliegende Arbeit benötigten theoretischen Grundlagen zusammen. Hierzu wird in Kapitel 2.1 die Geschichte der Elektrofahrzeuge näher betrachtet. Anschließend wird in Kapitel 2.2 auf Normen zur Zeichnung von Schaltzeichen eingegangen. Abschließend wird in Kapitel 2.3 das zur Erstellung der Dokumentation genutzte Tool Autodesk Fusion 360 durchleuchtet.
+Das folgende Kapitel fasst die für die vorliegende Arbeit benötigten theoretischen Grundlagen zusammen. Hierzu wird in Kapitel 2.1 die Geschichte der Elektrofahrzeuge näher betrachtet. Anschließend werden in Kapitel 2.2 auf Lithium-Ionen-Batterien, in Kapitel 2.3 auf Normen zur Zeichnung von Schaltzeichen eingegangen und abschließend in Kapitel 2.4 das zur Erstellung der Dokumentation genutzte Tool Autodesk Fusion 360 durchleuchtet.
 \section{Geschichte der Elektrofahrzeuge}
 
 Die Geschichte der Elektrofahrzeuge ist ein faszinierendes Kapitel in der Entwicklung der Mobilität. Obwohl Elektrofahrzeuge heute als Zukunftstechnologie gelten, reichen ihre Ursprünge weit zurück und sind eng mit den Anfängen des Automobilbaus verknüpft.
@@ -16,6 +16,7 @@ Einen wichtigen Beitrag leistete der Franzose Gaston Planté, der 1859 den erste
 Um die Jahrhundertwende erfreuten sich Elektrofahrzeuge großer Beliebtheit. Sie waren leiser, sauberer und einfacher zu bedienen als die damals üblichen Fahrzeuge mit Dampf- oder Verbrennungsmotoren. Vor allem in Städten wurden Elektroautos aufgrund ihrer geringen Reichweite und einfachen Handhabung bevorzugt eingesetzt. \autocite{energyprofi_elektromobile_geschichte} Marken wie Baker Electric und Detroit Electric prägten diese Ära. \autocite{einfacheauto_elektroauto_geschichte}
 
 Elektrofahrzeuge hatten zu dieser Zeit bedeutende Marktvorteile. Während Verbrennungsmotoren oft manuell gekurbelt werden mussten und unangenehm laut waren, konnten Elektrofahrzeuge mit einem einfachen Schalter gestartet werden. \autocite{enbw_elektroautos_vorteile_nachteile} Die Reichweiten von etwa 50 bis 100 Kilometern pro Batterieladung reichten für den städtischen Einsatz vollkommen aus. \autocite{adac_stromverbrauch_elektroautos}
+\clearpage
 
 \subsection*{Der Rückgang durch den Verbrennungsmotor}
 
@@ -44,14 +45,14 @@ Die Perspektiven für Elektrofahrzeuge sind dennoch vielversprechend. Die fortsc
 Lithium-Ionen-Batterien werden aufgrund ihrer kompakten Bauweise bereits seit Jahren in der Computertechnik eingesetzt. Ihr Anwendungsbereich erstreckt sich dabei von Smartphones bis hin zu Laptops. Angesichts des bevorstehenden Verbots von Blei in Fahrzeugen gewinnt ihr Einsatz auch im Automobilsektor zunehmend an Bedeutung und wird perspektivisch unverzichtbar.\newline
 Eine Lithium-Ionen-Batterie mit einer Nennspannung von X Volt besteht aus in Reihe geschalteten Zellen, wodurch sich die Zellspannungen addieren, während die Gesamtkapazität durch die Kapazität der schwächsten Zelle begrenzt bleibt. Für größere Kapazitätsanforderungen werden Zellen parallel geschaltet, wodurch sich die Kapazitäten der einzelnen Zellen addieren, während die Spannung unverändert bleibt. Die Bewertung einer solchen Batterie erfolgt klassischerweise anhand ihrer nominalen Kapazität, der gespeicherten elektrischen Energie und ihrer Leistung.
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{images/Li-Zelle}
-	\caption{Aufbau einer Lithium-Ionen-Zelle}
+	\caption{Aufbau einer Lithium-Ionen-Zelle \autocite{scinexx_akku_schattenseiten}}
 	\label{fig:li-zelle}
 \end{figure}
 
-Eine einzelne Lithium-Ionen-Zelle \ref{fig:li-zelle} besteht grundlegend aus einer Anode, einer Kathode, einem Separator, Ableitern und einem Elektrolyten. Der positive Bereich der Zelle befindet sich auf der Seite der Anode, die aus einem Ableiter besteht, der mit einer Schicht aus Graphit, also Kohlenstoff, beschichtet ist. Als Material für den Ableiter wird üblicherweise Kupfer, seltener auch Nickel, verwendet. Die Kathode hingegen bildet das negative Element der Zelle und besteht aus einem Aluminium-Ableiter, der mit Materialien wie Lithium-Cobalt-Oxid, Lithium-Mangan-Oxid oder Lithium-Eisen-Phosphat beschichtet ist. Der Zwischenraum zwischen den beiden Elektroden ist mit einem flüssigen Elektrolyten gefüllt, der den Ionentransport zwischen den Elektroden ermöglicht. Dabei wird eine möglichst hohe Leitfähigkeit sichergestellt, um den Betrieb der Zelle in einem Temperaturbereich von -40 °C bis +80 °C zu gewährleisten. \autocite{Lith-Akku}
+Eine einzelne Lithium-Ionen-Zelle (siehe Abbildung \ref{fig:li-zelle}) besteht grundlegend aus einer Anode, einer Kathode, einem Separator, Ableitern und einem Elektrolyten. Der positive Bereich der Zelle befindet sich auf der Seite der Anode, die aus einem Ableiter besteht, der mit einer Schicht aus Graphit, also Kohlenstoff, beschichtet ist. Als Material für den Ableiter wird üblicherweise Kupfer, seltener auch Nickel, verwendet. Die Kathode hingegen bildet das negative Element der Zelle und besteht aus einem Aluminium-Ableiter, der mit Materialien wie Lithium-Cobalt-Oxid, Lithium-Mangan-Oxid oder Lithium-Eisen-Phosphat beschichtet ist. Der Zwischenraum zwischen den beiden Elektroden ist mit einem flüssigen Elektrolyten gefüllt, der den Ionentransport zwischen den Elektroden ermöglicht. Dabei wird eine möglichst hohe Leitfähigkeit sichergestellt, um den Betrieb der Zelle in einem Temperaturbereich von -40 °C bis +80 °C zu gewährleisten. \autocite{Lith-Akku}
 Ein Elektrolyt ist im Wesentlichen eine Flüssigkeit, die mit Leitsalzen angereichert ist, um den Ionentransport zu ermöglichen. Darüber hinaus muss das Elektrolyt eine hohe Stabilität aufweisen, um mehreren tausend Lade- und Entladezyklen standzuhalten. \autocite[S.61f.]{Korthauer.2013}
 Der Separator bildet eine Trennschicht innerhalb des Elektrolyten zwischen den Elektroden einer Lithium-Ionen-Zelle. Er besteht in der Regel aus einer Membran oder einem Vliesstoff aus Materialien wie Glasfaser oder Kunststoffen und weist eine Porosität von etwa 40 \% auf. Seine besondere Eigenschaft ist die selektive Durchlässigkeit für Ionen, die für die Umwandlung von chemischer in elektrische Energie unerlässlich sind. Elektronen hingegen werden durch den Separator blockiert, um sicherzustellen, dass sie über externe Leitungen zu den Verbrauchern, wie beispielsweise einem Steuergerät, transportiert werden können. Nach ihrer Nutzung kehren die Elektronen über den externen Stromkreis in die Zelle zurück, wo sie auf die gegenüberliegende Seite zu den Ionen gelangen. \newline \autocite[S. 80]{Korthauer.2013}
 Der Separator spielt eine entscheidende Rolle bei der Vermeidung interner Kurzschlüsse, die ohne ihn auftreten würden. Zusätzlich fördert er den Gasaustausch, indem er das Elektrolyt aufsaugt. Die physikalischen Eigenschaften des Separators, wie seine Dicke und Porosität, beeinflussen maßgeblich den Innenwiderstand der Zelle und tragen somit zur Gesamtleistung bei. \autocite[S. 80]{Korthauer.2013}
@@ -92,97 +93,11 @@ Durch die Einhaltung der DIN-Norm können Ingenieure sicherstellen, dass ihre Sc
 
 \section{Autodesk Fusion 360}
 \label{Autodesk}
-Autodesk Fusion 360 ist eine integrierte Plattform für computergestütztes Design (CAD), Fertigung (CAM) und technische Analyse (CAE), die als Cloud-basierte Lösung entwickelt wurde. Sie erlaubt es, mechanische und elektronische Designprozesse zu vereinen, und bietet damit Ingenieuren, Designern und Entwicklern eine zentrale Plattform für die Produktentwicklung. Im Folgenden wird zunächst die Unternehmensgeschichte von Autodesk als Entwickler dieser Software beleuchtet, bevor die Kernfunktionen und speziellen Funktionen zur Erstellung elektronischer Schaltpläne detailliert werden.
-\subsection{Installationsaleitung}
-Anleitung zur Erstellung eines Studentenaccounts und zum Herunterladen von Fusion 360 Electronics.
-
-\subsection*{Erstellung eines Autodesk-Studentenaccounts}
-
-Zur Nutzung von Fusion 360 Electronics ist die Erstellung eines Autodesk-Studentenaccounts erforderlich. Dies ermöglicht den kostenlosen Zugriff auf die Software.
-
-\paragraph{ Registrierung}
-\begin{itemize}
-	\item Zugriff auf die Registrierungsseite: \href{https://accounts.autodesk.com/register?resume=/as/fMRyxxIM12/resume/as/authorization.ping&ack=uWlmiJuqQqVaAQjGdojc8Qxit4KVdorZ}{\underline{Autodesk Registrierungsseite}}.
-	\item Ausfüllen des Formulars mit den notwendigen Informationen:
-	\begin{itemize}
-		\item Vor- und Nachname
-		\item Gültige E-Mail-Adresse
-		\item Passwort entsprechend den Sicherheitsrichtlinien
-	\end{itemize}
-\end{itemize}
-
-\paragraph{ Bestätigung der E-Mail-Adresse}
-\begin{itemize}
-	\item Nach dem Absenden des Formulars wird eine E-Mail zur Bestätigung empfangen.
-	\item Öffnen der E-Mail und Klicken auf den Bestätigungslink zur Verifizierung der Adresse.
-\end{itemize}
-
-\paragraph{ Vervollständigung der Profilinformationen}
-\begin{itemize}
-	\item Anmeldung im Autodesk-Konto.
-	\item Angabe weiterer Informationen wie Institution, Studienrichtung und Studienjahr zur Bestätigung des Studentenstatus.
-\end{itemize}
-
-\paragraph*{ Verifizierung des Studentenstatus}
-\begin{itemize}
-	\item Hochladen eines Dokuments, das die Immatrikulation belegt (z. B. eine Studienbescheinigung).
-	\item Autodesk prüft die Dokumente innerhalb weniger Tage und sendet eine Bestätigung per E-Mail.
-\end{itemize}
-
-\subsection*{Herunterladen und Installieren von Fusion 360 Electronics}
-
-\paragraph{Zugriff auf den Download-Bereich}
-\begin{itemize}
-	\item Nach erfolgreicher Verifizierung des Accounts erfolgt die Anmeldung und Navigation zur \href{https://www.autodesk.com/education/home}{\underline{Autodesk Education Community}}.
-	\item Auswahl von Fusion 360 aus der Liste der verfügbaren Software.
-\end{itemize}
-
-\paragraph{ Download und Installation}
-\subsection*{Windows}
-\begin{itemize}
-	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen den Softwareversionen für die verschiedenen Windows-Betriebssysteme. Diese unterscheiden sich in der Versionsnummer (z. B. \glqq Windows 11\grqq {}) und in den Bit-Versionen (32- und 64-Bit).
-	\item Schritte zur Identifikation der Windows-Version:
-		\begin{itemize}
-		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
-		\item[2.] Gehe zu System → Info.
-		\item[3.] Unter Windows-Spezifikationen findest du die genaue Version und Edition von Windows (z. B. \glqq Windows 11 Pro\grqq {}, \glqq Version 22H2\grqq {}).
-		\end{itemize}
-	\item Schritte zur Identifikation der Bit-Version:
-		\begin{itemize}
-		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
-		\item[2.] Gehe zu System → Info.
-		\item[3.] 	Unter Gerätespezifikationen → Systemtyp steht z. B. \glqq 64-Bit-Betriebssystem\grqq {}.
-		\end{itemize}
-	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
-	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
-\end{itemize}
-\subsection*{macOS}
-\begin{itemize}
-	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen der Softwareversion für Betriebssysteme mit Apple Silicon Prozessor und Intel Prozessor.
-	\item Schritte zur Identifikation des verbauten Prozessors:
-	\begin{itemize}
-		\item[1.] Klicke oben links auf das Apple-Symbol.
-		\item[2.] Wähle "Über diesen Mac".
-		\item[3.] Schaue im Fenster, das sich öffnet: \newline
-		Wenn dort \glqq Chip\grqq {} steht, gefolgt von z. B. \glqq Apple M1\grqq {} oder \glqq Apple M2\grqq {}, ist ein Apple Silicon Prozessor verbaut.\newline
-		Wenn dort \glqq Prozessor\grqq {} steht, gefolgt von einem Intel-Prozessor (z. B. \glqq Intel Core i5\grqq {}), ist ein Intel-Prozessor in dem Mac verbaut.
-	\end{itemize}
-	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
-	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
-\end{itemize}
-
-\paragraph*{Aktivierung der Education-Lizenz}
-\begin{itemize}
-	\item Beim ersten Start von Fusion 360 erfolgt die Eingabe der Anmeldeinformationen.
-	\item Die Software erkennt automatisch den Studentenstatus und aktiviert die entsprechende Lizenz.
-\end{itemize}
+Autodesk Fusion 360 ist eine integrierte Plattform für computergestütztes Design (CAD), Fertigung (Computer-Aided Engineering, kurz CAM) und technische Analyse (Computer-Aided Manufacturing, kurz CAE), die als Cloud-basierte Lösung entwickelt wurde. Sie erlaubt es, mechanische und elektronische Designprozesse zu vereinen, und bietet damit Ingenieuren, Designern und Entwicklern eine zentrale Plattform für die Produktentwicklung. Im Folgenden wird zunächst die Unternehmensgeschichte von Autodesk als Entwickler dieser Software beleuchtet, bevor die Kernfunktionen und speziellen Funktionen zur Erstellung elektronischer Schaltpläne detailliert werden.
 
 
-
-
-
-\subsection{Historie und Entwicklung}
-Autodesk, Inc. wurde 1982 von John Walker und einer Gruppe von Programmierern gegründet und spezialisierte sich schnell auf Softwarelösungen für Architektur, Ingenieurwesen und digitale Medien. \autocite{wikipedia_autodesk}
+\subsection*{Historie und Entwicklung}
+Autodesk Incorporated (Inc.) wurde 1982 von John Walker und einer Gruppe von Programmierern gegründet und spezialisierte sich schnell auf Softwarelösungen für Architektur, Ingenieurwesen und digitale Medien. \autocite{wikipedia_autodesk}
 Die Veröffentlichung von AutoCAD im Jahr 1982 setzte einen wichtigen Meilenstein für die computergestützte Konstruktion und wurde zur führenden CAD-Software für Architekten und Ingenieure weltweit.\autocite{wikipedia_autocad_version_history}
 
 

@@ -1,18 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'WissBer_PA_SA_BA.blg'
-[33] biber-darwin:340> INFO - === Mon Jan 13, 2025, 21:59:59
-[41] Biber.pm:419> INFO - Reading 'WissBer_PA_SA_BA.bcf'
-[75] Biber.pm:979> INFO - Found 30 citekeys in bib section 0
-[82] Biber.pm:4419> INFO - Processing section 0
-[87] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
-[88] bibtex.pm:1713> INFO - LaTeX decoding ...
-[97] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur1.bib'
-[148] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur2.bib' for section 0
-[149] bibtex.pm:1713> INFO - LaTeX decoding ...
-[157] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur2.bib'
-[192] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[192] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[192] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[192] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[209] bbl.pm:660> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
-[217] bbl.pm:763> INFO - Output to WissBer_PA_SA_BA.bbl
+[35] biber-darwin:340> INFO - === Mon Jan 13, 2025, 22:56:56
+[44] Biber.pm:419> INFO - Reading 'WissBer_PA_SA_BA.bcf'
+[80] Biber.pm:979> INFO - Found 24 citekeys in bib section 0
+[88] Biber.pm:4419> INFO - Processing section 0
+[94] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
+[95] bibtex.pm:1713> INFO - LaTeX decoding ...
+[105] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur1.bib'
+[179] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[179] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[179] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[179] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[193] bbl.pm:660> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
+[199] bbl.pm:763> INFO - Output to WissBer_PA_SA_BA.bbl
