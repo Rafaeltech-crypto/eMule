@@ -104,6 +104,43 @@
       \verb https://www.ardalpha.de/wissen/geschichte/kulturgeschichte/henry-ford-automobil-auto-fliessband-erfinder-100.html
       \endverb
     \endentry
+    \entry{anderson2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2837e471e39216016df49b76eabc3aef}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, Taylor \& Francis}%
+      }
+      \strng{namehash}{2837e471e39216016df49b76eabc3aef}
+      \strng{fullhash}{2837e471e39216016df49b76eabc3aef}
+      \strng{bibnamehash}{2837e471e39216016df49b76eabc3aef}
+      \strng{authorbibnamehash}{2837e471e39216016df49b76eabc3aef}
+      \strng{authornamehash}{2837e471e39216016df49b76eabc3aef}
+      \strng{authorfullhash}{2837e471e39216016df49b76eabc3aef}
+      \field{labelalpha}{And20}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Second edition}
+      \field{isbn}{978-0-429-28598-1 978-1-00-076478-9 978-1-00-076496-3 978-1-00-076487-1}
+      \field{langid}{english}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Design for Manufacturability}
+      \field{title}{Design for Manufacturability: How to Use Concurrent Engineering to Rapidly Develop Low-Cost, High-Quality Products for Lean Production}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/macbookvonrafael/Zotero/storage/MTJDBHC5/Anderson - 2020 - Design for manufacturability how to use concurren.pdf
+      \endverb
+    \endentry
     \entry{enbw_elektroautos_vorteile_nachteile}{misc}{}
       \name{author}{1}{}{%
         {{hash=4fa214dafb3f0302b2701bfedcf07c6e}{%
@@ -245,6 +282,44 @@
       \verb https://www.energyprofi.com/uncategorized/geschichte-der-elektromobile-und-hybridfahrzeuge-ab-1900/
       \endverb
     \endentry
+    \entry{gebhardt2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b8693034830a16c8b3cec31e3c763c1b}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Hanser}%
+      }
+      \strng{namehash}{b8693034830a16c8b3cec31e3c763c1b}
+      \strng{fullhash}{b8693034830a16c8b3cec31e3c763c1b}
+      \strng{bibnamehash}{b8693034830a16c8b3cec31e3c763c1b}
+      \strng{authorbibnamehash}{b8693034830a16c8b3cec31e3c763c1b}
+      \strng{authornamehash}{b8693034830a16c8b3cec31e3c763c1b}
+      \strng{authorfullhash}{b8693034830a16c8b3cec31e3c763c1b}
+      \field{labelalpha}{Geb16}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Die aktualisierte 5. Auflage dieses Standardwerks beschreibt die, noch anhaltende, Entwicklung und Verbreitung der Generativen Fertigungstechnik über alle Branchen und viele Anwendergruppen hinweg. Leistungsfähige Production Printer arbeiten in der Industrie und Fabber, kleine, preiswerte und meist selbst zu bauende 3D-Drucker, erschließen die Generative Fertigung auch für Privatleute und an entlegenen Orten. Seriöse Journale und Tageszeitungen machen mit Druckern Erfolgsgeschichten auf. Drucker sind in aller Munde. Daneben wird die Technik sukzessive verbessert. Die Prozesse werden stabiler und vor allem reproduzierbar. Eine wirkliche Massenproduktion von Einzelteilen gelingt in einzelnen Branchen und beginnt sich durchzusetzen. Neu in der 5. Auflage sind: - Aktualisierungen: Firmen, Maschinen und Material; Anwendungsbeispiele; - Erweiterungen: Fabbertechnologie, Do It Yourself Drucker}
+      \field{edition}{5., neu bearbeitete und erweiterte Auflage}
+      \field{isbn}{978-3-446-44539-0}
+      \field{langid}{ngerman}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Additive Fertigungsverfahren}
+      \field{title}{Additive Fertigungsverfahren: additive Manufacturing und 3D-Drucken für Prototyping - Tooling - Produktion}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/macbookvonrafael/Zotero/storage/W96ZHF9A/Gebhardt - 2016 - Additive Fertigungsverfahren additive Manufacturi.pdf
+      \endverb
+    \endentry
     \entry{greelane_charles_kettering}{misc}{}
       \name{author}{1}{}{%
         {{hash=385df1364f4d0c5daea9176d598a2f7e}{%
@@ -299,6 +374,31 @@
       \endverb
       \verb{url}
       \verb https://www.tanke-guenstig.de/oelpreise
+      \endverb
+    \endentry
+    \entry{hogan2025}{article}{}
+      \name{author}{1}{}{%
+        {{hash=925fb1fd9004001595a4b05b552dc771}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={Jo-Ann},
+           giveni={J\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{925fb1fd9004001595a4b05b552dc771}
+      \strng{fullhash}{925fb1fd9004001595a4b05b552dc771}
+      \strng{bibnamehash}{925fb1fd9004001595a4b05b552dc771}
+      \strng{authorbibnamehash}{925fb1fd9004001595a4b05b552dc771}
+      \strng{authornamehash}{925fb1fd9004001595a4b05b552dc771}
+      \strng{authorfullhash}{925fb1fd9004001595a4b05b552dc771}
+      \field{labelalpha}{Hog}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Getting {{Started}} with {{Fusion}} 360}
+      \verb{file}
+      \verb /Users/macbookvonrafael/Zotero/storage/8MP456JT/Hogan - Getting Started with Fusion 360.pdf
       \endverb
     \endentry
     \entry{cosmos_gaston_plante}{misc}{}
@@ -514,6 +614,59 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/s35146-023-1510-1
+      \endverb
+    \endentry
+    \entry{pistoia2018}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=8959f65fc60e2c8af81238b5995918d3}{%
+           family={Pistoia},
+           familyi={P\bibinitperiod},
+           given={Gianfranco},
+           giveni={G\bibinitperiod}}}%
+        {{hash=789cc0e841493171207c71ef128f78a4}{%
+           family={Liaw},
+           familyi={L\bibinitperiod},
+           given={Boryann},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{ad6d136fdc12811b316c9b59f62e858b}
+      \strng{fullhash}{ad6d136fdc12811b316c9b59f62e858b}
+      \strng{bibnamehash}{ad6d136fdc12811b316c9b59f62e858b}
+      \strng{editorbibnamehash}{ad6d136fdc12811b316c9b59f62e858b}
+      \strng{editornamehash}{ad6d136fdc12811b316c9b59f62e858b}
+      \strng{editorfullhash}{ad6d136fdc12811b316c9b59f62e858b}
+      \field{labelalpha}{PL18}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-69949-3 978-3-319-69950-9}
+      \field{langid}{english}
+      \field{series}{Green {{Energy}} and {{Technology}}}
+      \field{title}{Behaviour of {{Lithium-Ion Batteries}} in {{Electric Vehicles}}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-319-69950-9
+      \endverb
+      \verb{file}
+      \verb /Users/macbookvonrafael/Zotero/storage/4WASVZA6/Pistoia und Liaw - 2018 - Behaviour of Lithium-Ion Batteries in Electric Veh.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-319-69950-9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-319-69950-9
       \endverb
     \endentry
     \entry{automobilproduktion_produktionskosten_elektroautos}{misc}{}

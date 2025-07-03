@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  1 JUL 2025 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  3 JUL 2025 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2394,163 +2394,111 @@ Legende/3 Phasen Motor.png>]
 \openout2 = `chapter/3d.aux'.
 
  (./chapter/3d.tex
-
-LaTeX Warning: Citation 'gebhardt2016' on page 37 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'pistoia2018' on page 37 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'gebhardt2016' on page 37 undefined on input line 8.
-
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
+chapter 4.
 [37
 
 
 
+
+
 ]
-
-LaTeX Warning: Citation 'hogan2025' on page 38 undefined on input line 13.
-
-
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [38]
-
-LaTeX Warning: Citation 'anderson2020' on page 39 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'hogan2025' on page 39 undefined on input line 31.
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
+[39]
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[39]
-
-LaTeX Warning: Citation 'anderson2020' on page 40 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'gebhardt2016' on page 40 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'pistoia2018' on page 40 undefined on input line 41.
-
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[40]
-
-LaTeX Warning: Citation 'gebhardt2016' on page 41 undefined on input line 43.
-
-
-LaTeX Warning: Citation 'anderson2020' on page 41 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'hogan2025' on page 41 undefined on input line 53.
-
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
 [41]
-
-LaTeX Warning: Citation 'anderson2020' on page 42 undefined on input line 59.
-
-
-LaTeX Warning: Citation 'gebhardt2016' on page 42 undefined on input line 65.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [42]
-
-LaTeX Warning: Citation 'hogan2025' on page 43 undefined on input line 71.
-
-
-LaTeX Warning: Citation 'gebhardt2016' on page 43 undefined on input line 81.
-
+<circuts/Zelle.pdf, id=517, 1195.46625pt x 845.1575pt>
+File: circuts/Zelle.pdf Graphic file (type pdf)
+<use circuts/Zelle.pdf>
+Package pdftex.def Info: circuts/Zelle.pdf  used on input line 85.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: circuts/Zelle.pdf Graphic file (type pdf)
+<use circuts/Zelle.pdf>
+Package pdftex.def Info: circuts/Zelle.pdf  used on input line 85.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+<circuts/Zelle.pdf, id=520, page=1, 1195.46625pt x 845.1575pt>
+File: circuts/Zelle.pdf Graphic file (type pdf)
+<use circuts/Zelle.pdf, page 1>
+Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: circuts/Zelle.pdf Graphic file (type pdf)
+<use circuts/Zelle.pdf, page 1>
+Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [43]
-<circuts/Zelle.pdf, id=500, 1195.46625pt x 845.1575pt>
-File: circuts/Zelle.pdf Graphic file (type pdf)
-<use circuts/Zelle.pdf>
-Package pdftex.def Info: circuts/Zelle.pdf  used on input line 99.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-File: circuts/Zelle.pdf Graphic file (type pdf)
-<use circuts/Zelle.pdf>
-Package pdftex.def Info: circuts/Zelle.pdf  used on input line 99.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Zelle.pdf, id=503, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf, page 1>
-Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 99.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-File: circuts/Zelle.pdf Graphic file (type pdf)
-<use circuts/Zelle.pdf, page 1>
-Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 99.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[44]
-File: circuts/Zelle.pdf Graphic file (type pdf)
-<use circuts/Zelle.pdf, page 1>
-Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 99.
+Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf, page 1>
-Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 99.
+Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 99.
+(caption)                particular \caption on input line 85.
 See the caption package documentation for explanation.
 
 File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf, page 1>
-Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 99.
+Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-[45
+[44
 
  <./circuts/Zelle.pdf>]
-<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=517, 1195.46625pt x 845.15
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[46]
+<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=542, 1195.46625pt x 845.15
 75pt>
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf  used 
-on input line 115.
+on input line 109.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf  used 
-on input line 115.
+on input line 109.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=520, page=1, 1195.46625pt 
+<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=545, page=1, 1195.46625pt 
 x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
-1 used on input line 115.
+1 used on input line 109.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
-1 used on input line 115.
+1 used on input line 109.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
@@ -2560,54 +2508,54 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
-1 used on input line 115.
+1 used on input line 109.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
-1 used on input line 115.
+1 used on input line 109.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 115.
+(caption)                particular \caption on input line 109.
 See the caption package documentation for explanation.
 
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
-1 used on input line 115.
+1 used on input line 109.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [48
 
  <./circuts/Energiespeichersystem_Assembley_TOP.pdf>]
-<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=534, 1195.4662
+<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=560, 1195.4662
 5pt x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf  used on input line 133.
+e.pdf  used on input line 126.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf  used on input line 133.
+e.pdf  used on input line 126.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=537, page=1, 1
+<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=563, page=1, 1
 195.46625pt x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf , page1 used on input line 133.
+e.pdf , page1 used on input line 126.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf , page1 used on input line 133.
+e.pdf , page1 used on input line 126.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
@@ -2618,25 +2566,25 @@ File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf , page1 used on input line 133.
+e.pdf , page1 used on input line 126.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf , page1 used on input line 133.
+e.pdf , page1 used on input line 126.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 133.
+(caption)                particular \caption on input line 126.
 See the caption package documentation for explanation.
 
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, page 1>
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
-e.pdf , page1 used on input line 133.
+e.pdf , page1 used on input line 126.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [51
 
@@ -2654,7 +2602,7 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 ]
-chapter 4.
+chapter 5.
 
 Overfull \hbox (138.8115pt too wide) in paragraph at lines 10--11
 []\T1/cmr/m/n/12 Verbesserung der Tem-pe-ra-tur-re-ge-lung des Kühl-sys-tems du
@@ -2691,16 +2639,16 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [60]
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
+
+
+[61]
 Overfull \hbox (2.37354pt too wide) in paragraph at lines 245--245
 []\T1/cmr/m/n/12 Dipl.-Ing. Frank Sie-gert. \T1/cmr/m/it/12 Li-thi-um Po-ly-mer
  Akku-Technologie\T1/cmr/m/n/12 . 2015. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 :
  []
 
 
-Overfull \vbox (1.76944pt too high) has occurred while \output is active []
-
-
-[61]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
@@ -2776,20 +2724,15 @@ LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `WissBer_PA_SA_BA.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                WissBer_PA_SA_BA
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'WissBer_PA_SA_BA.run.xml'.
 \openout1 = `WissBer_PA_SA_BA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59560 strings out of 474116
- 1366812 string characters out of 5743683
- 2466413 words of memory out of 5000000
- 80782 multiletter control sequences out of 15000+600000
+ 59581 strings out of 474116
+ 1367508 string characters out of 5743683
+ 2463496 words of memory out of 5000000
+ 80799 multiletter control sequences out of 15000+600000
  574411 words of font info for 67 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,17n,122p,10947b,3618s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2810,10 +2753,10 @@ ve/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive
 texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2024/te
 xmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texm
 f-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on WissBer_PA_SA_BA.pdf (74 pages, 5485198 bytes).
+Output written on WissBer_PA_SA_BA.pdf (74 pages, 5487176 bytes).
 PDF statistics:
- 945 PDF objects out of 1000 (max. 8388607)
- 747 compressed objects within 8 object streams
- 177 named destinations out of 1000 (max. 500000)
+ 977 PDF objects out of 1000 (max. 8388607)
+ 779 compressed objects within 8 object streams
+ 181 named destinations out of 1000 (max. 500000)
  540 words of extra memory for PDF output out of 10000 (max. 10000000)
 

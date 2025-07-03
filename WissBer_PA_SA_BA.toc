@@ -18,24 +18,24 @@
 \contentsline {subsection}{\numberline {3.2.4}Stromlaufplan Charger Temperature Control}{31}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}Stromlaufplan HV-Onboard-Network}{31}{subsection.3.2.5}%
 \contentsline {section}{\numberline {3.3}Legende der Schaltzeichen}{35}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Introduction and Technical Background}{37}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Design Approach Using Fusion 360}{38}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Design and Development of a Modular Lithium-Ion Battery System}{39}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Introduction}{40}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Parametric Modeling Principles}{40}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Base Geometry and Cell Arrangement}{40}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Feature Addition: Sensor Integration and Cable Management}{41}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Assembly Modeling and Component Placement}{41}{section.3.11}%
-\contentsline {section}{\numberline {3.12}Design for Additive Manufacturing (DfAM) Considerations}{42}{section.3.12}%
-\contentsline {section}{\numberline {3.13}Manufacturing Preparation and Export}{42}{section.3.13}%
-\contentsline {section}{\numberline {3.14}Iterative Refinement and Version Control}{43}{section.3.14}%
-\contentsline {section}{\numberline {3.15}Application Context: Battery Housing for the E-Mule Energy Storage System}{43}{section.3.15}%
-\contentsline {section}{\numberline {3.16}Detailed CAD Design Process in Fusion 360}{44}{section.3.16}%
-\contentsline {subsection}{\numberline {3.16.1}Cell Holder Design and Arrangement}{44}{subsection.3.16.1}%
-\contentsline {subsection}{\numberline {3.16.2}Assembly of the Complete Storage Module}{47}{subsection.3.16.2}%
-\contentsline {subsection}{\numberline {3.16.3}Integration of the Protective Enclosure}{50}{subsection.3.16.3}%
-\contentsline {section}{\numberline {3.17}Conclusion on the CAD Design Process}{53}{section.3.17}%
-\contentsline {chapter}{\numberline {4}Kritische Reflektion und Ausblick}{55}{chapter.4}%
+\contentsline {chapter}{\numberline {4}CD Modelling}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction and Technical Background}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Design Approach Using Fusion 360}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Design and Development of a Modular Lithium-Ion Battery System}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Introduction}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Parametric Modeling Principles}{40}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Base Geometry and Cell Arrangement}{41}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Feature Addition: Sensor Integration and Cable Management}{41}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Assembly Modeling and Component Placement}{42}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Design for Additive Manufacturing (DfAM) Considerations}{42}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Manufacturing Preparation and Export}{43}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Iterative Refinement and Version Control}{43}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Application Context: Battery Housing for the E-Mule Energy Storage System}{43}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Detailed CAD Design Process in Fusion 360}{46}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}Cell Holder Design and Arrangement}{46}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Integration of the Protective Enclosure}{50}{subsection.4.13.2}%
+\contentsline {section}{\numberline {4.14}Conclusion on the CAD Design Process}{53}{section.4.14}%
+\contentsline {chapter}{\numberline {5}Kritische Reflektion und Ausblick}{55}{chapter.5}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{59}{chapter*.35}%
 \contentsline {chapter}{\nonumberline Verzeichnis verwendeter Formelzeichen und Abkürzungen}{63}{chapter*.36}%
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{65}{chapter*.37}%

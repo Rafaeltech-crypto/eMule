@@ -1,3 +1,4 @@
+\chapter{CD Modelling}
 \section{Introduction and Technical Background}
 Battery enclosures are critical components in the design of energy storage systems, particularly in mobile and compact applications. They serve as structural containers for lithium-ion cells and provide necessary protection against environmental and mechanical influences. Their design must reconcile several competing requirements: mechanical robustness, thermal management, electrical insulation, compactness, and manufacturability. With the increasing adoption of 3D printing technologies, engineers now have more flexibility to prototype and produce such enclosures, particularly for small-series or custom applications \cite{gebhardt2016}.
 
@@ -10,13 +11,13 @@ Mechanical constraints also play a decisive role. Battery packs are often subjec
 The enclosure design must also accommodate connectors, cable guides, ventilation openings, and possibly fasteners for mounting within a device or vehicle. All of these features must be precisely aligned and dimensioned to ensure a secure and reliable assembly. Such complexity makes parametric and constraint-based design software particularly valuable.
 
 \section{Design Approach Using Fusion 360}
-Autodesk Fusion 360 provides an integrated environment for CAD, simulation, and CAM, which makes it particularly well-suited for iterative design and prototyping of technical components like battery enclosures. Its parametric modeling capabilities allow engineers to define the relationships between different parts of the geometry, ensuring that dimensional adjustments propagate automatically throughout the model \cite{hogan2025}.
+Autodesk Fusion 360 provides an integrated environment for computer aided design (CAD), simulation, and Computer-Aided Manufacturing (CAM), which makes it particularly well-suited for iterative design and prototyping of technical components like battery enclosures. Its parametric modeling capabilities allow engineers to define the relationships between different parts of the geometry, ensuring that dimensional adjustments propagate automatically throughout the model \cite{hogan2025}.
 
-Using Fusion 360, a designer can first define a master sketch that includes key dimensions such as cell spacing, wall thickness, and screw positions. Through extrusion and patterning, these base geometries are transformed into 3D solids. Additional features such as ventilation slots or mounting flanges can be added using derived sketches and Boolean operations.
+Using Fusion 360, a designer can first define a master sketch that includes key dimensions such as cell spacing, wall thickness, and screw positions. Through extrusion and patterning, these base geometries are transformed into 3D solids. Additional features such as ventilation slots or mounting flanges can be added using derived sketches and Boolean operations\cite{hogan2025}..
 
-Assemblies in Fusion 360 enable designers to position and constrain battery cells within the enclosure, simulating real-world configurations. This allows for spatial validation and interference checking early in the process, reducing the risk of design flaws during manufacturing.
+Assemblies in Fusion 360 enable designers to position and constrain battery cells within the enclosure, simulating real-world configurations. This allows for spatial validation and interference checking early in the process, reducing the risk of design flaws during manufacturing\cite{hogan2025}..
 
-Moreover, Fusion 360 supports exporting the final design directly into formats suitable for additive manufacturing, such as STL or 3MF. This integration streamlines the workflow from design to production, making it ideal for rapid prototyping and validation.
+Moreover, Fusion 360 supports exporting the final design directly into formats suitable for additive manufacturing, such as STL or 3MF. This integration streamlines the workflow from design to production, making it ideal for rapid prototyping and validation\cite{hogan2025}..
 
 From a manufacturability perspective, the designer must also follow principles of Design for Additive Manufacturing (DfAM). This includes minimizing unsupported overhangs, ensuring even wall thicknesses, and aligning features for optimal layer orientation. Fusion 360 offers visualization tools and slicer integration to help evaluate the printability of the part \cite{anderson2020}.
 
@@ -24,7 +25,7 @@ In summary, Fusion 360 offers the necessary flexibility and functionality to dev
 
 \section{Design and Development of a Modular Lithium-Ion Battery System}
 
-The presented design illustrates a modular lithium-ion battery storage system, developed for high-density energy applications such as stationary energy storage, backup infrastructure, or mobile electrification platforms. The system is based on 21700-format lithium-ion cells, arranged in a densely packed structural configuration to optimize both volumetric energy density and thermal dissipation properties. The design process was carried out using CAD modeling tools, including parametric 3D assemblies, with iterative thermal and structural simulations executed to ensure mechanical and thermal stability under nominal and elevated load conditions.
+The design illustrates a modular lithium-ion battery storage system, developed for high-density energy applications such as stationary energy storage, backup infrastructure, or mobile electrification platforms. The system is based on 21700-format lithium-ion cells, arranged in a densely packed structural configuration to optimize both volumetric energy density and thermal dissipation properties. The design process was carried out using CAD modeling tools, including parametric 3D assemblies, with iterative thermal and structural simulations executed to ensure mechanical and thermal stability under nominal and elevated load conditions.
 
 \section{Introduction}
 
@@ -75,21 +76,6 @@ This iterative design methodology accelerates development timelines and reduces 
 
 
 \section{Application Context: Battery Housing for the E-Mule Energy Storage System}
-
-The battery system presented in this project was designed specifically for use in an electric utility vehicle—the E-Mule. In such mobile applications, energy storage must not only provide sufficient capacity and power density, but also fulfill mechanical and thermal requirements, ensure serviceability, and allow compact packaging. These constraints played a central role in the CAD modeling process and directly influenced key design decisions.
-
-The final design was entirely created using Fusion 360, with a strong focus on modularity, manufacturability, and the physical integration of standard lithium-ion cells (type 21700). The enclosure and internal structures were tailored for additive manufacturing using PETG, a common thermoplastic with suitable strength and heat resistance \cite{gebhardt2016}. No electrical testing or thermal simulation was conducted as part of this stage; the focus remained on the mechanical layout and enclosure architecture.
-
-\section{Detailed CAD Design Process in Fusion 360}
-
-\subsection{Cell Holder Design and Arrangement}
-
-The first modeling step was the design of an individual battery cell holder. Each cell is a cylindrical 21700 lithium-ion battery, typically 21 mm in diameter and 70 mm in length. In Fusion 360, a 2D sketch was created with circular cutouts for each cell, spaced evenly in a grid pattern. These cutouts were then extruded to form vertical cavities, which securely hold the cells while leaving sufficient clearance for thermal expansion and wiring.
-
-To ensure consistent wall thickness and clearance, the design used parameterized dimensions tied to a master sketch. This allowed rapid iteration and adjustment of the number of cells in the matrix. Recessed channels and guide features were added between the rows for cable routing and BMS (Battery Management System) wiring. Small through-holes at the bottom of each cavity allow drainage or ventilation if necessary.
-
-The resulting layout provides space for a total of 56 cells (7 × 8 array), which was deemed sufficient for the E-Mule’s use case in terms of energy content. The precision and symmetry of the layout were maintained through pattern tools and the use of midplane construction lines.
-
 \includepdf[pages=1, fitpaper=true, pagecommand={%
 	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
 	\begin{center}
@@ -98,32 +84,39 @@ The resulting layout provides space for a total of 56 cells (7 × 8 array), whic
 	\end{center}
 }]{circuts/Zelle.pdf}
 \addtocounter{page}{1} % Seitenzähler korrekt erhöhen
-\subsection{Assembly of the Complete Storage Module}
 
-After creating the single cell holder as a component, it was duplicated and arranged in Fusion 360’s assembly environment to simulate the full module layout. This stage focused on integrating all components—holders, cell blocks, connector slots, sensor openings—into a complete mechanical structure.
+The battery pack presented in \ref{fig:Zelle}  was designed specifically for use in an electric utility vehicle—the E-Mule. In such mobile applications, energy storage must not only provide sufficient capacity and power density, but also fulfill mechanical and thermal requirements, ensure serviceability, and allow compact packaging. These constraints played a central role in the CAD modeling process and directly influenced key design decisions.
 
-Two holders were stacked horizontally to double the capacity. A central rail was added to serve as a structural support and wiring hub. The pack was enclosed within a frame that includes mounting points to bolt it onto the E-Mule chassis. Alignment features such as pins and grooves were incorporated to ensure exact positioning during manufacturing.
+The final design was entirely created using Fusion 360, with a strong focus on modularity, manufacturability, and the physical integration of standard lithium-ion cells (type 21700). The enclosure and internal structures were tailored for additive manufacturing using PETG, a common thermoplastic with suitable strength and heat resistance \cite{gebhardt2016}. No electrical testing or thermal simulation was conducted as part of this stage; the focus remained on the mechanical layout and enclosure architecture.
 
-During assembly, care was taken to maintain access to each row for both cooling and cabling. Clearances were checked using section analysis and interference detection tools within Fusion 360. Dummy models of power connectors and temperature sensors were placed to simulate real-world installation.
+\section{Detailed CAD Design Process in Fusion 360}
 
+\subsection{Cell Holder Design and Arrangement}
+
+The first modeling step was the design of an individual battery cell holder (\ref{fig:Zelle}). Each cell is a cylindrical 21700 lithium-ion battery, typically 21 mm in diameter and 70 mm in length. In Fusion 360, a 2D sketch was created with circular cutouts for each cell, spaced evenly in a grid pattern. These cutouts were then extruded to form vertical cavities, which securely hold the cells while leaving sufficient clearance for thermal expansion and wiring.
+
+To ensure consistent wall thickness and clearance, the design used parameterized dimensions tied to a master sketch. This allowed rapid iteration and adjustment of the number of cells in the matrix. 
+
+The resulting layout provides space for a total of 70 cells (14× 5 array), which was deemed sufficient for the E-Mule’s use case in terms of energy content. The precision and symmetry of the layout were maintained through pattern tools and the use of midplane construction lines.
+
+% Assembly mit Gehäuse
 \includepdf[pages=1, fitpaper=true, pagecommand={%
 	\thispagestyle{empty}
 	\begin{center}
-		\captionof{figure}{Top-down view of the assembled energy storage module for the eMule.}
-		\label{fig:AssemblyTop}
+		\captionof{figure}{Fully assembled energy storage module.}
+		\label{fig:Assembly}
 	\end{center}
 }]{circuts/Energiespeichersystem_Assembley_TOP.pdf}
 \addtocounter{page}{1}
 
+After creating the single cell holder as a component, it was duplicated and arranged in Fusion 360’s assembly environment to simulate the full module layout, seen in \ref{fig:Assembly}. This stage focused on integrating all components—holders, cell blocks, connector slots, sensor openings—into a complete mechanical structure.
+
+
+During assembly, care was taken to maintain access to each row for both cooling and cabling. Clearances were checked using section analysis and interference detection tools within Fusion 360. Dummy models of power connectors and temperature sensors were placed to simulate real-world installation.
+
+
+
 \subsection{Integration of the Protective Enclosure}
-
-The final design step was the addition of a functional enclosure. The enclosure was modeled as a single shell body with integrated ventilation openings, flanged screw points, and access cutouts for connectors. Its purpose is to protect the cells from mechanical impact, environmental contamination, and unintentional contact.
-
-The enclosure follows the contour of the internal components closely, minimizing unused space while allowing air to circulate between components. To accommodate additive manufacturing constraints, all overhangs were designed with a maximum angle of 45°, and fillets were added at all interior corners to prevent stress concentration. A removable lid was included to enable servicing of the battery.
-
-The following figure illustrates the fully enclosed battery system, ready for 3D printing.
-
-% Assembly mit Gehäuse
 \includepdf[pages=1, fitpaper=true, pagecommand={%
 	\thispagestyle{empty}
 	\begin{center}
@@ -132,6 +125,14 @@ The following figure illustrates the fully enclosed battery system, ready for 3D
 	\end{center}
 }]{circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf}
 \addtocounter{page}{1}
+The final design step was the addition of a functional enclosure as seen in \ref{fig:AssemblyHousing}. The enclosure was modeled as a single shell body with integrated ventilation openings, flanged screw points, and access cutouts for connectors. Its purpose is to protect the cells from mechanical impact, environmental contamination, and unintentional contact.
+
+The enclosure follows the contour of the internal components closely, minimizing unused space while allowing air to circulate between components. To accommodate additive manufacturing constraints, all overhangs were designed with a maximum angle of 45°, and fillets were added at all interior corners to prevent stress concentration. A removable lid was included to enable servicing of the battery.
+
+The following figure illustrates the fully enclosed battery system, ready for 3D printing.
+
+% Assembly mit Gehäuse
+
 
 \section{Conclusion on the CAD Design Process}
 

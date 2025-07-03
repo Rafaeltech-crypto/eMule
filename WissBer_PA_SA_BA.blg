@@ -1,15 +1,18 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'WissBer_PA_SA_BA.blg'
-[53] biber-darwin:340> INFO - === Tue May  6, 2025, 10:27:10
-[65] Biber.pm:418> INFO - Reading 'WissBer_PA_SA_BA.bcf'
-[135] Biber.pm:972> INFO - Found 24 citekeys in bib section 0
-[147] Biber.pm:4383> INFO - Processing section 0
-[155] Biber.pm:4574> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
-[156] bibtex.pm:1713> INFO - LaTeX decoding ...
-[172] bibtex.pm:1518> INFO - Found BibTeX data source 'literature/literatur1.bib'
-[271] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[271] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[271] Biber.pm:4203> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[271] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
-[290] bbl.pm:654> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
-[297] bbl.pm:757> INFO - Output to WissBer_PA_SA_BA.bbl
+[37] biber-darwin:340> INFO - === Thu Jul  3, 2025, 15:59:51
+[47] Biber.pm:419> INFO - Reading 'WissBer_PA_SA_BA.bcf'
+[86] Biber.pm:979> INFO - Found 28 citekeys in bib section 0
+[94] Biber.pm:4419> INFO - Processing section 0
+[100] Biber.pm:4610> INFO - Looking for bibtex file 'literature/literatur1.bib' for section 0
+[102] bibtex.pm:1713> INFO - LaTeX decoding ...
+[114] bibtex.pm:1519> INFO - Found BibTeX data source 'literature/literatur1.bib'
+[189] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[189] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[189] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[189] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[204] bbl.pm:660> INFO - Writing 'WissBer_PA_SA_BA.bbl' with encoding 'UTF-8'
+[210] bbl.pm:763> INFO - Output to WissBer_PA_SA_BA.bbl
+[210] Biber.pm:131> WARN - ISBN '978-3-319-69949-3 978-3-319-69950-9' in entry 'pistoia2018' is invalid - run biber with '--validate_datamodel' for details.
+[210] Biber.pm:131> WARN - ISBN '978-0-429-28598-1 978-1-00-076478-9 978-1-00-076496-3 978-1-00-076487-1' in entry 'anderson2020' is invalid - run biber with '--validate_datamodel' for details.
+[210] Biber.pm:133> INFO - WARNINGS: 2
