@@ -1,95 +1,131 @@
-\chapter{Dokumentation}
+\chapter{Documentation}
 
 \label{cha:umsetzung}
-Um die bestmögliche Dokumentation des Systemaufbaus sicherstellen zu können, dürfen die Vorbereitungen, auf die Aufgabe, nicht unterschätzt werden. Diese lassen sich in zwei große Teile aufgeteilen. Der wichtigere von beiden Schritten ist die sorgfältige Auswahl eines passenden Tools zur Erstellung der Dokumentation. Aspekte wie Benutzerfreundlichkeit, Funktionen die erfüllt werden, Betriebssystemkompatibilitäten und Kosten spielen hier eine große Rolle. Um diese Auswahl mit genügend Sorgfalt zu treffen wird folgendes Vorgehen angewandt:
+%Um die bestmögliche Dokumentation des Systemaufbaus sicherstellen zu können, dürfen die Vorbereitungen, auf die Aufgabe, nicht unterschätzt werden. Diese lassen sich in zwei große Teile aufgeteilen. Der wichtigere von beiden Schritten ist die sorgfältige Auswahl eines passenden Tools zur Erstellung der Dokumentation. Aspekte wie Benutzerfreundlichkeit, Funktionen die erfüllt werden, Betriebssystemkompatibilitäten und Kosten spielen hier eine große Rolle. Um diese Auswahl mit genügend Sorgfalt zu treffen wird folgendes Vorgehen angewandt:
+%
+%Es werden verschiedene CAD-Softwareprogramm recherchiert und evaluiert. Die Funktionen stehen hier an erster Stelle. Das Programm muss in der Lage sein, Stromlaufpläne und Bestückungspläne erstellen zu können. An nächster Stelle stehen die Kosten, die für das Programm abgerufen werden. Da das Projekt ein begrenztes Budget hat sollen diese möglichst gering gehalten werden. Wichtig zu beachten ist hierbei jedoch, dass die Kosten im Verhältnis zur gebotenen Leistung des Programms stehen müssen. Die Programme \textit{Autodesk Fusion 360} und \textit{EPlan} sind jeweils sehr vielversprechend. Die Nutzerfreundlichkeit ist in beiden Programmen gleichermaßen gegen. Entschieden wird sich für Autodesk Fusion 360, da EPlan über keine macOS kompatibilität verfügt.
+In order to ensure the best possible documentation of the system structure, it is imperative that the preparations for the task are given the requisite consideration. These can be divided into two major parts. Of the two aforementioned steps, the selection of a suitable tool for creating the documentation is of greater importance. In this context, factors such as ease of use, functionality, compatibility with operating systems, and financial considerations are of paramount importance. In order to make this selection with sufficient care, the following procedure is employed:
 
-Es werden verschiedene CAD-Softwareprogramm recherchiert und evaluiert. Die Funktionen stehen hier an erster Stelle. Das Programm muss in der Lage sein, Stromlaufpläne und Bestückungspläne erstellen zu können. An nächster Stelle stehen die Kosten, die für das Programm abgerufen werden. Da das Projekt ein begrenztes Budget hat sollen diese möglichst gering gehalten werden. Wichtig zu beachten ist hierbei jedoch, dass die Kosten im Verhältnis zur gebotenen Leistung des Programms stehen müssen. Die Programme \textit{Autodesk Fusion 360} und \textit{EPlan} sind jeweils sehr vielversprechend. Die Nutzerfreundlichkeit ist in beiden Programmen gleichermaßen gegen. Entschieden wird sich für Autodesk Fusion 360, da EPlan über keine macOS kompatibilität verfügt.
+A comprehensive review of available CAD software programmes is conducted to ascertain their suitability. The functions are of paramount importance in this context. It is imperative that the programme has the capacity to generate circuit diagrams and assembly plans. The subsequent priority is the cost of the programme. Given the budgetary constraints inherent to the project, it is imperative that these expenses remain minimal. However, it is important to note that the costs must be proportionate to the performance offered by the programme. It is evident that both the \textit{Autodesk Fusion 360} and \textit{EPlan} software programmes hold considerable potential. It is evident that both programmes demonstrate equivalent levels of user-friendliness. Following a thorough evaluation of the available options, it was determined that Autodesk Fusion 360 would be the most suitable solution, given the incompatibility of EPlan with macOS.
 
-Im nächsten Schritt der Vorbereitung muss eine tiefgreifende und umfassende Einarbeitung in das Programm durchgeführt werden. Hier wird ein besonderes Augenmerk auf die Aspekte Stromlaufplanerstellung, Bestückungsplanerstellung, Bibliothekerstellung und die dazugehörige Erstellung neuer Bauteile sowie die Programm-Projekt-Struktur gelegt.
+In the subsequent stage of the preparatory process, it is imperative to undertake a thorough and comprehensive familiarisation with the programme. In this particular instance, emphasis is placed on the following aspects: the creation of circuit diagrams; the creation of assembly plans; the creation of libraries; the creation of new components; and the programme project structure.
+%Im nächsten Schritt der Vorbereitung muss eine tiefgreifende und umfassende Einarbeitung in das Programm durchgeführt werden. Hier wird ein besonderes Augenmerk auf die Aspekte Stromlaufplanerstellung, Bestückungsplanerstellung, Bibliothekerstellung und die dazugehörige Erstellung neuer Bauteile sowie die Programm-Projekt-Struktur gelegt.
 
 
 
-\section{Installationsanleitung Fusion 360}
-Anleitung zur Erstellung eines Studentenaccounts und zum Herunterladen von Fusion 360 Electronics.
+\section{Installation instructions Fusion 360}
+The following instructions outline the procedure for creating a student account and downloading Fusion 360 Electronics.
 
-\subsection*{Erstellung eines Autodesk-Studentenaccounts}
+\subsection*{Creation of an Autodesk student account}
 
-Zur Nutzung von Fusion 360 Electronics ist die Erstellung eines Autodesk-Studentenaccounts erforderlich. Dies ermöglicht den kostenlosen Zugriff auf die Software.
+%Zur Nutzung von Fusion 360 Electronics ist die Erstellung eines Autodesk-Studentenaccounts erforderlich. Dies ermöglicht den kostenlosen Zugriff auf die Software.
+To use Fusion 360 Electronics, it is necessary to create an Autodesk student account. This allows free access to the software.
 
-\paragraph{ Registrierung}
+\paragraph{ Registration}
 \begin{itemize}
-	\item Zugriff auf die Registrierungsseite: \href{https://accounts.autodesk.com/register?resume=/as/fMRyxxIM12/resume/as/authorization.ping&ack=uWlmiJuqQqVaAQjGdojc8Qxit4KVdorZ}{\underline{Autodesk Registrierungsseite}}.
-	\item Ausfüllen des Formulars mit den notwendigen Informationen:
+	\item Access to the registration page: \href{https://accounts.autodesk.com/register?resume=/as/fMRyxxIM12/resume/as/authorization.ping&ack=uWlmiJuqQqVaAQjGdojc8Qxit4KVdorZ}{\underline{Autodesk Registrierungsseite}}.
+	\item Fill in the form with the necessary information:
 	\begin{itemize}
-		\item Vor- und Nachname
-		\item Gültige E-Mail-Adresse
-		\item Passwort entsprechend den Sicherheitsrichtlinien
+		\item First name and surname
+		\item Valid e-mail address
+		\item Password in accordance with the security guidelines%Vor- und Nachname
+%		\item Gültige E-Mail-Adresse
+%		\item Passwort entsprechend den Sicherheitsrichtlinien
 	\end{itemize}
 \end{itemize}
 
-\paragraph{ Bestätigung der E-Mail-Adresse}
+\paragraph{  E-Mail verification}
 \begin{itemize}
-	\item Nach dem Absenden des Formulars wird eine E-Mail zur Bestätigung empfangen.
-	\item Öffnen der E-Mail und Klicken auf den Bestätigungslink zur Verifizierung der Adresse.
+	\item After submitting the form, you will receive a confirmation e-mail.
+	\item Open the e-mail and click on the confirmation link to verify the address.%Nach dem Absenden des Formulars wird eine E-Mail zur Bestätigung empfangen.
+	%\item Öffnen der E-Mail und Klicken auf den Bestätigungslink zur Verifizierung der Adresse.
 \end{itemize}
 
-\paragraph{ Vervollständigung der Profilinformationen}
+\paragraph{ Completion of the profile information}
 \begin{itemize}
-	\item Anmeldung im Autodesk-Konto.
-	\item Angabe weiterer Informationen wie Institution, Studienrichtung und Studienjahr zur Bestätigung des Studentenstatus.
+	\item Login to Autodesk account.
+	\item Provide additional information such as institution, field of study and year of study to confirm student status.
+%	\item Anmeldung im Autodesk-Konto.
+%	\item Angabe weiterer Informationen wie Institution, Studienrichtung und Studienjahr zur Bestätigung des Studentenstatus.
 \end{itemize}
 
-\paragraph*{ Verifizierung des Studentenstatus}
+\paragraph*{ Verification of student status}
 \begin{itemize}
-	\item Hochladen eines Dokuments, das die Immatrikulation belegt (beispielsweise eine Studienbescheinigung).
-	\item Autodesk prüft die Dokumente innerhalb weniger Tage und sendet eine Bestätigung per E-Mail.
+		\item Upload a document that proves enrolment (e.g. a certificate of enrolment).
+	\item Autodesk checks the documents within a few days and sends a confirmation by e-mail.
+%	\item Hochladen eines Dokuments, das die Immatrikulation belegt (beispielsweise eine Studienbescheinigung).
+%	\item Autodesk prüft die Dokumente innerhalb weniger Tage und sendet eine Bestätigung per E-Mail.
 \end{itemize}
 
-\subsection*{Herunterladen und Installieren von Fusion 360 Electronics}
+\subsection*{Download und installation of Fusion 360 Electronics}
 
-\paragraph{Zugriff auf den Download-Bereich}
+\paragraph{Access to the Download-area}
 \begin{itemize}
-	\item Nach erfolgreicher Verifizierung des Accounts erfolgt die Anmeldung und Navigation zur \href{https://www.autodesk.com/education/home}{\underline{Autodesk Education Community}}.
-	\item Auswahl von Fusion 360 aus der Liste der verfügbaren Software.
+	\item Once the account has been successfully verified, you can log in and navigate to the \href{https://www.autodesk.com/education/home}{\underline{Autodesk Education Community}}.
+	\item Select Fusion 360 from the list of available software.
+%	\item Nach erfolgreicher Verifizierung des Accounts erfolgt die Anmeldung und Navigation zur \href{https://www.autodesk.com/education/home}{\underline{Autodesk Education Community}}.
+%	\item Auswahl von Fusion 360 aus der Liste der verfügbaren Software.
 \end{itemize}
 
 
-\textbf{Download und Installationsprozess} unterscheiden sich für verschiedene Betriebssysteme. im folgenden wird auf die Unterschiede von Windows und macOS eingegangen.
+%\textbf{Download und Installationsprozess} unterscheiden sich für verschiedene Betriebssysteme. im folgenden wird auf die Unterschiede von Windows und macOS eingegangen.
+\textbf{Download and installation process} differ for different operating systems. the differences between Windows and macOS are explained below.
 \subsection*{Windows}
 \begin{itemize}
-	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen den Softwareversionen für die verschiedenen Windows-Betriebssysteme. Diese unterscheiden sich in der Versionsnummer (beispielsweise \glqq Windows 11\grqq {}) und in den Bit-Versionen (32- und 64-Bit).
-	\item Schritte zur Identifikation der Windows-Version:
+	\item When selecting the download file, please note the differences between the software versions for the various Windows operating systems. These differ in the version number (e.g. \glqq Windows 11\grqq {}) and in the bit versions (32- and 64-bit).
+	\item Steps to identify the Windows version:
+%	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen den Softwareversionen für die verschiedenen Windows-Betriebssysteme. Diese unterscheiden sich in der Versionsnummer (beispielsweise \glqq Windows 11\grqq {}) und in den Bit-Versionen (32- und 64-Bit).
+%	\item Schritte zur Identifikation der Windows-Version:
 	\begin{itemize}
-		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
-		\item[2.] Gehe zu System → Info.
-		\item[3.] Unter Windows-Spezifikationen findest du die genaue Version und Edition von Windows (beispielsweise \glqq Windows 11 Pro\grqq {}, \glqq Version 22H2\grqq {}).
+			\item[1.] Press the key combination Windows key + I to open the settings.
+		\item[2] Go to System → About.
+		\item[3.] In the context of Windows specifications you will find the exact version and edition of Windows (for example \glqq Windows 11 Pro\grqq {}, \glqq Version 22H2\grqq {}).
+%		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
+%		\item[2.] Gehe zu System → Info.
+%		\item[3.] Unter Windows-Spezifikationen findest du die genaue Version und Edition von Windows (beispielsweise \glqq Windows 11 Pro\grqq {}, \glqq Version 22H2\grqq {}).
 	\end{itemize}
-	\item Schritte zur Identifikation der Bit-Version:
+	\item Steps to identify the bit-version:
 	\begin{itemize}
-		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
-		\item[2.] Gehe zu System → Info.
-		\item[3.] 	Unter Gerätespezifikationen → Systemtyp steht beispielsweise \glqq 64-Bit-Betriebssystem\grqq {}.
+		\item[1.] Press the key combination Windows key + I to open the settings.
+		\item[2] Go to System → About.
+		\item[3.] Under Device specifications → System type you will see, for example, \glqq 64-bit operating system\grqq {}.
+%		\item[1.] Drücke die Tastenkombination Windows-Taste + I, um die Einstellungen zu öffnen.
+%		\item[2.] Gehe zu System → Info.
+%		\item[3.] 	Unter Gerätespezifikationen → Systemtyp steht beispielsweise \glqq 64-Bit-Betriebssystem\grqq {}.
 	\end{itemize}
-	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
-	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
+		\item Click on ‘Download now’ and follow the instructions on the screen.
+	\item Once the download is complete, open the installation file and follow the installation instructions.
+%	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
+%	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
 \end{itemize}
 \subsection*{macOS}
 \begin{itemize}
-	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen der Softwareversion für Betriebssysteme mit Apple Silicon Prozessor und Intel Prozessor.
-	\item Schritte zur Identifikation des verbauten Prozessors:
+	\item When selecting the download file, please note the differences between the software version for operating systems with Apple Silicon processor and Intel processor.
+	\item Steps for identifying the installed processor:
+%	\item Beachten Sie bei der Auswahl der Downloaddatei die Unterschiede zwischen der Softwareversion für Betriebssysteme mit Apple Silicon Prozessor und Intel Prozessor.
+%	\item Schritte zur Identifikation des verbauten Prozessors:
 	\begin{itemize}
-		\item[1.] Klicke oben links auf das Apple-Symbol.
-		\item[2.] Wähle "Über diesen Mac".
-		\item[3.] Schaue im Fenster, das sich öffnet: \newline
-		Wenn dort \glqq Chip\grqq {} steht, gefolgt von beispielsweise \glqq Apple M1\grqq {} oder \glqq Apple M2\grqq {}, ist ein Apple Silicon Prozessor verbaut.\newline
-		Wenn dort \glqq Prozessor\grqq {} steht, gefolgt von einem Intel-Prozessor (beispielsweise \glqq Intel Core i5\grqq {}), ist ein Intel-Prozessor in dem Mac verbaut.
+		\item[1.] Click on the Apple icon in the top left.
+		\item[2.] Select "About this Mac".
+		\item[3.] Look in the window that opens: \newline
+		If it says \glqq Chip\grqq {} followed by, for example, \glqq Apple M1\grqq {} or \glqq Apple M2\grqq {}, an Apple Silicon processor is installed.\newline
+		If it says \glqq Processor\grqq {} followed by an Intel processor (for example, \glqq Intel Core i5\grqq {}), an Intel processor is installed in the Mac.
+%		\item[1.] Klicke oben links auf das Apple-Symbol.
+%		\item[2.] Wähle "Über diesen Mac".
+%		\item[3.] Schaue im Fenster, das sich öffnet: \newline
+%		Wenn dort \glqq Chip\grqq {} steht, gefolgt von beispielsweise \glqq Apple M1\grqq {} oder \glqq Apple M2\grqq {}, ist ein Apple Silicon Prozessor verbaut.\newline
+%		Wenn dort \glqq Prozessor\grqq {} steht, gefolgt von einem Intel-Prozessor (beispielsweise \glqq Intel Core i5\grqq {}), ist ein Intel-Prozessor in dem Mac verbaut.
 	\end{itemize}
-	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
-	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
+		\item Click on ‘Download now’ and follow the instructions on the screen.
+	\item Once the download is complete, open the installation file and follow the installation instructions.
+%	\item Klicken auf „Jetzt herunterladen“ und Befolgen der Anweisungen auf dem Bildschirm.
+%	\item Nach Abschluss des Downloads Öffnen der Installationsdatei und Befolgen der Installationsanweisungen.
 \end{itemize}
 
-\paragraph*{Aktivierung der Education-Lizenz}
+\paragraph*{Activation of the education licence}
 \begin{itemize}
-	\item Beim ersten Start von Fusion 360 erfolgt die Eingabe der Anmeldeinformationen.
-	\item Die Software erkennt automatisch den Studentenstatus und aktiviert die entsprechende Lizenz.
+	\item When Fusion 360 is started for the first time, the login information is entered.
+	\item The software automatically recognises the student status and activates the corresponding licence.
+%	\item Beim ersten Start von Fusion 360 erfolgt die Eingabe der Anmeldeinformationen.
+%	\item Die Software erkennt automatisch den Studentenstatus und aktiviert die entsprechende Lizenz.
 \end{itemize}

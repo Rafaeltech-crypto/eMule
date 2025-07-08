@@ -5,14 +5,14 @@
 \contentsline {section}{\numberline {2.2}Lithium-ion batteries}{8}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Standards for drawing circuit symbols}{11}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Autodesk Fusion 360}{13}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Dokumentation}{15}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Installationsanleitung Fusion 360}{16}{section.3.1}%
-\contentsline {paragraph}{\nonumberline Registrierung}{16}{paragraph*.20}%
-\contentsline {paragraph}{\nonumberline Bestätigung der E-Mail-Adresse}{16}{paragraph*.22}%
-\contentsline {paragraph}{\nonumberline Vervollständigung der Profilinformationen}{17}{paragraph*.24}%
-\contentsline {paragraph}{\nonumberline Zugriff auf den Download-Bereich}{17}{paragraph*.28}%
-\contentsline {section}{\numberline {3.2}Stromlaufpläne}{20}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Stromlaufplan Battery Circuit}{20}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {3}Documentation}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Installation instructions Fusion 360}{16}{section.3.1}%
+\contentsline {paragraph}{\nonumberline Registration}{16}{paragraph*.20}%
+\contentsline {paragraph}{\nonumberline E-Mail verification}{16}{paragraph*.22}%
+\contentsline {paragraph}{\nonumberline Completion of the profile information}{17}{paragraph*.24}%
+\contentsline {paragraph}{\nonumberline Access to the Download-area}{17}{paragraph*.28}%
+\contentsline {section}{\numberline {3.2}Circuit diagrams}{20}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Circuit diagram of the Battery Circuit}{20}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Stromlaufplan Motor Controller}{23}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Stromlaufplan LV-Onboard-Netz}{26}{subsection.3.2.3}%
 \contentsline {subsection}{\numberline {3.2.4}Stromlaufplan Charger Temperature Control}{29}{subsection.3.2.4}%
