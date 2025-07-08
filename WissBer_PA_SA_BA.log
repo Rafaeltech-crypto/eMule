@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  8 JUL 2025 11:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  8 JUL 2025 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1977,24 +1977,12 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [6]
-Overfull \hbox (10.14795pt too wide) in paragraph at lines 28--29
-\T1/cmr/m/n/12 1912, der die Hand-kur-bel bei Ver-bren-nungs-mo-to-ren �ber-fl�
-s-sig mach-te. [[]Gre25[]] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [7
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
@@ -2002,11 +1990,8 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 <images/Li-Zelle.png, id=229, 301.125pt x 287.0725pt>
 File: images/Li-Zelle.png Graphic file (type png)
 <use images/Li-Zelle.png>
-Package pdftex.def Info: images/Li-Zelle.png  used on input line 53.
+Package pdftex.def Info: images/Li-Zelle.png  used on input line 77.
 (pdftex.def)             Requested size: 292.77632pt x 279.13893pt.
-
-Underfull \vbox (badness 2772) has occurred while \output is active []
-
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
@@ -2019,13 +2004,16 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [11]
-Overfull \hbox (23.41481pt too wide) in paragraph at lines 79--80
-\T1/cmr/m/n/12 SI) ist die do-mi-nie-ren-de Nor-mie-rungs-or-ga-ni-sa-ti-on in 
-den USA. ANSI-Zeichnungen
+Overfull \hbox (0.7632pt too wide) in paragraph at lines 113--114
+[]\T1/cmr/bx/n/12 ANSI stan-dards (USA): \T1/cmr/m/n/12 The Ame-ri-can Na-tio-n
+al Stan-dards In-sti-tu-te (AN-
  []
 
 
@@ -2080,7 +2068,7 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 \openout2 = `chapter/umsetzung.aux'.
 
  (./chapter/umsetzung.tex
-<circuts/Battery Circut updated.pdf, id=320, 1195.46625pt x 845.1575pt>
+<circuts/Battery Circut updated.pdf, id=318, 1195.46625pt x 845.1575pt>
 File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 <use circuts/Battery Circut updated.pdf>
 Package pdftex.def Info: circuts/Battery Circut updated.pdf  used on input line
@@ -2091,7 +2079,7 @@ File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Battery Circut updated.pdf  used on input line
  25.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Battery Circut updated.pdf, id=323, page=1, 1195.46625pt x 845.1575pt>
+<circuts/Battery Circut updated.pdf, id=321, page=1, 1195.46625pt x 845.1575pt>
 
 File: circuts/Battery Circut updated.pdf Graphic file (type pdf)
 <use circuts/Battery Circut updated.pdf, page 1>
@@ -2134,7 +2122,7 @@ Package pdftex.def Info: circuts/Battery Circut updated.pdf , page1 used on inp
 ut line 25.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [21 <./circuts/Battery Circut updated.pdf>]
-<circuts/Motor Controler.pdf, id=345, 1195.46625pt x 845.1575pt>
+<circuts/Motor Controler.pdf, id=343, 1195.46625pt x 845.1575pt>
 File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf>
 Package pdftex.def Info: circuts/Motor Controler.pdf  used on input line 38.
@@ -2143,7 +2131,7 @@ File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf>
 Package pdftex.def Info: circuts/Motor Controler.pdf  used on input line 38.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Motor Controler.pdf, id=348, page=1, 1195.46625pt x 845.1575pt>
+<circuts/Motor Controler.pdf, id=346, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/Motor Controler.pdf Graphic file (type pdf)
 <use circuts/Motor Controler.pdf, page 1>
 Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
@@ -2181,7 +2169,7 @@ Package pdftex.def Info: circuts/Motor Controler.pdf , page1 used on input line
  38.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [24 <./circuts/Motor Controler.pdf>]
-<circuts/onboard-Netz.pdf, id=369, 1195.46625pt x 845.1575pt>
+<circuts/onboard-Netz.pdf, id=367, 1195.46625pt x 845.1575pt>
 File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf>
 Package pdftex.def Info: circuts/onboard-Netz.pdf  used on input line 52.
@@ -2190,7 +2178,7 @@ File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf>
 Package pdftex.def Info: circuts/onboard-Netz.pdf  used on input line 52.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/onboard-Netz.pdf, id=372, page=1, 1195.46625pt x 845.1575pt>
+<circuts/onboard-Netz.pdf, id=370, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 52
@@ -2232,7 +2220,7 @@ Package pdftex.def Info: circuts/onboard-Netz.pdf , page1 used on input line 52
 LaTeX Warning: Reference `fig:charger_temperature_control' on page 29 undefined
  on input line 57.
 
-<circuts/HV-Onboard-Netz.pdf, id=396, 1195.46625pt x 845.1575pt>
+<circuts/HV-Onboard-Netz.pdf, id=394, 1195.46625pt x 845.1575pt>
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 81.
@@ -2241,7 +2229,7 @@ File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf  used on input line 81.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/HV-Onboard-Netz.pdf, id=399, page=1, 1195.46625pt x 845.1575pt>
+<circuts/HV-Onboard-Netz.pdf, id=397, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/HV-Onboard-Netz.pdf Graphic file (type pdf)
 <use circuts/HV-Onboard-Netz.pdf, page 1>
 Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
@@ -2283,67 +2271,67 @@ Package pdftex.def Info: circuts/HV-Onboard-Netz.pdf , page1 used on input line
  81.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [31 <./circuts/HV-Onboard-Netz.pdf>]
-<Legende/Schütz.png, id=426, 117.43875pt x 95.35625pt>
+<Legende/Schütz.png, id=424, 117.43875pt x 95.35625pt>
 File: Legende/Schütz.png Graphic file (type png)
 <use Legende/Schütz.png>
 Package pdftex.def Info: Legende/Schütz.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 46.20552pt.
-<Legende/Kondensator.png, id=427, 89.33376pt x 86.3225pt>
+<Legende/Kondensator.png, id=425, 89.33376pt x 86.3225pt>
 File: Legende/Kondensator.png Graphic file (type png)
 <use Legende/Kondensator.png>
 Package pdftex.def Info: Legende/Kondensator.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 54.98802pt.
-<Legende/Funkenstrecke.png, id=428, 250.9375pt x 132.495pt>
+<Legende/Funkenstrecke.png, id=426, 250.9375pt x 132.495pt>
 File: Legende/Funkenstrecke.png Graphic file (type png)
 <use Legende/Funkenstrecke.png>
 Package pdftex.def Info: Legende/Funkenstrecke.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 30.0446pt.
-<Legende/Ground.png, id=429, 81.30376pt x 74.2775pt>
+<Legende/Ground.png, id=427, 81.30376pt x 74.2775pt>
 File: Legende/Ground.png Graphic file (type png)
 <use Legende/Ground.png>
 Package pdftex.def Info: Legende/Ground.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 51.98935pt.
-<Legende/Batterie.png, id=430, 163.61125pt x 155.58125pt>
+<Legende/Batterie.png, id=428, 163.61125pt x 155.58125pt>
 File: Legende/Batterie.png Graphic file (type png)
 <use Legende/Batterie.png>
 Package pdftex.def Info: Legende/Batterie.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 54.1124pt.
-<Legende/Sicherung.png, id=431, 107.40125pt x 98.3675pt>
+<Legende/Sicherung.png, id=429, 107.40125pt x 98.3675pt>
 File: Legende/Sicherung.png Graphic file (type png)
 <use Legende/Sicherung.png>
 Package pdftex.def Info: Legende/Sicherung.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 52.11949pt.
-<Legende/Schalter.png, id=432, 161.60374pt x 80.3pt>
+<Legende/Schalter.png, id=430, 161.60374pt x 80.3pt>
 File: Legende/Schalter.png Graphic file (type png)
 <use Legende/Schalter.png>
 Package pdftex.def Info: Legende/Schalter.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 28.27573pt.
-<Legende/PTC-Widerstand.png, id=433, 245.91875pt x 185.69376pt>
+<Legende/PTC-Widerstand.png, id=431, 245.91875pt x 185.69376pt>
 File: Legende/PTC-Widerstand.png Graphic file (type png)
 <use Legende/PTC-Widerstand.png>
 Package pdftex.def Info: Legende/PTC-Widerstand.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 42.96933pt.
-<Legende/Potentiometer.png, id=434, 128.48pt x 105.39375pt>
+<Legende/Potentiometer.png, id=432, 128.48pt x 105.39375pt>
 File: Legende/Potentiometer.png Graphic file (type png)
 <use Legende/Potentiometer.png>
 Package pdftex.def Info: Legende/Potentiometer.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 46.68054pt.
-<Legende/Stecker.png, id=435, 134.5025pt x 92.345pt>
+<Legende/Stecker.png, id=433, 134.5025pt x 92.345pt>
 File: Legende/Stecker.png Graphic file (type png)
 <use Legende/Stecker.png>
 Package pdftex.def Info: Legende/Stecker.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 39.06926pt.
-<Legende/LED.png, id=436, 102.3825pt x 109.40875pt>
+<Legende/LED.png, id=434, 102.3825pt x 109.40875pt>
 File: Legende/LED.png Graphic file (type png)
 <use Legende/LED.png>
 Package pdftex.def Info: Legende/LED.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 60.81271pt.
-<Legende/Spule.png, id=437, 129.48375pt x 66.2475pt>
+<Legende/Spule.png, id=435, 129.48375pt x 66.2475pt>
 File: Legende/Spule.png Graphic file (type png)
 <use Legende/Spule.png>
 Package pdftex.def Info: Legende/Spule.png  used on input line 145.
 (pdftex.def)             Requested size: 56.9055pt x 29.11461pt.
-<Legende/3 Phasen Motor.png, id=438, 277.035pt x 196.735pt>
+<Legende/3 Phasen Motor.png, id=436, 277.035pt x 196.735pt>
 File: Legende/3 Phasen Motor.png Graphic file (type png)
 <use Legende/3 Phasen Motor.png>
 Package pdftex.def Info: Legende/3 Phasen Motor.png  used on input line 145.
@@ -2398,7 +2386,7 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [40]
-<circuts/Zelle.pdf, id=509, 1195.46625pt x 845.1575pt>
+<circuts/Zelle.pdf, id=507, 1195.46625pt x 845.1575pt>
 File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf>
 Package pdftex.def Info: circuts/Zelle.pdf  used on input line 85.
@@ -2407,7 +2395,7 @@ File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf>
 Package pdftex.def Info: circuts/Zelle.pdf  used on input line 85.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Zelle.pdf, id=512, page=1, 1195.46625pt x 845.1575pt>
+<circuts/Zelle.pdf, id=510, page=1, 1195.46625pt x 845.1575pt>
 File: circuts/Zelle.pdf Graphic file (type pdf)
 <use circuts/Zelle.pdf, page 1>
 Package pdftex.def Info: circuts/Zelle.pdf , page1 used on input line 85.
@@ -2444,7 +2432,7 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [44]
-<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=534, 1195.46625pt x 845.15
+<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=532, 1195.46625pt x 845.15
 75pt>
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf>
@@ -2456,7 +2444,7 @@ File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf  used 
 on input line 109.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=537, page=1, 1195.46625pt 
+<circuts/Energiespeichersystem_Assembley_TOP.pdf, id=535, page=1, 1195.46625pt 
 x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP.pdf Graphic file (type pdf)
 <use circuts/Energiespeichersystem_Assembley_TOP.pdf, page 1>
@@ -2495,7 +2483,7 @@ Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP.pdf , page
 1 used on input line 109.
 (pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
 [46 <./circuts/Energiespeichersystem_Assembley_TOP.pdf>]
-<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=552, 1195.4662
+<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=550, 1195.4662
 5pt x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
@@ -2509,7 +2497,7 @@ File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file
 Package pdftex.def Info: circuts/Energiespeichersystem_Assembley_TOP_mit gehaus
 e.pdf  used on input line 126.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=555, page=1, 1
+<circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf, id=553, page=1, 1
 195.46625pt x 845.1575pt>
 File: circuts/Energiespeichersystem_Assembley_TOP_mit gehause.pdf Graphic file 
 (type pdf)
@@ -2688,9 +2676,9 @@ Package logreq Info: Writing requests to 'WissBer_PA_SA_BA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59191 strings out of 478268
- 1359097 string characters out of 5846347
- 2344169 words of memory out of 5000000
+ 59190 strings out of 478268
+ 1359086 string characters out of 5846347
+ 2344168 words of memory out of 5000000
  76192 multiletter control sequences out of 15000+600000
  485601 words of font info for 59 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -2714,10 +2702,10 @@ exmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2022/texmf
 -dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf-d
 ist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on WissBer_PA_SA_BA.pdf (72 pages, 5485687 bytes).
+Output written on WissBer_PA_SA_BA.pdf (72 pages, 5485551 bytes).
 PDF statistics:
- 965 PDF objects out of 1000 (max. 8388607)
- 769 compressed objects within 8 object streams
- 179 named destinations out of 1000 (max. 500000)
+ 963 PDF objects out of 1000 (max. 8388607)
+ 767 compressed objects within 8 object streams
+ 178 named destinations out of 1000 (max. 500000)
  540 words of extra memory for PDF output out of 10000 (max. 10000000)
 
