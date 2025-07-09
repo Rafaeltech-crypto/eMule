@@ -17,8 +17,11 @@
 \contentsline {subsection}{\numberline {3.2.3}Circut diagram of the LV onboard power supply}{26}{subsection.3.2.3}%
 \contentsline {subsection}{\numberline {3.2.4}Circut diagram of the charger temperature control}{29}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}Circut diagram of the HV onboard power supply}{29}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}Circut diagram of the charge connector lock}{33}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Legende der Schaltzeichen}{33}{section.3.4}%
+\contentsline {subsection}{\numberline {3.2.6}Circut diagram of the charge connector lock}{33}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Legende der Schaltzeichen}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Assembly plans}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Network assembly plan}{34}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Vehicle assembly plan}{35}{subsection.3.4.2}%
 \contentsline {chapter}{\numberline {4}CD Modelling}{37}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction and Technical Background}{37}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Design Approach Using Fusion 360}{38}{section.4.2}%
@@ -36,11 +39,11 @@
 \contentsline {subsection}{\numberline {4.13.1}Cell Holder Design and Arrangement}{46}{subsection.4.13.1}%
 \contentsline {subsection}{\numberline {4.13.2}Integration of the Protective Enclosure}{50}{subsection.4.13.2}%
 \contentsline {section}{\numberline {4.14}Conclusion on the CAD Design Process}{53}{section.4.14}%
-\contentsline {chapter}{\numberline {5}Kritische Reflektion und Ausblick}{55}{chapter.5}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{59}{chapter*.34}%
-\contentsline {chapter}{\nonumberline Verzeichnis verwendeter Formelzeichen und Abkürzungen}{63}{chapter*.35}%
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{65}{chapter*.36}%
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{67}{chapter*.37}%
-\contentsline {chapter}{\nonumberline A Nutzung von Künstliche Intelligenz basierten Werkzeugen}{69}{chapter*.38}%
-\protect \contentsline {chapter}{Sachwortverzeichnis}{72}{table.caption.39}%
+\contentsline {chapter}{\numberline {5}critical reflection and perspective}{55}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{59}{chapter*.34}%
+\contentsline {chapter}{\nonumberline List of abbreviations}{63}{chapter*.35}%
+\contentsline {chapter}{\nonumberline List of Figures}{65}{chapter*.36}%
+\contentsline {chapter}{\nonumberline List of tables}{67}{chapter*.37}%
+\contentsline {chapter}{\nonumberline Use of artificial intelligence-based tools}{69}{chapter*.38}%
+\protect \contentsline {chapter}{Sachwortverzeichnis}{71}{table.caption.39}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
