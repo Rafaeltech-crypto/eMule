@@ -52,7 +52,7 @@ In order to establish the LV onboard power supply (see figure \ref{fig:lv_onboar
 	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
 	\begin{center}
 		\vspace*{-2cm} % Verschiebt die Caption um 2 cm nach oben
-		\captionof{figure}{Schaltplan des LV-Onboard-Netz} % Fügt die Caption ein
+		\captionof{figure}{Circut diagram of the LV onboard power supply} % Fügt die Caption ein
 		\label{fig:lv_onboard_network} % Für Querverweise
 	\end{center}
 }]{circuts/onboard-Netz.pdf}
@@ -84,7 +84,7 @@ The creation of the HV onboard power supply (see Figure \ref{fig:hv_onboard_netw
 \includepdf[pages=1, fitpaper=true, pagecommand={%
 	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
 	\begin{center}
-		\captionof{figure}{Schaltplan des HV-Onboard-Networks} % Fügt die Caption ein
+		\captionof{figure}{Circut diagram of the HV onboard power supply} % Fügt die Caption ein
 		\label{fig:hv_onboard_network} % Für Querverweise
 	\end{center}
 }]{circuts/HV-Onboard-Netz.pdf}
@@ -93,7 +93,15 @@ The creation of the HV onboard power supply (see Figure \ref{fig:hv_onboard_netw
 \subsection{Circut diagram of the charge connector lock }
 
 %Für die Erstellung des \textit{charge connector lock} (siehe Abbildung \ref{fig:hv_onboard_network}) Stromlaufplans nach festgelegter Norm und aktuellem Verbaustand wird zunächst eine händische Skizze des Systems, durch die für den Einbau zuständigen Kollegen, angefertigt und an das Dokumentationsteam weitergegeben. Im ersten Schritt wird dieser Stromlaufplan systematisch auf Unstimmigkeiten, wie fehlende Verbindungen oder unklare Symbolik, überprüft. Gefundene Fehler werden im nächsten Schritt markiert und anschließend korrigiert, wobei die Einhaltung elektrotechnischer Standards gewährleistet wird. Zudem erfolgt eine Layoutanpassung zur Verbesserung der Übersichtlichkeit. Im letzten Schritt muss die Normkonformität der Stromlaufplanskizze überprüft werden. Der überarbeitete Stromlaufplan wird abschließend mit Autodesk Fusion 360 in ein DIN-A3-Format übertragen. Dabei werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit sicherzustellen.
-In order to create the charge connector lock (see figure \textbf{\underline{!!!ref einfügen!!!}}), it is first necessary to create a manual sketch of the system. This is to be done according to the defined standard and current installation status. The creation of the manual sketch is the responsibility of the colleagues who are responsible for installation. It is then to be passed on to the documentation team. In the initial phase, the circuit diagram is meticulously examined for any potential discrepancies, including the absence of connections or the ambiguity of symbols. Any errors detected during this process are subsequently annotated in the subsequent stage, and then rectified, thus ensuring conformity with the relevant electrotechnical standards. The layout has been adapted to improve clarity. In the final step of the process, the conformity of the circuit diagram with the relevant standards must be checked. The revised circuit diagram is then transferred to a DIN A3 format using Autodesk Fusion 360. The integration of the title block and legend is a deliberate design choice that serves to enhance the document's professionalism and legibility.
+In order to create the charge connector lock (see figure \ref{fig:Charge_Connector_Lock_v10}), it is first necessary to create a manual sketch of the system. This is to be done according to the defined standard and current installation status. The creation of the manual sketch is the responsibility of the colleagues who are responsible for installation. It is then to be passed on to the documentation team. In the initial phase, the circuit diagram is meticulously examined for any potential discrepancies, including the absence of connections or the ambiguity of symbols. Any errors detected during this process are subsequently annotated in the subsequent stage, and then rectified, thus ensuring conformity with the relevant electrotechnical standards. The layout has been adapted to improve clarity. In the final step of the process, the conformity of the circuit diagram with the relevant standards must be checked. The revised circuit diagram is then transferred to a DIN A3 format using Autodesk Fusion 360. The integration of the title block and legend is a deliberate design choice that serves to enhance the document's professionalism and legibility.
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Circut diagram of the charge connector lock} % Fügt die Caption ein
+		\label{fig:Charge_Connector_Lock_v10} % Für Querverweise
+	\end{center}
+}]{circuts/Charge Connector Lock v10.pdf}
+\addtocounter{page}{1}
 
 \section{Legende der Schaltzeichen}
 %In der folgenden Tabelle (siehe Abbildung \ref{tab:legende}) werden die verwendeten Schaltzeichen des Stromlaufpläne gemäß der Norm DIN EN 60617 erläutert. Diese Schaltzeichen dienen dazu, die elektrischen Komponenten und deren Verbindungen im Stromlaufplan eindeutig und standardisiert darzustellen. Die Legende bietet eine Übersicht über jene Symbole, die in den vorangegangenen Stromlaufplänenplänen verwendet werden, und erleichtert so das Verständnis der Systemarchitektur und Funktionalität der einzelnen Pläne sowie des Gesamtsystems. Dieses Verzeichnis umfasst aktuell:
@@ -135,7 +143,7 @@ The subsequent table (see figure \ref{tab:legende}) provides a comprehensive exp
 
 Im weiteren Verlauf des Projekts kann dieses Verzeichnis beliebig um weitere Schaltzeichen ergänzt und angepasst werden.
 
-\begin{table}[ht]
+\begin{table}[h!]
 	\centering
 	\resizebox{0.75\textwidth}{!}{% Verkleinert die gesamte Tabelle auf 90 % der Textbreite
 		\renewcommand{\arraystretch}{1.8}
@@ -174,14 +182,34 @@ Im weiteren Verlauf des Projekts kann dieses Verzeichnis beliebig um weitere Sch
 	\caption{Legende der Symbole}
 	\label{tab:legende}
 \end{table}
-
+\newpage
 \section{Assembly plans}
 
 \subsection{Network assembly plan}
 %Die Erstellung des Netzwerkbestückungsplans (siehe Abbildung x) erfolgt gemäß dem aktuellen Verbaustand. Zu diesem Zweck wird der vorliegende Plan zunächst ausgedruckt. Im ersten Schritt erfolgt eine systematische Überprüfung des vorliegenden Stromlaufplans auf Unstimmigkeiten, wie etwa falsche oder fehlende Verbindungen sowie unklare Symbolik. Im darauffolgenden Schritt erfolgt die Markierung der identifizierten Fehler sowie deren Korrektur. Darüber hinaus wird eine Layoutanpassung vorgenommen, um die Übersichtlichkeit zu optimieren. Es ist von essentieller Bedeutung, dass die Komponenten im Plan an der identischen Position wie im Fahrzeug platziert werden. Die Darstellung der relevanten Verbindungen der Bauteile erfolgt in der Planung. Im finalen Schritt wird der überarbeitete Stromlaufplan mit Autodesk Fusion 360 in das DIN-A3-Format übertragen. In diesem Kontext werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit zu gewährleisten.
 
-The \textit{network assembly plan} (\textbf{see figure !!!Buck einfügen!!!!\underline{}}) has been formulated in accordance with the current installation status. For the purpose previously outlined, the existing plan is to be printed out. The initial step in this process is to methodically review the existing circuit diagram to identify any inconsistencies, such as erroneous or missing connections, and ambiguous symbols. In the subsequent stage, the errors that have been identified are marked and corrected. Furthermore, the layout has been meticulously revised to enhance clarity. It is imperative that the components are positioned in the same location in the plan as in the vehicle. The relevant component connections are visualised in the planning stage. In the concluding step of the process, the revised circuit diagram is transferred to DIN A3 format using Autodesk Fusion 360. In this particular context, the integration of the title block and legend is paramount to ensure both professionalism and legibility.
+The \textit{network assembly plan} (\textbf{see figure \underline{\ref{fig:Network assembly plan}}}) has been formulated in accordance with the current installation status. For the purpose previously outlined, the existing plan is to be printed out. The initial step in this process is to methodically review the existing circuit diagram to identify any inconsistencies, such as erroneous or missing connections, and ambiguous symbols. In the subsequent stage, the errors that have been identified are marked and corrected. Furthermore, the layout has been meticulously revised to enhance clarity. It is imperative that the components are positioned in the same location in the plan as in the vehicle. The relevant component connections are visualised in the planning stage. In the concluding step of the process, the revised circuit diagram is transferred to DIN A3 format using Autodesk Fusion 360. In this particular context, the integration of the title block and legend is paramount to ensure both professionalism and legibility.
+
+
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Network assembly plan} % Fügt die Caption ein
+		\label{fig:Network assembly plan} % Für Querverweise
+	\end{center}
+}]{circuts/Netzwerkübersicht_eMule.pdf}
+\addtocounter{page}{1}
 
 \subsection{Vehicle assembly plan}
 %Die Erstellung des Fahrzeugbestückungsplans (\textbf{see figure !!!Buck einfügen!!!!\underline{}}) erfolgt gemäß dem aktuellen Verbaustand. Zu diesem Zweck wird zunächst eine händische Skizze des Systems angefertigt und ausgedruckt. Im ersten Schritt erfolgt eine systematische Überprüfung des vorliegenden Stromlaufplans auf Unstimmigkeiten, wie etwa falsche oder fehlende Verbindungen sowie unklare Symbolik. Im darauffolgenden Schritt erfolgt die Markierung der identifizierten Fehler sowie deren Korrektur. Darüber hinaus wird eine Layoutanpassung vorgenommen, um die Übersichtlichkeit zu optimieren. Es ist von essentieller Bedeutung, dass die Komponenten im Plan an der identischen Position wie im Fahrzeug platziert werden. Die Darstellung der relevanten Verbindungen der Bauteile erfolgt in der Planung. Im finalen Schritt wird der überarbeitete Stromlaufplan mit Autodesk Fusion 360 in das DIN-A3-Format übertragen. In diesem Kontext werden Titelblock und Legende integriert, um die Professionalität und Lesbarkeit zu gewährleisten.
-The \textit{vehicle assembly plan} (\textbf{see figure !!!Buck einfügen!!!!\underline{}}) has been created according to the current installation status. For the purpose of illustration, a manual sketch of the system is initially created and subsequently printed. The initial step in this process is to methodically review the sketch of the assembly plan to identify any inconsistencies, such as erroneous or missing connections, and ambiguous symbols. In the subsequent stage, the errors that have been identified are marked and corrected. Furthermore, the layout has been meticulously revised to enhance clarity. The components must be placed in the plan with the utmost precision, ensuring that they are positioned identically to their counterparts in the vehicle to ensure optimal functionality. The relevant component connections are visualised during the planning phase. In the concluding step of the process, the revised circuit diagram is transferred to DIN A3 format using Autodesk Fusion 360. In this context, the title block and legend are integrated to ensure both professionalism and legibility.
+The \textit{vehicle assembly plan} (see figure \ref{fig:Assembly Drawing v7}) has been created according to the current installation status. For the purpose of illustration, a manual sketch of the system is initially created and subsequently printed. The initial step in this process is to methodically review the sketch of the assembly plan to identify any inconsistencies, such as erroneous or missing connections, and ambiguous symbols. In the subsequent stage, the errors that have been identified are marked and corrected. Furthermore, the layout has been meticulously revised to enhance clarity. The components must be placed in the plan with the utmost precision, ensuring that they are positioned identically to their counterparts in the vehicle to ensure optimal functionality. The relevant component connections are visualised during the planning phase. In the concluding step of the process, the revised circuit diagram is transferred to DIN A3 format using Autodesk Fusion 360. In this context, the title block and legend are integrated to ensure both professionalism and legibility.
+
+
+\includepdf[pages=1, fitpaper=true, pagecommand={%
+	\thispagestyle{empty} % Entfernt Seitenzahlen und Kopfzeilen
+	\begin{center}
+		\captionof{figure}{Vehicle assembly plan} % Fügt die Caption ein
+		\label{fig:Assembly Drawing v7} % Für Querverweise
+	\end{center}
+}]{circuts/Assembly Drawing v7.pdf}
+\addtocounter{page}{1}

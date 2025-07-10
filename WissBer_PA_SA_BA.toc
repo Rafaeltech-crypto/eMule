@@ -1,49 +1,49 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Intro}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Foundations}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}The history of electric vehicles}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Lithium-ion batteries}{8}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Standards for drawing circuit symbols}{11}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Autodesk Fusion 360}{13}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Documentation}{15}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Installation instructions Fusion 360}{16}{section.3.1}%
-\contentsline {paragraph}{\nonumberline Registration}{16}{paragraph*.20}%
-\contentsline {paragraph}{\nonumberline E-Mail verification}{16}{paragraph*.22}%
-\contentsline {paragraph}{\nonumberline Completion of the profile information}{17}{paragraph*.24}%
-\contentsline {paragraph}{\nonumberline Access to the Download-area}{17}{paragraph*.28}%
-\contentsline {section}{\numberline {3.2}Circuit diagrams}{20}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Circuit diagram of the battery circuit}{20}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Circut diagram of the motor controller}{23}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Circut diagram of the LV onboard power supply}{26}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Circut diagram of the charger temperature control}{29}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Circut diagram of the HV onboard power supply}{29}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}Circut diagram of the charge connector lock}{33}{subsection.3.2.6}%
-\contentsline {section}{\numberline {3.3}Legende der Schaltzeichen}{33}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Assembly plans}{34}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Network assembly plan}{34}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Vehicle assembly plan}{35}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}CD Modelling}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction and Technical Background}{37}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Design Approach Using Fusion 360}{38}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Design and Development of a Modular Lithium-Ion Battery System}{39}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Introduction}{40}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Parametric Modeling Principles}{40}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Base Geometry and Cell Arrangement}{41}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Feature Addition: Sensor Integration and Cable Management}{41}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Assembly Modeling and Component Placement}{42}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Design for Additive Manufacturing (DfAM) Considerations}{42}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Manufacturing Preparation and Export}{43}{section.4.10}%
-\contentsline {section}{\numberline {4.11}Iterative Refinement and Version Control}{43}{section.4.11}%
-\contentsline {section}{\numberline {4.12}Application Context: Battery Housing for the E-Mule Energy Storage System}{43}{section.4.12}%
-\contentsline {section}{\numberline {4.13}Detailed CAD Design Process in Fusion 360}{46}{section.4.13}%
-\contentsline {subsection}{\numberline {4.13.1}Cell Holder Design and Arrangement}{46}{subsection.4.13.1}%
-\contentsline {subsection}{\numberline {4.13.2}Integration of the Protective Enclosure}{50}{subsection.4.13.2}%
-\contentsline {section}{\numberline {4.14}Conclusion on the CAD Design Process}{53}{section.4.14}%
-\contentsline {chapter}{\numberline {5}critical reflection and perspective}{55}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{59}{chapter*.34}%
-\contentsline {chapter}{\nonumberline List of abbreviations}{63}{chapter*.35}%
-\contentsline {chapter}{\nonumberline List of Figures}{65}{chapter*.36}%
-\contentsline {chapter}{\nonumberline List of tables}{67}{chapter*.37}%
-\contentsline {chapter}{\nonumberline Use of artificial intelligence-based tools}{69}{chapter*.38}%
-\protect \contentsline {chapter}{Sachwortverzeichnis}{71}{table.caption.39}%
+\contentsline {chapter}{\numberline {2}Foundations}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}The history of electric vehicles}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Lithium-ion batteries}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Technical Context of a Battery Enclosure}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Standards for drawing circuit symbols}{14}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Autodesk Fusion 360}{17}{section.2.5}%
+\contentsline {section}{\numberline {2.6}3D Design Approach Using Fusion 360}{18}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Documentation}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Installation instructions Fusion 360}{22}{section.3.1}%
+\contentsline {paragraph}{\nonumberline Registration}{22}{paragraph*.22}%
+\contentsline {paragraph}{\nonumberline E-Mail verification}{22}{paragraph*.24}%
+\contentsline {paragraph}{\nonumberline Completion of the profile information}{23}{paragraph*.26}%
+\contentsline {paragraph}{\nonumberline Access to the Download-area}{23}{paragraph*.30}%
+\contentsline {section}{\numberline {3.2}Circuit diagrams}{26}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Circuit diagram of the battery circuit}{26}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Circut diagram of the motor controller}{29}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Circut diagram of the LV onboard power supply}{32}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Circut diagram of the charger temperature control}{35}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Circut diagram of the HV onboard power supply}{35}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Circut diagram of the charge connector lock}{39}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Legende der Schaltzeichen}{42}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Assembly plans}{44}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Network assembly plan}{44}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Vehicle assembly plan}{47}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}3D Modelling}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design and Development of a Modular Lithium-Ion Battery System}{51}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Parametric Modeling Principles}{52}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Base Geometry and Cell Arrangement}{52}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Feature Addition: Sensor Integration and Cable Management}{53}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Assembly Modeling and Component Placement}{53}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Design for Additive Manufacturing (DfAM) Considerations}{54}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Manufacturing Preparation and Export}{54}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Iterative Refinement and Version Control}{54}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Application Context: Battery Housing for the E-Mule Energy Storage System}{55}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Detailed CAD Design Process in Fusion 360}{58}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Cell Holder Design and Arrangement}{58}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}Integration of the Protective Enclosure}{62}{subsection.4.10.2}%
+\contentsline {chapter}{\numberline {5}critical reflection and perspective}{67}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion on the CAD Design Process}{68}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Hiuer fehlt ne überschrift aber mir ist nix eingefallen}{69}{section.5.2}%
+\contentsline {chapter}{\nonumberline Bibliography}{71}{chapter*.36}%
+\contentsline {chapter}{\nonumberline List of abbreviations}{75}{chapter*.37}%
+\contentsline {chapter}{\nonumberline List of Figures}{77}{chapter*.38}%
+\contentsline {chapter}{\nonumberline List of tables}{79}{chapter*.39}%
+\contentsline {chapter}{\nonumberline Use of artificial intelligence-based tools}{81}{chapter*.40}%
+\protect \contentsline {chapter}{Sachwortverzeichnis}{83}{table.caption.41}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

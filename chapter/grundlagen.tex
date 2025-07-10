@@ -92,6 +92,17 @@ In the context of lithium-ion battery operation, the positive electrode function
 Lithium-ion batteries exhibit a substantial temperature dependency. It has been demonstrated that, at low temperatures, there is a substantial increase in internal resistance. This phenomenon can be attributed to the reduced rate of chemical reactions within the cell. Furthermore, it is imperative to refrain from overcharging the battery, as this can precipitate so-called decay reactions. The intensity of these reactions is contingent on the materials utilised for the cell components, with the potential to exert a substantial influence on the service life and safety of the battery.\autocite[S. 15f.]{Korthauer.2013}
 
 
+\section{Technical Context of a Battery Enclosure}
+Battery enclosures are critical components in the design of energy storage systems, particularly in mobile and compact applications. They serve as structural containers for lithium-ion cells and provide necessary protection against environmental and mechanical influences. Their design must reconcile several competing requirements: mechanical robustness, thermal management, electrical insulation, compactness, and manufacturability. With the increasing adoption of 3D printing technologies, engineers now have more flexibility to prototype and produce such enclosures, particularly for small-series or custom applications \cite{gebhardt2016}.
+
+Modern lithium-ion cells come in standardized formats, such as cylindrical (e.g., 18650), prismatic, or pouch cells. Each of these formats imposes specific geometric and thermal constraints on the enclosure. Cylindrical cells, for example, are highly space-efficient in tightly packed arrays but require firm fixation and vibration dampening, as well as thermal spacing to avoid overheating. Enclosures for such cells often include integrated cell holders, structural ribs, and defined cooling pathways \cite{pistoia2018}. 
+
+An essential consideration in battery pack design is thermal management. Since lithium-ion batteries are sensitive to excessive heat, the enclosure must ensure proper heat dissipation. Passive solutions, such as airflow channels or thermally conductive plastics, can be incorporated into the design. In high-performance applications, the enclosure may include embedded cooling elements. The thermal behavior of the entire assembly must be taken into account early in the design phase to avoid heat accumulation and ensure battery safety and longevity.
+
+Mechanical constraints also play a decisive role. Battery packs are often subjected to vibration, shocks, and compression forces. Therefore, the housing material must be both strong and lightweight. Common materials used in 3D printing for such applications include ABS, PETG, and polyamide (PA12), each of which offers a specific balance of mechanical resilience, thermal resistance, and printability \cite{gebhardt2016}.
+
+The enclosure design must also accommodate connectors, cable guides, ventilation openings, and possibly fasteners for mounting within a device or vehicle. All of these features must be precisely aligned and dimensioned to ensure a secure and reliable assembly. Such complexity makes parametric and constraint-based design software particularly valuable.
+
 \section{Standards for drawing circuit symbols}
 
 %\subsection*{Entstehung und Bedeutung von Normen}
@@ -152,4 +163,18 @@ The release of AutoCAD in 1982 set an important milestone for computer-aided des
 The advent of novel requirements within the manufacturing industry, coupled with the integration of electronics into mechanical systems, prompted Autodesk to embark on the development of a novel software type. The objective of this initiative was to consolidate mechanical and electronic development on a unified platform, thereby facilitating collaborative, cloud-based operations. This development subsequently led to the introduction of Fusion 360 in 2013.\autocite{wikipedia_autodesk_deutsch}
 %Durch die Integration traditioneller CAD/CAM/CAE-Funktionen und die cloudbasierte Zusammenarbeit wurde Fusion 360 zu einem beliebten Werkzeug in der Produktentwicklung und verhalf Autodesk zu einer neuen Marktposition im Bereich der digitalen Fertigung.
 The integration of conventional CAD/CAM/CAE functions with cloud-based collaboration has resulted in the popularity of Fusion 360 as a tool in product development, thereby enabling Autodesk to achieve a novel market position in the domain of digital manufacturing.
+
+
+\section{3D Design Approach Using Fusion 360}
+Autodesk Fusion 360 provides an integrated environment for computer aided design (CAD), simulation, and Computer-Aided Manufacturing (CAM), which makes it particularly well-suited for iterative design and prototyping of technical components like battery enclosures. Its parametric modeling capabilities allow engineers to define the relationships between different parts of the geometry, ensuring that dimensional adjustments propagate automatically throughout the model \cite{hogan2025}.
+
+Using Fusion 360, a designer can first define a master sketch that includes key dimensions such as cell spacing, wall thickness, and screw positions. Through extrusion and patterning, these base geometries are transformed into 3D solids. Additional features such as ventilation slots or mounting flanges can be added using derived sketches and Boolean operations\cite{hogan2025}..
+
+Assemblies in Fusion 360 enable designers to position and constrain battery cells within the enclosure, simulating real-world configurations. This allows for spatial validation and interference checking early in the process, reducing the risk of design flaws during manufacturing\cite{hogan2025}..
+
+Moreover, Fusion 360 supports exporting the final design directly into formats suitable for additive manufacturing, such as STL or 3MF. This integration streamlines the workflow from design to production, making it ideal for rapid prototyping and validation\cite{hogan2025}..
+
+From a manufacturability perspective, the designer must also follow principles of Design for Additive Manufacturing (DfAM). This includes minimizing unsupported overhangs, ensuring even wall thicknesses, and aligning features for optimal layer orientation. Fusion 360 offers visualization tools and slicer integration to help evaluate the printability of the part \cite{anderson2020}.
+
+In summary, Fusion 360 offers the necessary flexibility and functionality to develop complex battery enclosures that meet structural, thermal, and electrical requirements. Its parametric design environment, combined with visualization and export tools, makes it an effective platform for realizing functional prototypes that are ready for testing and refinement.
 

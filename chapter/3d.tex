@@ -1,35 +1,10 @@
-\chapter{CD Modelling}
-\section{Introduction and Technical Background}
-Battery enclosures are critical components in the design of energy storage systems, particularly in mobile and compact applications. They serve as structural containers for lithium-ion cells and provide necessary protection against environmental and mechanical influences. Their design must reconcile several competing requirements: mechanical robustness, thermal management, electrical insulation, compactness, and manufacturability. With the increasing adoption of 3D printing technologies, engineers now have more flexibility to prototype and produce such enclosures, particularly for small-series or custom applications \cite{gebhardt2016}.
-
-Modern lithium-ion cells come in standardized formats, such as cylindrical (e.g., 18650), prismatic, or pouch cells. Each of these formats imposes specific geometric and thermal constraints on the enclosure. Cylindrical cells, for example, are highly space-efficient in tightly packed arrays but require firm fixation and vibration dampening, as well as thermal spacing to avoid overheating. Enclosures for such cells often include integrated cell holders, structural ribs, and defined cooling pathways \cite{pistoia2018}. 
-
-An essential consideration in battery pack design is thermal management. Since lithium-ion batteries are sensitive to excessive heat, the enclosure must ensure proper heat dissipation. Passive solutions, such as airflow channels or thermally conductive plastics, can be incorporated into the design. In high-performance applications, the enclosure may include embedded cooling elements. The thermal behavior of the entire assembly must be taken into account early in the design phase to avoid heat accumulation and ensure battery safety and longevity.
-
-Mechanical constraints also play a decisive role. Battery packs are often subjected to vibration, shocks, and compression forces. Therefore, the housing material must be both strong and lightweight. Common materials used in 3D printing for such applications include ABS, PETG, and polyamide (PA12), each of which offers a specific balance of mechanical resilience, thermal resistance, and printability \cite{gebhardt2016}.
-
-The enclosure design must also accommodate connectors, cable guides, ventilation openings, and possibly fasteners for mounting within a device or vehicle. All of these features must be precisely aligned and dimensioned to ensure a secure and reliable assembly. Such complexity makes parametric and constraint-based design software particularly valuable.
-
-\section{Design Approach Using Fusion 360}
-Autodesk Fusion 360 provides an integrated environment for computer aided design (CAD), simulation, and Computer-Aided Manufacturing (CAM), which makes it particularly well-suited for iterative design and prototyping of technical components like battery enclosures. Its parametric modeling capabilities allow engineers to define the relationships between different parts of the geometry, ensuring that dimensional adjustments propagate automatically throughout the model \cite{hogan2025}.
-
-Using Fusion 360, a designer can first define a master sketch that includes key dimensions such as cell spacing, wall thickness, and screw positions. Through extrusion and patterning, these base geometries are transformed into 3D solids. Additional features such as ventilation slots or mounting flanges can be added using derived sketches and Boolean operations\cite{hogan2025}..
-
-Assemblies in Fusion 360 enable designers to position and constrain battery cells within the enclosure, simulating real-world configurations. This allows for spatial validation and interference checking early in the process, reducing the risk of design flaws during manufacturing\cite{hogan2025}..
-
-Moreover, Fusion 360 supports exporting the final design directly into formats suitable for additive manufacturing, such as STL or 3MF. This integration streamlines the workflow from design to production, making it ideal for rapid prototyping and validation\cite{hogan2025}..
-
-From a manufacturability perspective, the designer must also follow principles of Design for Additive Manufacturing (DfAM). This includes minimizing unsupported overhangs, ensuring even wall thicknesses, and aligning features for optimal layer orientation. Fusion 360 offers visualization tools and slicer integration to help evaluate the printability of the part \cite{anderson2020}.
-
-In summary, Fusion 360 offers the necessary flexibility and functionality to develop complex battery enclosures that meet structural, thermal, and electrical requirements. Its parametric design environment, combined with visualization and export tools, makes it an effective platform for realizing functional prototypes that are ready for testing and refinement.
-
+\chapter{3D Modelling}
+The design of battery housings is an essential step in developing reliable energy storage systems. Autodesk Fusion 360 offers an integrated CAD environment ideal for creating precise and adaptable models, especially when targeting additive manufacturing methods. This section focuses on the detailed process of creating, structuring, and refining battery enclosure CAD files within Fusion 360, emphasizing parametric design and manufacturability \cite{hogan2025}.
 \section{Design and Development of a Modular Lithium-Ion Battery System}
 
 The design illustrates a modular lithium-ion battery storage system, developed for high-density energy applications such as stationary energy storage, backup infrastructure, or mobile electrification platforms. The system is based on 21700-format lithium-ion cells, arranged in a densely packed structural configuration to optimize both volumetric energy density and thermal dissipation properties. The design process was carried out using CAD modeling tools, including parametric 3D assemblies, with iterative thermal and structural simulations executed to ensure mechanical and thermal stability under nominal and elevated load conditions.
 
-\section{Introduction}
 
-The design of battery housings is an essential step in developing reliable energy storage systems. Autodesk Fusion 360 offers an integrated CAD environment ideal for creating precise and adaptable models, especially when targeting additive manufacturing methods. This section focuses on the detailed process of creating, structuring, and refining battery enclosure CAD files within Fusion 360, emphasizing parametric design and manufacturability \cite{hogan2025}.
 
 \section{Parametric Modeling Principles}
 
@@ -129,14 +104,10 @@ The final design step was the addition of a functional enclosure as seen in \ref
 
 The enclosure follows the contour of the internal components closely, minimizing unused space while allowing air to circulate between components. To accommodate additive manufacturing constraints, all overhangs were designed with a maximum angle of 45°, and fillets were added at all interior corners to prevent stress concentration. A removable lid was included to enable servicing of the battery.
 
-The following figure illustrates the fully enclosed battery system, ready for 3D printing.
+The figure seen in  \ref{fig:AssemblyHousing} illustrates the fully enclosed battery system, ready for 3D printing.
 
 % Assembly mit Gehäuse
 
 
-\section{Conclusion on the CAD Design Process}
 
-Using Fusion 360 allowed for a highly structured, iterative, and parametric modeling workflow. All geometric relationships between components were carefully maintained, which significantly simplified later adjustments. The use of parametric sketches and pattern tools proved crucial in efficiently laying out large arrays of repetitive features, such as the cell holders.
-
-The final result is a complete digital twin of the battery system, suited for additive manufacturing and integration in the E-Mule platform. While no physical tests or simulations were performed, the model meets the spatial, mechanical, and packaging criteria outlined at the beginning of the project.
 
